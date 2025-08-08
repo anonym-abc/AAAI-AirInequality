@@ -1,0 +1,716 @@
+district,mpi,state
+Anantapur,0.027,Andhra Pradesh
+Chittoor,0.022,Andhra Pradesh
+East Godavari,0.027,Andhra Pradesh
+Guntur,0.016,Andhra Pradesh
+Krishna,0.017,Andhra Pradesh
+Kurnool,0.054,Andhra Pradesh
+Prakasam,0.027,Andhra Pradesh
+SPSR Nellore,0.023,Andhra Pradesh
+Srikakulam,0.022,Andhra Pradesh
+Visakhapatanam,0.031,Andhra Pradesh
+Vizianagaram,0.035,Andhra Pradesh
+West Godavari,0.01,Andhra Pradesh
+Y.S.R. (Kadapa),0.013,Andhra Pradesh
+Anjaw,0.057,Arunachal Pradesh
+Changlang,0.063,Arunachal Pradesh
+Dibang Valley,0.043,Arunachal Pradesh
+East Kameng,0.095,Arunachal Pradesh
+East Siang,0.033,Arunachal Pradesh
+Kra Daadi,0.083,Arunachal Pradesh
+Kurung Kumey,0.045,Arunachal Pradesh
+Lohit,0.053,Arunachal Pradesh
+Longding,0.092,Arunachal Pradesh
+Lower Dibang Valley,0.037,Arunachal Pradesh
+Lower Subansiri,0.025,Arunachal Pradesh
+Namsai,0.101,Arunachal Pradesh
+Papum Pare,0.06,Arunachal Pradesh
+Siang,0.036,Arunachal Pradesh
+Tawang,0.035,Arunachal Pradesh
+Tirap,0.067,Arunachal Pradesh
+Upper Siang,0.035,Arunachal Pradesh
+Upper Subansiri,0.083,Arunachal Pradesh
+West Kameng,0.019,Arunachal Pradesh
+West Siang,0.058,Arunachal Pradesh
+Baksa,0.064,Assam
+Barpeta,0.083,Assam
+Biswanath,0.102,Assam
+Bongaigaon,0.075,Assam
+Cachar,0.14,Assam
+Charaideo,0.095,Assam
+Chirang,0.071,Assam
+Darrang,0.1,Assam
+Dhemaji,0.056,Assam
+Dhubri,0.116,Assam
+Dibrugarh,0.056,Assam
+Dima Hasao,0.061,Assam
+Goalpara,0.081,Assam
+Golaghat,0.065,Assam
+Hailakandi,0.164,Assam
+Hojai,0.059,Assam
+Jorhat,0.051,Assam
+Kamrup,0.053,Assam
+Kamrup Metro,0.024,Assam
+Karbi Anglong,0.068,Assam
+Karimganj,0.153,Assam
+Kokrajhar,0.083,Assam
+Lakhimpur,0.061,Assam
+Majuli,0.056,Assam
+Marigaon,0.1,Assam
+Nagaon,0.093,Assam
+Nalbari,0.049,Assam
+Sivasagar,0.044,Assam
+Sonitpur,0.09,Assam
+South Salmara Mancachar,0.131,Assam
+Tinsukia,0.081,Assam
+Udalguri,0.082,Assam
+West Karbi Anglong,0.107,Assam
+Balod,0.022,Chhattisgarh
+Baloda Bazar,0.066,Chhattisgarh
+Balrampur,0.143,Chhattisgarh
+Bastar,0.159,Chhattisgarh
+Bemetara,0.07,Chhattisgarh
+Bijapur,0.262,Chhattisgarh
+Bilaspur,0.068,Chhattisgarh
+Dantewada,0.135,Chhattisgarh
+Dhamtari,0.023,Chhattisgarh
+Durg,0.014,Chhattisgarh
+Gariyaband,0.072,Chhattisgarh
+Janjgir-Champa,0.046,Chhattisgarh
+Jashpur,0.107,Chhattisgarh
+Kabirdham,0.057,Chhattisgarh
+Kondagaon,0.117,Chhattisgarh
+Korba,0.077,Chhattisgarh
+Korea,0.085,Chhattisgarh
+Mahasamund,0.051,Chhattisgarh
+Mungeli,0.066,Chhattisgarh
+Narayanpur,0.183,Chhattisgarh
+Raigarh,0.08,Chhattisgarh
+Raipur,0.036,Chhattisgarh
+Rajnandgaon,0.043,Chhattisgarh
+Sukma,0.205,Chhattisgarh
+Surajpur,0.095,Chhattisgarh
+Surguja,0.107,Chhattisgarh
+"Uttar Bastar Kanker
+(Kanker)",0.055,Chhattisgarh
+Ahmedabad,0.022,Gujarat
+Amreli,0.03,Gujarat
+Anand,0.044,Gujarat
+Arvalli,0.08,Gujarat
+Banas Kantha,0.11,Gujarat
+Bharuch,0.051,Gujarat
+Bhavnagar,0.053,Gujarat
+Botad,0.043,Gujarat
+Chhotaudepur,0.116,Gujarat
+Dang,0.113,Gujarat
+Devbhumi Dwarka,0.078,Gujarat
+Dohad,0.174,Gujarat
+Gandhinagar,0.023,Gujarat
+Gir Somnath,0.037,Gujarat
+Jamnagar,0.031,Gujarat
+Junagadh,0.03,Gujarat
+Kachchh,0.047,Gujarat
+Kheda,0.07,Gujarat
+Mahesana,0.04,Gujarat
+Mahisagar,0.068,Gujarat
+Morbi,0.036,Gujarat
+Narmada,0.099,Gujarat
+Navsari,0.02,Gujarat
+Panch Mahals,0.076,Gujarat
+Patan,0.054,Gujarat
+Porbandar,0.016,Gujarat
+Rajkot,0.016,Gujarat
+Sabar Kantha,0.095,Gujarat
+Surat,0.022,Gujarat
+Surendranagar,0.048,Gujarat
+Tapi,0.07,Gujarat
+Vadodara,0.027,Gujarat
+Valsad,0.034,Gujarat
+Ambala,0.016,Haryana
+Bhiwani,0.026,Haryana
+Charki Dadri,0.012,Haryana
+Faridabad,0.032,Haryana
+Fatehabad,0.031,Haryana
+Gurugram,0.013,Haryana
+Hisar,0.023,Haryana
+Jhajjar,0.013,Haryana
+Jind,0.029,Haryana
+Kaithal,0.015,Haryana
+Karnal,0.014,Haryana
+Kurukshetra,0.018,Haryana
+Mahendragarh,0.02,Haryana
+Nuh (Mewat),0.195,Haryana
+Palwal,0.068,Haryana
+Panchkula,0.006,Haryana
+Panipat,0.03,Haryana
+Rewari,0.012,Haryana
+Rohtak,0.02,Haryana
+Sirsa,0.029,Haryana
+Sonipat,0.016,Haryana
+Yamunanagar,0.019,Haryana
+Bilaspur,0.02,Himachal Pradesh
+Chamba,0.04,Himachal Pradesh
+Hamirpur,0.02,Himachal Pradesh
+Kangra,0.017,Himachal Pradesh
+Kinnaur,0.016,Himachal Pradesh
+Kullu,0.028,Himachal Pradesh
+Lahul and Spiti,0.029,Himachal Pradesh
+Mandi,0.017,Himachal Pradesh
+Shimla,0.013,Himachal Pradesh
+Sirmaur,0.024,Himachal Pradesh
+Solan,0.016,Himachal Pradesh
+Una,0.023,Himachal Pradesh
+Bokaro,0.067,Jharkhand
+Chatra,0.177,Jharkhand
+Deoghar,0.177,Jharkhand
+Dhanbad,0.074,Jharkhand
+Dumka,0.178,Jharkhand
+Garhwa,0.16,Jharkhand
+Giridih,0.133,Jharkhand
+Godda,0.168,Jharkhand
+Gumla,0.137,Jharkhand
+Hazaribagh,0.11,Jharkhand
+Jamtara,0.129,Jharkhand
+Khunti,0.152,Jharkhand
+Koderma,0.121,Jharkhand
+Latehar,0.189,Jharkhand
+Lohardaga,0.099,Jharkhand
+Pakur,0.244,Jharkhand
+Palamu,0.144,Jharkhand
+"Pashchimi Singhbhum
+(West Singhbhum)",0.241,Jharkhand
+"Purbi Singhbhum
+(East Singhbhum)",0.065,Jharkhand
+Ramgarh,0.077,Jharkhand
+Ranchi,0.065,Jharkhand
+Sahebganj,0.243,Jharkhand
+Saraikela-Kharsawan,0.103,Jharkhand
+Simdega,0.139,Jharkhand
+Bagalkote,0.044,Karnataka
+"Bangalore
+(Bengaluru Urban)",0.007,Karnataka
+"Bangalore Rural
+(Bengaluru Rural )",0.004,Karnataka
+Belagavi,0.037,Karnataka
+Bellary (Ballari),0.052,Karnataka
+Bidar,0.045,Karnataka
+Bijapur (Vijayapura),0.068,Karnataka
+Chamarajanagara,0.021,Karnataka
+Chikkaballapura,0.014,Karnataka
+Chikkamagaluru,0.015,Karnataka
+Chitradurga,0.023,Karnataka
+Dakshina Kannada,0.006,Karnataka
+Davangere,0.023,Karnataka
+Dharwad,0.022,Karnataka
+Gadag,0.062,Karnataka
+Gulbarga (Kalaburagi),0.075,Karnataka
+Hassan,0.009,Karnataka
+Haveri,0.045,Karnataka
+Kodagu,0.018,Karnataka
+Kolar,0.007,Karnataka
+Koppal,0.078,Karnataka
+Mandya,0.009,Karnataka
+Mysuru,0.008,Karnataka
+Raichur,0.09,Karnataka
+Ramanagara,0.004,Karnataka
+Shivamogga,0.013,Karnataka
+Tumakuru,0.017,Karnataka
+Udupi,0.015,Karnataka
+Uttara Kannada,0.018,Karnataka
+Yadgir,0.116,Karnataka
+Alappuzha,0.0,Kerala
+Ernakulam,0.0,Kerala
+Idukki,0.004,Kerala
+Kannur,0.0,Kerala
+Kasaragod,0.006,Kerala
+Kollam,0.0,Kerala
+Kottayam,0.001,Kerala
+Kozhikode,0.002,Kerala
+Malappuram,0.003,Kerala
+Palakkad,0.005,Kerala
+Pathanamthitta,0.001,Kerala
+Thiruvananthapuram,0.002,Kerala
+Thrissur,0.0,Kerala
+Wayanad,0.011,Kerala
+Agar Malwa,0.062,Madhya Pradesh
+Alirajpur,0.192,Madhya Pradesh
+Anuppur,0.082,Madhya Pradesh
+Ashoknagar,0.119,Madhya Pradesh
+Balaghat,0.055,Madhya Pradesh
+Barwani,0.167,Madhya Pradesh
+Betul,0.093,Madhya Pradesh
+Bhind,0.076,Madhya Pradesh
+Bhopal,0.031,Madhya Pradesh
+Burhanpur,0.086,Madhya Pradesh
+Chhatarpur,0.116,Madhya Pradesh
+Chhindwara,0.06,Madhya Pradesh
+Damoh,0.12,Madhya Pradesh
+Datia,0.065,Madhya Pradesh
+Dewas,0.054,Madhya Pradesh
+Dhar,0.077,Madhya Pradesh
+Dindori,0.145,Madhya Pradesh
+Guna,0.105,Madhya Pradesh
+Gwalior,0.041,Madhya Pradesh
+Harda,0.058,Madhya Pradesh
+"Hoshangabad
+(Narmadapuram)",0.062,Madhya Pradesh
+Indore,0.023,Madhya Pradesh
+Jabalpur,0.057,Madhya Pradesh
+Jhabua,0.243,Madhya Pradesh
+Katni,0.091,Madhya Pradesh
+Khandwa (East Nimar),0.067,Madhya Pradesh
+Khargone (West Nimar),0.082,Madhya Pradesh
+Mandla,0.119,Madhya Pradesh
+Mandsaur,0.074,Madhya Pradesh
+Morena,0.099,Madhya Pradesh
+Narsinghpur,0.063,Madhya Pradesh
+Neemuch,0.041,Madhya Pradesh
+Panna,0.143,Madhya Pradesh
+Raisen,0.057,Madhya Pradesh
+Rajgarh,0.107,Madhya Pradesh
+Ratlam,0.091,Madhya Pradesh
+Rewa,0.133,Madhya Pradesh
+Sagar,0.092,Madhya Pradesh
+Satna,0.08,Madhya Pradesh
+Sehore,0.049,Madhya Pradesh
+Seoni,0.094,Madhya Pradesh
+Shahdol,0.099,Madhya Pradesh
+Shajapur,0.058,Madhya Pradesh
+Sheopur,0.183,Madhya Pradesh
+Shivpuri,0.126,Madhya Pradesh
+Sidhi,0.145,Madhya Pradesh
+Singrauli,0.144,Madhya Pradesh
+Tikamgarh,0.089,Madhya Pradesh
+Ujjain,0.061,Madhya Pradesh
+Umaria,0.098,Madhya Pradesh
+Vidisha,0.102,Madhya Pradesh
+Ahmednagar,0.027,Maharashtra
+Akola,0.024,Maharashtra
+Amravati,0.033,Maharashtra
+Aurangabad,0.039,Maharashtra
+Bhandara,0.022,Maharashtra
+Bid (Beed),0.051,Maharashtra
+Buldhana,0.037,Maharashtra
+Chandrapur,0.024,Maharashtra
+Dhule,0.099,Maharashtra
+Gadchiroli,0.05,Maharashtra
+Gondia,0.032,Maharashtra
+Hingoli,0.048,Maharashtra
+Jalgaon,0.058,Maharashtra
+Jalna,0.059,Maharashtra
+Kolhapur,0.017,Maharashtra
+Latur,0.025,Maharashtra
+Mumbai,0.005,Maharashtra
+Mumbai Suburban,0.004,Maharashtra
+Nagpur,0.004,Maharashtra
+Nanded,0.051,Maharashtra
+Nandurbar,0.153,Maharashtra
+Nashik,0.057,Maharashtra
+Osmanabad,0.021,Maharashtra
+Palghar,0.062,Maharashtra
+Parbhani,0.061,Maharashtra
+Pune,0.012,Maharashtra
+Raigad,0.038,Maharashtra
+Ratnagiri,0.029,Maharashtra
+Sangli,0.008,Maharashtra
+Satara,0.019,Maharashtra
+Sindhudurg,0.021,Maharashtra
+Solapur,0.03,Maharashtra
+Thane,0.024,Maharashtra
+Wardha,0.01,Maharashtra
+Washim,0.061,Maharashtra
+Yavatmal,0.043,Maharashtra
+Bishnupur,0.03,Manipur
+Chandel,0.061,Manipur
+Churachandpur,0.065,Manipur
+Imphal East,0.022,Manipur
+Imphal West,0.008,Manipur
+Senapati,0.068,Manipur
+Tamenglong,0.082,Manipur
+Thoubal,0.03,Manipur
+Ukhrul,0.075,Manipur
+East Garo Hills,0.067,Meghalaya
+East Jaintia Hills,0.22,Meghalaya
+East Khasi Hills,0.112,Meghalaya
+North Garo Hills,0.058,Meghalaya
+Ri Bhoi,0.152,Meghalaya
+South Garo Hills,0.041,Meghalaya
+South West Garo Hills,0.081,Meghalaya
+South West Khasi Hills,0.183,Meghalaya
+West Garo Hills,0.034,Meghalaya
+West Jaintia Hills,0.281,Meghalaya
+West Khasi Hills,0.252,Meghalaya
+Aizawl,0.004,Mizoram
+Champhai,0.006,Mizoram
+Kolasib,0.024,Mizoram
+Lawngtlai,0.105,Mizoram
+Lunglei,0.022,Mizoram
+Mamit,0.041,Mizoram
+Saiha,0.029,Mizoram
+Serchhip,0.013,Mizoram
+Dimapur,0.032,Nagaland
+Kiphire,0.127,Nagaland
+Kohima,0.025,Nagaland
+Longleng,0.118,Nagaland
+Mokokchung,0.028,Nagaland
+Mon,0.098,Nagaland
+Peren,0.078,Nagaland
+Phek,0.072,Nagaland
+Tuensang,0.126,Nagaland
+Wokha,0.047,Nagaland
+Zunheboto,0.086,Nagaland
+Anugul,0.061,Odisha
+Balangir,0.04,Odisha
+Baleshwar,0.061,Odisha
+Bargarh,0.045,Odisha
+Baudh (Boudh),0.068,Odisha
+Bhadrak,0.066,Odisha
+Cuttack,0.025,Odisha
+Deogarh,0.07,Odisha
+Dhenkanal,0.068,Odisha
+Gajapati,0.128,Odisha
+Ganjam,0.029,Odisha
+Jagatsinghapur,0.015,Odisha
+Jajapur,0.06,Odisha
+Jharsuguda,0.028,Odisha
+Kalahandi,0.083,Odisha
+Kandhamal,0.113,Odisha
+Kendrapara,0.036,Odisha
+Kendujhar,0.128,Odisha
+Khordha,0.017,Odisha
+Koraput,0.157,Odisha
+Malkangiri,0.223,Odisha
+Mayurbhanj,0.14,Odisha
+Nabarangpur,0.157,Odisha
+Nayagarh,0.028,Odisha
+Nuapada,0.087,Odisha
+Puri,0.013,Odisha
+Rayagada,0.165,Odisha
+Sambalpur,0.041,Odisha
+Sonepur,0.035,Odisha
+Sundargarh,0.062,Odisha
+Amritsar,0.014,Punjab
+Barnala,0.023,Punjab
+Bathinda,0.033,Punjab
+Faridkot,0.025,Punjab
+Fatehgarh Sahib,0.012,Punjab
+Fazilka,0.036,Punjab
+Ferozepur,0.037,Punjab
+Gurdaspur,0.022,Punjab
+Hoshiarpur,0.006,Punjab
+Jalandhar,0.015,Punjab
+Kapurthala,0.021,Punjab
+Ludhiana,0.017,Punjab
+Mansa,0.035,Punjab
+Moga,0.022,Punjab
+"Muktsar
+(Sri Muktsar Sahib)",0.032,Punjab
+Pathankot,0.009,Punjab
+Patiala,0.012,Punjab
+Rupnagar,0.012,Punjab
+"Sahibzada Ajit Singh
+Nagar (S.A.S Nagar)",0.014,Punjab
+Sangrur,0.014,Punjab
+"Shahid Bhagat Singh
+Nagar",0.005,Punjab
+Tarn Taran,0.032,Punjab
+Ajmer,0.041,Rajasthan
+Alwar,0.089,Rajasthan
+Banswara,0.124,Rajasthan
+Baran,0.071,Rajasthan
+Barmer,0.087,Rajasthan
+Bharatpur,0.105,Rajasthan
+Bhilwara,0.064,Rajasthan
+Bikaner,0.078,Rajasthan
+Bundi,0.083,Rajasthan
+Chittorgarh,0.055,Rajasthan
+Churu,0.072,Rajasthan
+Dausa,0.058,Rajasthan
+Dholpur,0.115,Rajasthan
+Dungarpur,0.075,Rajasthan
+Ganganagar,0.039,Rajasthan
+Hanumangarh,0.04,Rajasthan
+Jaipur,0.028,Rajasthan
+Jaisalmer,0.105,Rajasthan
+Jalore,0.071,Rajasthan
+Jhalawar,0.068,Rajasthan
+Jhunjhunu,0.035,Rajasthan
+Jodhpur,0.077,Rajasthan
+Karauli,0.113,Rajasthan
+Kota,0.023,Rajasthan
+Nagaur,0.054,Rajasthan
+Pali,0.04,Rajasthan
+Pratapgarh,0.134,Rajasthan
+Rajsamand,0.055,Rajasthan
+Sawai Madhopur,0.08,Rajasthan
+Sikar,0.038,Rajasthan
+Sirohi,0.093,Rajasthan
+Tonk,0.059,Rajasthan
+Udaipur,0.063,Rajasthan
+Ariyalur,0.014,Tamil Nadu
+Chennai,0.004,Tamil Nadu
+Coimbatore,0.004,Tamil Nadu
+Cuddalore,0.014,Tamil Nadu
+Dharmapuri,0.008,Tamil Nadu
+Dindigul,0.018,Tamil Nadu
+Erode,0.005,Tamil Nadu
+Kanchipuram,0.005,Tamil Nadu
+Kanniyakumari,0.002,Tamil Nadu
+Karur,0.012,Tamil Nadu
+Krishnagiri,0.009,Tamil Nadu
+Madurai,0.007,Tamil Nadu
+Nagapattinam,0.013,Tamil Nadu
+Namakkal,0.005,Tamil Nadu
+Perambalur,0.007,Tamil Nadu
+Pudukkottai,0.018,Tamil Nadu
+Ramanathapuram,0.009,Tamil Nadu
+Salem,0.007,Tamil Nadu
+Sivaganga,0.015,Tamil Nadu
+Thanjavur,0.01,Tamil Nadu
+The Nilgiris,0.005,Tamil Nadu
+Theni,0.007,Tamil Nadu
+Thiruvallur,0.005,Tamil Nadu
+Thiruvarur,0.011,Tamil Nadu
+Thoothukkudi (Tuticorin),0.011,Tamil Nadu
+Tiruchirappalli,0.011,Tamil Nadu
+Tirunelveli,0.008,Tamil Nadu
+Tiruppur,0.007,Tamil Nadu
+Tiruvannamalai,0.01,Tamil Nadu
+Vellore,0.004,Tamil Nadu
+Villupuram,0.015,Tamil Nadu
+Virudhunagar,0.011,Tamil Nadu
+Adilabad,0.064,Telangana
+Bhadradri Kothagudem,0.017,Telangana
+Hyderabad,0.009,Telangana
+Jagitial,0.021,Telangana
+Jangoan,0.011,Telangana
+Jayashankar Bhupalapally,0.027,Telangana
+Jogulamba Gadwal,0.063,Telangana
+Kamareddy,0.049,Telangana
+Karimnagar,0.01,Telangana
+Khammam,0.014,Telangana
+Kumuram Bheem Asifabad,0.071,Telangana
+Mahabubabad,0.025,Telangana
+Mahabubnagar,0.041,Telangana
+Mancherial,0.018,Telangana
+Medak,0.037,Telangana
+Medchal-Malkajgiri,0.012,Telangana
+Nagarkurnool,0.024,Telangana
+Nalgonda,0.017,Telangana
+Nirmal,0.03,Telangana
+Nizamabad,0.028,Telangana
+Peddapalli,0.008,Telangana
+Rajanna Sircilla,0.015,Telangana
+Ranga Reddy,0.016,Telangana
+Sangareddy,0.03,Telangana
+Siddipet,0.013,Telangana
+Suryapet,0.015,Telangana
+Vikarabad,0.05,Telangana
+Wanaparthy,0.038,Telangana
+Warangal Rural,0.025,Telangana
+Warangal Urban,0.01,Telangana
+Yadadri Bhuvanagiri,0.016,Telangana
+Dhalai,0.096,Tripura
+Gomati,0.037,Tripura
+Khowai,0.073,Tripura
+North Tripura,0.078,Tripura
+Sepahijala,0.049,Tripura
+South Tripura,0.054,Tripura
+Unakoti,0.109,Tripura
+West Tripura,0.024,Tripura
+Agra,0.08,Uttar Pradesh
+Aligarh,0.095,Uttar Pradesh
+Allahabad (Prayagraj),0.094,Uttar Pradesh
+Ambedkar Nagar,0.085,Uttar Pradesh
+Amethi,0.131,Uttar Pradesh
+Auraiya,0.084,Uttar Pradesh
+Azamgarh,0.071,Uttar Pradesh
+Baghpat,0.06,Uttar Pradesh
+Bahraich,0.285,Uttar Pradesh
+Ballia,0.087,Uttar Pradesh
+Balrampur,0.209,Uttar Pradesh
+Banda,0.154,Uttar Pradesh
+Barabanki,0.145,Uttar Pradesh
+Bareilly,0.106,Uttar Pradesh
+Basti,0.087,Uttar Pradesh
+Bijnor,0.07,Uttar Pradesh
+Budaun,0.188,Uttar Pradesh
+Bulandshahr,0.074,Uttar Pradesh
+Chandauli,0.113,Uttar Pradesh
+Chitrakoot,0.141,Uttar Pradesh
+Deoria,0.068,Uttar Pradesh
+Etah,0.11,Uttar Pradesh
+Etawah,0.064,Uttar Pradesh
+Faizabad (Ayodhya),0.078,Uttar Pradesh
+Farrukhabad,0.112,Uttar Pradesh
+Fatehpur,0.123,Uttar Pradesh
+Firozabad,0.08,Uttar Pradesh
+Gautam Buddha Nagar,0.048,Uttar Pradesh
+Ghaziabad,0.03,Uttar Pradesh
+Ghazipur,0.073,Uttar Pradesh
+Gonda,0.135,Uttar Pradesh
+Gorakhpur,0.069,Uttar Pradesh
+Hamirpur,0.071,Uttar Pradesh
+Hapur,0.053,Uttar Pradesh
+Hardoi,0.155,Uttar Pradesh
+Jalaun,0.077,Uttar Pradesh
+Jaunpur,0.064,Uttar Pradesh
+Jhansi,0.063,Uttar Pradesh
+Jyotiba Phule Nagar (Amroha),0.096,Uttar Pradesh
+Kannauj,0.124,Uttar Pradesh
+Kanpur Dehat,0.091,Uttar Pradesh
+Kanpur Nagar,0.039,Uttar Pradesh
+Kasganj,0.142,Uttar Pradesh
+Kaushambi,0.144,Uttar Pradesh
+Kheri,0.159,Uttar Pradesh
+Kushi Nagar,0.091,Uttar Pradesh
+Lalitpur,0.131,Uttar Pradesh
+Lucknow,0.036,Uttar Pradesh
+Mahamaya Nagar (Hathras),0.096,Uttar Pradesh
+Mahrajganj,0.085,Uttar Pradesh
+Mahoba,0.103,Uttar Pradesh
+Mainpuri,0.077,Uttar Pradesh
+Mathura,0.097,Uttar Pradesh
+Mau,0.056,Uttar Pradesh
+Meerut,0.059,Uttar Pradesh
+Mirzapur,0.095,Uttar Pradesh
+Moradabad,0.081,Uttar Pradesh
+Muzaffarnagar,0.059,Uttar Pradesh
+Pilibhit,0.098,Uttar Pradesh
+Pratapgarh,0.092,Uttar Pradesh
+Rae Bareli,0.097,Uttar Pradesh
+Rampur,0.103,Uttar Pradesh
+Saharanpur,0.078,Uttar Pradesh
+Sambhal,0.164,Uttar Pradesh
+Sant Kabeer Nagar,0.101,Uttar Pradesh
+Sant Ravidas Nagar (Bhadohi),0.094,Uttar Pradesh
+Shamli,0.102,Uttar Pradesh
+Shravasti,0.249,Uttar Pradesh
+Siddharth Nagar,0.179,Uttar Pradesh
+Sitapur,0.189,Uttar Pradesh
+Sonbhadra,0.141,Uttar Pradesh
+Sultanpur,0.093,Uttar Pradesh
+Unnao,0.107,Uttar Pradesh
+Varanasi,0.066,Uttar Pradesh
+Almora,0.036,Uttarakhand
+Bageshwar,0.029,Uttarakhand
+Chamoli,0.025,Uttarakhand
+Champawat,0.037,Uttarakhand
+Dehradun,0.012,Uttarakhand
+Garhwal (Pauri Garhwal),0.034,Uttarakhand
+Haridwar,0.07,Uttarakhand
+Nainital,0.047,Uttarakhand
+Pithoragarh,0.025,Uttarakhand
+Rudraprayag,0.021,Uttarakhand
+Tehri Garhwal,0.031,Uttarakhand
+Udham Singh Nagar,0.049,Uttarakhand
+Uttarkashi,0.038,Uttarakhand
+Bankura,0.078,West Bengal
+Birbhum,0.082,West Bengal
+"Dakshin Dinajpur
+(Dinajpur Dakshin)",0.057,West Bengal
+Darjeeling,0.023,West Bengal
+Howrah,0.025,West Bengal
+Hugli (Hooghly),0.03,West Bengal
+Jalpaiguri,0.037,West Bengal
+Koch Bihar (Coochbehar),0.042,West Bengal
+Kolkata,0.01,West Bengal
+Maldah,0.067,West Bengal
+Murshidabad,0.071,West Bengal
+Nadia,0.033,West Bengal
+North 24 Parganas,0.018,West Bengal
+Paschim Bardhaman,0.048,West Bengal
+"Paschim Medinipur
+(Medinipur West)",0.077,West Bengal
+Purba Bardhaman,0.059,West Bengal
+"Purba Medinipur
+(Medinipur East)",0.051,West Bengal
+Puruliya,0.117,West Bengal
+South 24 Parganas,0.045,West Bengal
+"Uttar Dinajpur
+(Dinjapur Uttar)",0.099,West Bengal
+Chandigarh,0.017,Chandigarh
+Dadra & Nagar Haveli,0.045,Dadra & Nagar Haveli & Daman & Diu
+Daman,0.029,Dadra & Nagar Haveli & Daman & Diu
+Diu,0.006,Dadra & Nagar Haveli & Daman & Diu
+Kargil,0.015,Ladakh
+Leh Ladakh,0.014,Ladakh
+North Goa,0.004,Goa
+South Goa,0.003,Goa
+Karaikal,0.009,Puducherry
+Mahe,0.001,Puducherry
+Puducherry,0.001,Puducherry
+Yanam,0.015,Puducherry
+Gangtok,0.008,Sikkim
+Gyalshing,0.011,Sikkim
+Mangan,0.021,Sikkim
+Namchi,0.013,Sikkim
+Anantnag,0.014,Jammu & Kashmir
+Badgam (Budgam),0.02,Jammu & Kashmir
+Bandipora,0.024,Jammu & Kashmir
+Baramulla,0.028,Jammu & Kashmir
+Doda,0.032,Jammu & Kashmir
+Ganderbal,0.015,Jammu & Kashmir
+Jammu,0.003,Jammu & Kashmir
+Kathua,0.011,Jammu & Kashmir
+Kishtwar,0.045,Jammu & Kashmir
+Kulgam,0.018,Jammu & Kashmir
+Kupwara,0.02,Jammu & Kashmir
+Pulwama,0.008,Jammu & Kashmir
+Punch (Poonch),0.026,Jammu & Kashmir
+Rajouri,0.034,Jammu & Kashmir
+Ramban,0.064,Jammu & Kashmir
+Reasi,0.049,Jammu & Kashmir
+Samba,0.01,Jammu & Kashmir
+Shopian,0.006,Jammu & Kashmir
+Srinagar,0.005,Jammu & Kashmir
+Udhampur,0.044,Jammu & Kashmir
+Central,0.016,Delhi
+East,0.012,Delhi
+New Delhi,0.019,Delhi
+North,0.026,Delhi
+North East,0.015,Delhi
+North West,0.008,Delhi
+Shahdara,0.006,Delhi
+South,0.007,Delhi
+South East,0.011,Delhi
+South West,0.015,Delhi
+West,0.02,Delhi
+Araria,0.266,Bihar
+Arwal,0.149,Bihar
+Aurangabad,0.123,Bihar
+Banka,0.177,Bihar
+Begusarai,0.128,Bihar
+Bhagalpur,0.128,Bihar
+Bhojpur,0.121,Bihar
+Buxar,0.114,Bihar
+Darbhanga,0.172,Bihar
+Gaya,0.169,Bihar
+Gopalganj,0.1,Bihar
+Jamui,0.198,Bihar
+Jehanabad,0.147,Bihar
+Kaimur (Bhabua),0.132,Bihar
+Katihar,0.215,Bihar
+Khagaria,0.206,Bihar
+Kishanganj,0.226,Bihar
+Lakhisarai,0.154,Bihar
+Madhepura,0.226,Bihar
+Madhubani,0.159,Bihar
+Munger,0.101,Bihar
+Muzaffarpur,0.127,Bihar
+Nalanda,0.142,Bihar
+Nawada,0.147,Bihar
+Pashchim Champaran,0.175,Bihar
+Patna,0.107,Bihar
+Purbi Champaran,0.175,Bihar
+Purnia,0.262,Bihar
+Rohtas,0.095,Bihar
+Saharsa,0.244,Bihar
+Samastipur,0.175,Bihar
+Saran,0.126,Bihar
+Sheikhpura,0.15,Bihar
+Sheohar,0.159,Bihar
+Sitamarhi,0.2,Bihar
+Siwan,0.078,Bihar
+Supaul,0.239,Bihar
+Vaishali,0.135,Bihar

@@ -1,0 +1,661 @@
+city,state,year,month,model,pm2.5
+Agartala,Tripura,2023,January,google/gemma-2-9b-it,30.8
+Agartala,Tripura,2023,February,google/gemma-2-9b-it,30.8
+Agartala,Tripura,2023,March,google/gemma-2-9b-it,30.8
+Agartala,Tripura,2023,April,google/gemma-2-9b-it,30.8
+Agartala,Tripura,2023,May,google/gemma-2-9b-it,30.8
+Agartala,Tripura,2023,June,google/gemma-2-9b-it,30.8
+Agartala,Tripura,2023,July,google/gemma-2-9b-it,30.8
+Agartala,Tripura,2023,August,google/gemma-2-9b-it,30.5
+Agartala,Tripura,2023,September,google/gemma-2-9b-it,30.5
+Agartala,Tripura,2023,October,google/gemma-2-9b-it,30.5
+Agartala,Tripura,2023,November,google/gemma-2-9b-it,30.5
+Agartala,Tripura,2023,December,google/gemma-2-9b-it,30.5
+Ahmedabad,Gujarat,2023,January,google/gemma-2-9b-it,40.8
+Ahmedabad,Gujarat,2023,February,google/gemma-2-9b-it,38.2
+Ahmedabad,Gujarat,2023,March,google/gemma-2-9b-it,38.7
+Ahmedabad,Gujarat,2023,April,google/gemma-2-9b-it,40.8
+Ahmedabad,Gujarat,2023,May,google/gemma-2-9b-it,40.2
+Ahmedabad,Gujarat,2023,June,google/gemma-2-9b-it,38.7
+Ahmedabad,Gujarat,2023,July,google/gemma-2-9b-it,45.2
+Ahmedabad,Gujarat,2023,August,google/gemma-2-9b-it,38.7
+Ahmedabad,Gujarat,2023,September,google/gemma-2-9b-it,38.7
+Ahmedabad,Gujarat,2023,October,google/gemma-2-9b-it,35.0
+Ahmedabad,Gujarat,2023,November,google/gemma-2-9b-it,35.0
+Ahmedabad,Gujarat,2023,December,google/gemma-2-9b-it,35.0
+Aizawl,Mizoram,2023,January,google/gemma-2-9b-it,22.3
+Aizawl,Mizoram,2023,February,google/gemma-2-9b-it,22.3
+Aizawl,Mizoram,2023,March,google/gemma-2-9b-it,22.3
+Aizawl,Mizoram,2023,April,google/gemma-2-9b-it,22.3
+Aizawl,Mizoram,2023,May,google/gemma-2-9b-it,22.3
+Aizawl,Mizoram,2023,June,google/gemma-2-9b-it,22.3
+Aizawl,Mizoram,2023,July,google/gemma-2-9b-it,25.3
+Aizawl,Mizoram,2023,August,google/gemma-2-9b-it,25.3
+Aizawl,Mizoram,2023,September,google/gemma-2-9b-it,25.3
+Aizawl,Mizoram,2023,October,google/gemma-2-9b-it,15.2
+Aizawl,Mizoram,2023,November,google/gemma-2-9b-it,15.2
+Aizawl,Mizoram,2023,December,google/gemma-2-9b-it,15.2
+Amaravati,Andhra Pradesh,2023,January,google/gemma-2-9b-it,30.2
+Amaravati,Andhra Pradesh,2023,February,google/gemma-2-9b-it,30.8
+Amaravati,Andhra Pradesh,2023,March,google/gemma-2-9b-it,30.2
+Amaravati,Andhra Pradesh,2023,April,google/gemma-2-9b-it,30.2
+Amaravati,Andhra Pradesh,2023,May,google/gemma-2-9b-it,30.8
+Amaravati,Andhra Pradesh,2023,June,google/gemma-2-9b-it,30.8
+Amaravati,Andhra Pradesh,2023,July,google/gemma-2-9b-it,30.8
+Amaravati,Andhra Pradesh,2023,August,google/gemma-2-9b-it,25.8
+Amaravati,Andhra Pradesh,2023,September,google/gemma-2-9b-it,25.8
+Amaravati,Andhra Pradesh,2023,October,google/gemma-2-9b-it,25.3
+Amaravati,Andhra Pradesh,2023,November,google/gemma-2-9b-it,10.0
+Amaravati,Andhra Pradesh,2023,December,google/gemma-2-9b-it,10.0
+Anantapur,Andhra Pradesh,2023,January,google/gemma-2-9b-it,30.8
+Anantapur,Andhra Pradesh,2023,February,google/gemma-2-9b-it,30.8
+Anantapur,Andhra Pradesh,2023,March,google/gemma-2-9b-it,32.7
+Anantapur,Andhra Pradesh,2023,April,google/gemma-2-9b-it,30.8
+Anantapur,Andhra Pradesh,2023,May,google/gemma-2-9b-it,32.7
+Anantapur,Andhra Pradesh,2023,June,google/gemma-2-9b-it,30.8
+Anantapur,Andhra Pradesh,2023,July,google/gemma-2-9b-it,30.8
+Anantapur,Andhra Pradesh,2023,August,google/gemma-2-9b-it,32.7
+Anantapur,Andhra Pradesh,2023,September,google/gemma-2-9b-it,30.5
+Anantapur,Andhra Pradesh,2023,October,google/gemma-2-9b-it,10.0
+Anantapur,Andhra Pradesh,2023,November,google/gemma-2-9b-it,10.0
+Anantapur,Andhra Pradesh,2023,December,google/gemma-2-9b-it,10.0
+Araria,Bihar,2023,January,google/gemma-2-9b-it,38.7
+Araria,Bihar,2023,February,google/gemma-2-9b-it,38.7
+Araria,Bihar,2023,March,google/gemma-2-9b-it,38.7
+Araria,Bihar,2023,April,google/gemma-2-9b-it,38.7
+Araria,Bihar,2023,May,google/gemma-2-9b-it,38.7
+Araria,Bihar,2023,June,google/gemma-2-9b-it,38.7
+Araria,Bihar,2023,July,google/gemma-2-9b-it,38.7
+Araria,Bihar,2023,August,google/gemma-2-9b-it,38.7
+Araria,Bihar,2023,September,google/gemma-2-9b-it,105.0
+Araria,Bihar,2023,October,google/gemma-2-9b-it,105.0
+Araria,Bihar,2023,November,google/gemma-2-9b-it,100.0
+Araria,Bihar,2023,December,google/gemma-2-9b-it,100.0
+Ariyalur,Tamil Nadu,2023,January,google/gemma-2-9b-it,32.7
+Ariyalur,Tamil Nadu,2023,February,google/gemma-2-9b-it,30.8
+Ariyalur,Tamil Nadu,2023,March,google/gemma-2-9b-it,30.5
+Ariyalur,Tamil Nadu,2023,April,google/gemma-2-9b-it,32.7
+Ariyalur,Tamil Nadu,2023,May,google/gemma-2-9b-it,30.8
+Ariyalur,Tamil Nadu,2023,June,google/gemma-2-9b-it,35.2
+Ariyalur,Tamil Nadu,2023,July,google/gemma-2-9b-it,35.2
+Ariyalur,Tamil Nadu,2023,August,google/gemma-2-9b-it,35.2
+Ariyalur,Tamil Nadu,2023,September,google/gemma-2-9b-it,10.0
+Ariyalur,Tamil Nadu,2023,October,google/gemma-2-9b-it,10.0
+Ariyalur,Tamil Nadu,2023,November,google/gemma-2-9b-it,10.0
+Ariyalur,Tamil Nadu,2023,December,google/gemma-2-9b-it,10.0
+Baddi,Himachal Pradesh,2023,January,google/gemma-2-9b-it,32.5
+Baddi,Himachal Pradesh,2023,February,google/gemma-2-9b-it,35.2
+Baddi,Himachal Pradesh,2023,March,google/gemma-2-9b-it,30.5
+Baddi,Himachal Pradesh,2023,April,google/gemma-2-9b-it,35.2
+Baddi,Himachal Pradesh,2023,May,google/gemma-2-9b-it,32.5
+Baddi,Himachal Pradesh,2023,June,google/gemma-2-9b-it,35.2
+Baddi,Himachal Pradesh,2023,July,google/gemma-2-9b-it,35.2
+Baddi,Himachal Pradesh,2023,August,google/gemma-2-9b-it,35.2
+Baddi,Himachal Pradesh,2023,September,google/gemma-2-9b-it,100.0
+Baddi,Himachal Pradesh,2023,October,google/gemma-2-9b-it,100.0
+Baddi,Himachal Pradesh,2023,November,google/gemma-2-9b-it,100.0
+Baddi,Himachal Pradesh,2023,December,google/gemma-2-9b-it,100.0
+Bhilai,Chhattisgarh,2023,January,google/gemma-2-9b-it,38.7
+Bhilai,Chhattisgarh,2023,February,google/gemma-2-9b-it,35.2
+Bhilai,Chhattisgarh,2023,March,google/gemma-2-9b-it,38.7
+Bhilai,Chhattisgarh,2023,April,google/gemma-2-9b-it,38.7
+Bhilai,Chhattisgarh,2023,May,google/gemma-2-9b-it,38.7
+Bhilai,Chhattisgarh,2023,June,google/gemma-2-9b-it,38.7
+Bhilai,Chhattisgarh,2023,July,google/gemma-2-9b-it,38.7
+Bhilai,Chhattisgarh,2023,August,google/gemma-2-9b-it,38.7
+Bhilai,Chhattisgarh,2023,September,google/gemma-2-9b-it,35.2
+Bhilai,Chhattisgarh,2023,October,google/gemma-2-9b-it,35.0
+Bhilai,Chhattisgarh,2023,November,google/gemma-2-9b-it,35.0
+Bhilai,Chhattisgarh,2023,December,google/gemma-2-9b-it,35.0
+Bhiwadi,Rajasthan,2023,January,google/gemma-2-9b-it,48.2
+Bhiwadi,Rajasthan,2023,February,google/gemma-2-9b-it,48.2
+Bhiwadi,Rajasthan,2023,March,google/gemma-2-9b-it,48.2
+Bhiwadi,Rajasthan,2023,April,google/gemma-2-9b-it,105.0
+Bhiwadi,Rajasthan,2023,May,google/gemma-2-9b-it,105.0
+Bhiwadi,Rajasthan,2023,June,google/gemma-2-9b-it,105.0
+Bhiwadi,Rajasthan,2023,July,google/gemma-2-9b-it,105.0
+Bhiwadi,Rajasthan,2023,August,google/gemma-2-9b-it,105.0
+Bhiwadi,Rajasthan,2023,September,google/gemma-2-9b-it,105.0
+Bhiwadi,Rajasthan,2023,October,google/gemma-2-9b-it,105.0
+Bhiwadi,Rajasthan,2023,November,google/gemma-2-9b-it,105.0
+Bhiwadi,Rajasthan,2023,December,google/gemma-2-9b-it,105.0
+Bihar Sharif,Bihar,2023,January,google/gemma-2-9b-it,38.7
+Bihar Sharif,Bihar,2023,February,google/gemma-2-9b-it,38.7
+Bihar Sharif,Bihar,2023,March,google/gemma-2-9b-it,38.7
+Bihar Sharif,Bihar,2023,April,google/gemma-2-9b-it,38.7
+Bihar Sharif,Bihar,2023,May,google/gemma-2-9b-it,38.7
+Bihar Sharif,Bihar,2023,June,google/gemma-2-9b-it,38.7
+Bihar Sharif,Bihar,2023,July,google/gemma-2-9b-it,38.7
+Bihar Sharif,Bihar,2023,August,google/gemma-2-9b-it,38.7
+Bihar Sharif,Bihar,2023,September,google/gemma-2-9b-it,38.7
+Bihar Sharif,Bihar,2023,October,google/gemma-2-9b-it,38.7
+Bihar Sharif,Bihar,2023,November,google/gemma-2-9b-it,35.2
+Bihar Sharif,Bihar,2023,December,google/gemma-2-9b-it,35.2
+Bileipada,Odisha,2023,January,google/gemma-2-9b-it,100.2
+Bileipada,Odisha,2023,February,google/gemma-2-9b-it,100.0
+Bileipada,Odisha,2023,March,google/gemma-2-9b-it,100.0
+Bileipada,Odisha,2023,April,google/gemma-2-9b-it,100.0
+Bileipada,Odisha,2023,May,google/gemma-2-9b-it,35.2
+Bileipada,Odisha,2023,June,google/gemma-2-9b-it,100.0
+Bileipada,Odisha,2023,July,google/gemma-2-9b-it,100.2
+Bileipada,Odisha,2023,August,google/gemma-2-9b-it,100.0
+Bileipada,Odisha,2023,September,google/gemma-2-9b-it,100.0
+Bileipada,Odisha,2023,October,google/gemma-2-9b-it,10.0
+Bileipada,Odisha,2023,November,google/gemma-2-9b-it,10.0
+Bileipada,Odisha,2023,December,google/gemma-2-9b-it,10.0
+Brajrajnagar,Odisha,2023,January,google/gemma-2-9b-it,38.7
+Brajrajnagar,Odisha,2023,February,google/gemma-2-9b-it,38.7
+Brajrajnagar,Odisha,2023,March,google/gemma-2-9b-it,38.7
+Brajrajnagar,Odisha,2023,April,google/gemma-2-9b-it,38.7
+Brajrajnagar,Odisha,2023,May,google/gemma-2-9b-it,38.7
+Brajrajnagar,Odisha,2023,June,google/gemma-2-9b-it,38.7
+Brajrajnagar,Odisha,2023,July,google/gemma-2-9b-it,38.7
+Brajrajnagar,Odisha,2023,August,google/gemma-2-9b-it,102.3
+Brajrajnagar,Odisha,2023,September,google/gemma-2-9b-it,102.5
+Brajrajnagar,Odisha,2023,October,google/gemma-2-9b-it,102.5
+Brajrajnagar,Odisha,2023,November,google/gemma-2-9b-it,102.5
+Brajrajnagar,Odisha,2023,December,google/gemma-2-9b-it,100.0
+Chandigarh,Chandigarh,2023,January,google/gemma-2-9b-it,35.0
+Chandigarh,Chandigarh,2023,February,google/gemma-2-9b-it,35.0
+Chandigarh,Chandigarh,2023,March,google/gemma-2-9b-it,32.5
+Chandigarh,Chandigarh,2023,April,google/gemma-2-9b-it,35.2
+Chandigarh,Chandigarh,2023,May,google/gemma-2-9b-it,35.2
+Chandigarh,Chandigarh,2023,June,google/gemma-2-9b-it,35.0
+Chandigarh,Chandigarh,2023,July,google/gemma-2-9b-it,35.0
+Chandigarh,Chandigarh,2023,August,google/gemma-2-9b-it,35.0
+Chandigarh,Chandigarh,2023,September,google/gemma-2-9b-it,35.0
+Chandigarh,Chandigarh,2023,October,google/gemma-2-9b-it,35.0
+Chandigarh,Chandigarh,2023,November,google/gemma-2-9b-it,35.0
+Chandigarh,Chandigarh,2023,December,google/gemma-2-9b-it,35.0
+Chikkaballapur,Karnataka,2023,January,google/gemma-2-9b-it,30.8
+Chikkaballapur,Karnataka,2023,February,google/gemma-2-9b-it,30.8
+Chikkaballapur,Karnataka,2023,March,google/gemma-2-9b-it,30.8
+Chikkaballapur,Karnataka,2023,April,google/gemma-2-9b-it,30.8
+Chikkaballapur,Karnataka,2023,May,google/gemma-2-9b-it,32.7
+Chikkaballapur,Karnataka,2023,June,google/gemma-2-9b-it,30.8
+Chikkaballapur,Karnataka,2023,July,google/gemma-2-9b-it,30.8
+Chikkaballapur,Karnataka,2023,August,google/gemma-2-9b-it,30.8
+Chikkaballapur,Karnataka,2023,September,google/gemma-2-9b-it,25.8
+Chikkaballapur,Karnataka,2023,October,google/gemma-2-9b-it,10.0
+Chikkaballapur,Karnataka,2023,November,google/gemma-2-9b-it,10.0
+Chikkaballapur,Karnataka,2023,December,google/gemma-2-9b-it,10.0
+Dehradun,Uttarakhand,2023,January,google/gemma-2-9b-it,35.2
+Dehradun,Uttarakhand,2023,February,google/gemma-2-9b-it,35.2
+Dehradun,Uttarakhand,2023,March,google/gemma-2-9b-it,35.2
+Dehradun,Uttarakhand,2023,April,google/gemma-2-9b-it,35.2
+Dehradun,Uttarakhand,2023,May,google/gemma-2-9b-it,35.2
+Dehradun,Uttarakhand,2023,June,google/gemma-2-9b-it,35.2
+Dehradun,Uttarakhand,2023,July,google/gemma-2-9b-it,35.2
+Dehradun,Uttarakhand,2023,August,google/gemma-2-9b-it,35.2
+Dehradun,Uttarakhand,2023,September,google/gemma-2-9b-it,35.2
+Dehradun,Uttarakhand,2023,October,google/gemma-2-9b-it,35.0
+Dehradun,Uttarakhand,2023,November,google/gemma-2-9b-it,35.0
+Dehradun,Uttarakhand,2023,December,google/gemma-2-9b-it,35.0
+Delhi,Delhi,2023,January,google/gemma-2-9b-it,40.0
+Delhi,Delhi,2023,February,google/gemma-2-9b-it,40.0
+Delhi,Delhi,2023,March,google/gemma-2-9b-it,40.2
+Delhi,Delhi,2023,April,google/gemma-2-9b-it,40.2
+Delhi,Delhi,2023,May,google/gemma-2-9b-it,40.2
+Delhi,Delhi,2023,June,google/gemma-2-9b-it,40.2
+Delhi,Delhi,2023,July,google/gemma-2-9b-it,40.2
+Delhi,Delhi,2023,August,google/gemma-2-9b-it,40.0
+Delhi,Delhi,2023,September,google/gemma-2-9b-it,40.0
+Delhi,Delhi,2023,October,google/gemma-2-9b-it,50.0
+Delhi,Delhi,2023,November,google/gemma-2-9b-it,50.0
+Delhi,Delhi,2023,December,google/gemma-2-9b-it,35.0
+Durgapur,West Bengal,2023,January,google/gemma-2-9b-it,38.7
+Durgapur,West Bengal,2023,February,google/gemma-2-9b-it,38.7
+Durgapur,West Bengal,2023,March,google/gemma-2-9b-it,38.7
+Durgapur,West Bengal,2023,April,google/gemma-2-9b-it,38.7
+Durgapur,West Bengal,2023,May,google/gemma-2-9b-it,38.7
+Durgapur,West Bengal,2023,June,google/gemma-2-9b-it,38.7
+Durgapur,West Bengal,2023,July,google/gemma-2-9b-it,38.7
+Durgapur,West Bengal,2023,August,google/gemma-2-9b-it,38.7
+Durgapur,West Bengal,2023,September,google/gemma-2-9b-it,35.2
+Durgapur,West Bengal,2023,October,google/gemma-2-9b-it,35.2
+Durgapur,West Bengal,2023,November,google/gemma-2-9b-it,35.2
+Durgapur,West Bengal,2023,December,google/gemma-2-9b-it,35.2
+Eloor,Kerala,2023,January,google/gemma-2-9b-it,10.2
+Eloor,Kerala,2023,February,google/gemma-2-9b-it,10.2
+Eloor,Kerala,2023,March,google/gemma-2-9b-it,10.2
+Eloor,Kerala,2023,April,google/gemma-2-9b-it,10.2
+Eloor,Kerala,2023,May,google/gemma-2-9b-it,10.2
+Eloor,Kerala,2023,June,google/gemma-2-9b-it,100.0
+Eloor,Kerala,2023,July,google/gemma-2-9b-it,100.0
+Eloor,Kerala,2023,August,google/gemma-2-9b-it,100.0
+Eloor,Kerala,2023,September,google/gemma-2-9b-it,10.0
+Eloor,Kerala,2023,October,google/gemma-2-9b-it,10.0
+Eloor,Kerala,2023,November,google/gemma-2-9b-it,10.0
+Eloor,Kerala,2023,December,google/gemma-2-9b-it,10.0
+Gangtok,Sikkim,2023,January,google/gemma-2-9b-it,30.2
+Gangtok,Sikkim,2023,February,google/gemma-2-9b-it,30.2
+Gangtok,Sikkim,2023,March,google/gemma-2-9b-it,30.2
+Gangtok,Sikkim,2023,April,google/gemma-2-9b-it,30.2
+Gangtok,Sikkim,2023,May,google/gemma-2-9b-it,30.2
+Gangtok,Sikkim,2023,June,google/gemma-2-9b-it,30.5
+Gangtok,Sikkim,2023,July,google/gemma-2-9b-it,30.5
+Gangtok,Sikkim,2023,August,google/gemma-2-9b-it,30.5
+Gangtok,Sikkim,2023,September,google/gemma-2-9b-it,30.5
+Gangtok,Sikkim,2023,October,google/gemma-2-9b-it,30.5
+Gangtok,Sikkim,2023,November,google/gemma-2-9b-it,30.5
+Gangtok,Sikkim,2023,December,google/gemma-2-9b-it,30.5
+Hassan,Karnataka,2023,January,google/gemma-2-9b-it,30.8
+Hassan,Karnataka,2023,February,google/gemma-2-9b-it,30.5
+Hassan,Karnataka,2023,March,google/gemma-2-9b-it,30.5
+Hassan,Karnataka,2023,April,google/gemma-2-9b-it,30.5
+Hassan,Karnataka,2023,May,google/gemma-2-9b-it,30.5
+Hassan,Karnataka,2023,June,google/gemma-2-9b-it,30.5
+Hassan,Karnataka,2023,July,google/gemma-2-9b-it,30.5
+Hassan,Karnataka,2023,August,google/gemma-2-9b-it,10.0
+Hassan,Karnataka,2023,September,google/gemma-2-9b-it,10.0
+Hassan,Karnataka,2023,October,google/gemma-2-9b-it,10.0
+Hassan,Karnataka,2023,November,google/gemma-2-9b-it,10.0
+Hassan,Karnataka,2023,December,google/gemma-2-9b-it,10.0
+Hyderabad,Telangana,2023,January,google/gemma-2-9b-it,35.8
+Hyderabad,Telangana,2023,February,google/gemma-2-9b-it,35.8
+Hyderabad,Telangana,2023,March,google/gemma-2-9b-it,35.2
+Hyderabad,Telangana,2023,April,google/gemma-2-9b-it,35.2
+Hyderabad,Telangana,2023,May,google/gemma-2-9b-it,38.7
+Hyderabad,Telangana,2023,June,google/gemma-2-9b-it,38.7
+Hyderabad,Telangana,2023,July,google/gemma-2-9b-it,35.2
+Hyderabad,Telangana,2023,August,google/gemma-2-9b-it,35.2
+Hyderabad,Telangana,2023,September,google/gemma-2-9b-it,35.2
+Hyderabad,Telangana,2023,October,google/gemma-2-9b-it,35.2
+Hyderabad,Telangana,2023,November,google/gemma-2-9b-it,35.2
+Hyderabad,Telangana,2023,December,google/gemma-2-9b-it,35.2
+Indore,Madhya Pradesh,2023,January,google/gemma-2-9b-it,39.8
+Indore,Madhya Pradesh,2023,February,google/gemma-2-9b-it,38.7
+Indore,Madhya Pradesh,2023,March,google/gemma-2-9b-it,38.7
+Indore,Madhya Pradesh,2023,April,google/gemma-2-9b-it,45.6
+Indore,Madhya Pradesh,2023,May,google/gemma-2-9b-it,45.2
+Indore,Madhya Pradesh,2023,June,google/gemma-2-9b-it,38.7
+Indore,Madhya Pradesh,2023,July,google/gemma-2-9b-it,45.2
+Indore,Madhya Pradesh,2023,August,google/gemma-2-9b-it,45.2
+Indore,Madhya Pradesh,2023,September,google/gemma-2-9b-it,45.2
+Indore,Madhya Pradesh,2023,October,google/gemma-2-9b-it,45.2
+Indore,Madhya Pradesh,2023,November,google/gemma-2-9b-it,35.0
+Indore,Madhya Pradesh,2023,December,google/gemma-2-9b-it,35.0
+Jalandhar,Punjab,2023,January,google/gemma-2-9b-it,45.2
+Jalandhar,Punjab,2023,February,google/gemma-2-9b-it,38.0
+Jalandhar,Punjab,2023,March,google/gemma-2-9b-it,38.0
+Jalandhar,Punjab,2023,April,google/gemma-2-9b-it,45.2
+Jalandhar,Punjab,2023,May,google/gemma-2-9b-it,38.0
+Jalandhar,Punjab,2023,June,google/gemma-2-9b-it,38.0
+Jalandhar,Punjab,2023,July,google/gemma-2-9b-it,38.0
+Jalandhar,Punjab,2023,August,google/gemma-2-9b-it,38.0
+Jalandhar,Punjab,2023,September,google/gemma-2-9b-it,38.0
+Jalandhar,Punjab,2023,October,google/gemma-2-9b-it,35.0
+Jalandhar,Punjab,2023,November,google/gemma-2-9b-it,35.0
+Jalandhar,Punjab,2023,December,google/gemma-2-9b-it,35.0
+Jind,Haryana,2023,January,google/gemma-2-9b-it,50.0
+Jind,Haryana,2023,February,google/gemma-2-9b-it,38.0
+Jind,Haryana,2023,March,google/gemma-2-9b-it,38.0
+Jind,Haryana,2023,April,google/gemma-2-9b-it,38.0
+Jind,Haryana,2023,May,google/gemma-2-9b-it,38.0
+Jind,Haryana,2023,June,google/gemma-2-9b-it,105.0
+Jind,Haryana,2023,July,google/gemma-2-9b-it,100.0
+Jind,Haryana,2023,August,google/gemma-2-9b-it,100.0
+Jind,Haryana,2023,September,google/gemma-2-9b-it,105.0
+Jind,Haryana,2023,October,google/gemma-2-9b-it,100.0
+Jind,Haryana,2023,November,google/gemma-2-9b-it,100.0
+Jind,Haryana,2023,December,google/gemma-2-9b-it,100.0
+Jodhpur,Rajasthan,2023,January,google/gemma-2-9b-it,105.0
+Jodhpur,Rajasthan,2023,February,google/gemma-2-9b-it,105.0
+Jodhpur,Rajasthan,2023,March,google/gemma-2-9b-it,58.7
+Jodhpur,Rajasthan,2023,April,google/gemma-2-9b-it,105.0
+Jodhpur,Rajasthan,2023,May,google/gemma-2-9b-it,105.0
+Jodhpur,Rajasthan,2023,June,google/gemma-2-9b-it,105.0
+Jodhpur,Rajasthan,2023,July,google/gemma-2-9b-it,105.0
+Jodhpur,Rajasthan,2023,August,google/gemma-2-9b-it,105.0
+Jodhpur,Rajasthan,2023,September,google/gemma-2-9b-it,105.0
+Jodhpur,Rajasthan,2023,October,google/gemma-2-9b-it,105.0
+Jodhpur,Rajasthan,2023,November,google/gemma-2-9b-it,105.0
+Jodhpur,Rajasthan,2023,December,google/gemma-2-9b-it,105.0
+Kanchipuram,Tamil Nadu,2023,January,google/gemma-2-9b-it,32.5
+Kanchipuram,Tamil Nadu,2023,February,google/gemma-2-9b-it,30.8
+Kanchipuram,Tamil Nadu,2023,March,google/gemma-2-9b-it,35.2
+Kanchipuram,Tamil Nadu,2023,April,google/gemma-2-9b-it,35.2
+Kanchipuram,Tamil Nadu,2023,May,google/gemma-2-9b-it,35.2
+Kanchipuram,Tamil Nadu,2023,June,google/gemma-2-9b-it,35.2
+Kanchipuram,Tamil Nadu,2023,July,google/gemma-2-9b-it,35.2
+Kanchipuram,Tamil Nadu,2023,August,google/gemma-2-9b-it,35.2
+Kanchipuram,Tamil Nadu,2023,September,google/gemma-2-9b-it,35.2
+Kanchipuram,Tamil Nadu,2023,October,google/gemma-2-9b-it,35.2
+Kanchipuram,Tamil Nadu,2023,November,google/gemma-2-9b-it,10.0
+Kanchipuram,Tamil Nadu,2023,December,google/gemma-2-9b-it,10.0
+Khurja,Uttar Pradesh,2023,January,google/gemma-2-9b-it,48.2
+Khurja,Uttar Pradesh,2023,February,google/gemma-2-9b-it,48.2
+Khurja,Uttar Pradesh,2023,March,google/gemma-2-9b-it,48.2
+Khurja,Uttar Pradesh,2023,April,google/gemma-2-9b-it,48.2
+Khurja,Uttar Pradesh,2023,May,google/gemma-2-9b-it,48.2
+Khurja,Uttar Pradesh,2023,June,google/gemma-2-9b-it,102.0
+Khurja,Uttar Pradesh,2023,July,google/gemma-2-9b-it,108.0
+Khurja,Uttar Pradesh,2023,August,google/gemma-2-9b-it,105.0
+Khurja,Uttar Pradesh,2023,September,google/gemma-2-9b-it,105.0
+Khurja,Uttar Pradesh,2023,October,google/gemma-2-9b-it,180.0
+Khurja,Uttar Pradesh,2023,November,google/gemma-2-9b-it,105.0
+Khurja,Uttar Pradesh,2023,December,google/gemma-2-9b-it,35.0
+Kohima,Nagaland,2023,January,google/gemma-2-9b-it,30.2
+Kohima,Nagaland,2023,February,google/gemma-2-9b-it,28.7
+Kohima,Nagaland,2023,March,google/gemma-2-9b-it,28.7
+Kohima,Nagaland,2023,April,google/gemma-2-9b-it,30.2
+Kohima,Nagaland,2023,May,google/gemma-2-9b-it,29.8
+Kohima,Nagaland,2023,June,google/gemma-2-9b-it,30.2
+Kohima,Nagaland,2023,July,google/gemma-2-9b-it,30.8
+Kohima,Nagaland,2023,August,google/gemma-2-9b-it,30.5
+Kohima,Nagaland,2023,September,google/gemma-2-9b-it,30.5
+Kohima,Nagaland,2023,October,google/gemma-2-9b-it,30.5
+Kohima,Nagaland,2023,November,google/gemma-2-9b-it,25.3
+Kohima,Nagaland,2023,December,google/gemma-2-9b-it,10.0
+Kolkata,West Bengal,2023,January,google/gemma-2-9b-it,38.2
+Kolkata,West Bengal,2023,February,google/gemma-2-9b-it,38.2
+Kolkata,West Bengal,2023,March,google/gemma-2-9b-it,38.2
+Kolkata,West Bengal,2023,April,google/gemma-2-9b-it,38.2
+Kolkata,West Bengal,2023,May,google/gemma-2-9b-it,38.7
+Kolkata,West Bengal,2023,June,google/gemma-2-9b-it,38.7
+Kolkata,West Bengal,2023,July,google/gemma-2-9b-it,38.7
+Kolkata,West Bengal,2023,August,google/gemma-2-9b-it,38.7
+Kolkata,West Bengal,2023,September,google/gemma-2-9b-it,35.2
+Kolkata,West Bengal,2023,October,google/gemma-2-9b-it,35.2
+Kolkata,West Bengal,2023,November,google/gemma-2-9b-it,35.2
+Kolkata,West Bengal,2023,December,google/gemma-2-9b-it,35.2
+Kunjemura,Chhattisgarh,2023,January,google/gemma-2-9b-it,35.2
+Kunjemura,Chhattisgarh,2023,February,google/gemma-2-9b-it,35.2
+Kunjemura,Chhattisgarh,2023,March,google/gemma-2-9b-it,35.2
+Kunjemura,Chhattisgarh,2023,April,google/gemma-2-9b-it,100.0
+Kunjemura,Chhattisgarh,2023,May,google/gemma-2-9b-it,35.2
+Kunjemura,Chhattisgarh,2023,June,google/gemma-2-9b-it,100.0
+Kunjemura,Chhattisgarh,2023,July,google/gemma-2-9b-it,100.0
+Kunjemura,Chhattisgarh,2023,August,google/gemma-2-9b-it,100.0
+Kunjemura,Chhattisgarh,2023,September,google/gemma-2-9b-it,100.0
+Kunjemura,Chhattisgarh,2023,October,google/gemma-2-9b-it,100.0
+Kunjemura,Chhattisgarh,2023,November,google/gemma-2-9b-it,100.0
+Kunjemura,Chhattisgarh,2023,December,google/gemma-2-9b-it,100.0
+Kurukshetra,Haryana,2023,January,google/gemma-2-9b-it,35.0
+Kurukshetra,Haryana,2023,February,google/gemma-2-9b-it,35.0
+Kurukshetra,Haryana,2023,March,google/gemma-2-9b-it,35.0
+Kurukshetra,Haryana,2023,April,google/gemma-2-9b-it,38.0
+Kurukshetra,Haryana,2023,May,google/gemma-2-9b-it,38.0
+Kurukshetra,Haryana,2023,June,google/gemma-2-9b-it,35.0
+Kurukshetra,Haryana,2023,July,google/gemma-2-9b-it,35.0
+Kurukshetra,Haryana,2023,August,google/gemma-2-9b-it,100.0
+Kurukshetra,Haryana,2023,September,google/gemma-2-9b-it,100.0
+Kurukshetra,Haryana,2023,October,google/gemma-2-9b-it,105.0
+Kurukshetra,Haryana,2023,November,google/gemma-2-9b-it,100.0
+Kurukshetra,Haryana,2023,December,google/gemma-2-9b-it,35.0
+Mandikhera,Haryana,2023,January,google/gemma-2-9b-it,108.0
+Mandikhera,Haryana,2023,February,google/gemma-2-9b-it,102.0
+Mandikhera,Haryana,2023,March,google/gemma-2-9b-it,102.0
+Mandikhera,Haryana,2023,April,google/gemma-2-9b-it,105.0
+Mandikhera,Haryana,2023,May,google/gemma-2-9b-it,102.0
+Mandikhera,Haryana,2023,June,google/gemma-2-9b-it,102.0
+Mandikhera,Haryana,2023,July,google/gemma-2-9b-it,102.0
+Mandikhera,Haryana,2023,August,google/gemma-2-9b-it,105.0
+Mandikhera,Haryana,2023,September,google/gemma-2-9b-it,105.0
+Mandikhera,Haryana,2023,October,google/gemma-2-9b-it,105.0
+Mandikhera,Haryana,2023,November,google/gemma-2-9b-it,105.0
+Mandikhera,Haryana,2023,December,google/gemma-2-9b-it,100.0
+Mangalore,Karnataka,2023,January,google/gemma-2-9b-it,28.5
+Mangalore,Karnataka,2023,February,google/gemma-2-9b-it,28.5
+Mangalore,Karnataka,2023,March,google/gemma-2-9b-it,30.5
+Mangalore,Karnataka,2023,April,google/gemma-2-9b-it,30.5
+Mangalore,Karnataka,2023,May,google/gemma-2-9b-it,30.8
+Mangalore,Karnataka,2023,June,google/gemma-2-9b-it,30.5
+Mangalore,Karnataka,2023,July,google/gemma-2-9b-it,28.7
+Mangalore,Karnataka,2023,August,google/gemma-2-9b-it,30.5
+Mangalore,Karnataka,2023,September,google/gemma-2-9b-it,25.3
+Mangalore,Karnataka,2023,October,google/gemma-2-9b-it,25.3
+Mangalore,Karnataka,2023,November,google/gemma-2-9b-it,15.2
+Mangalore,Karnataka,2023,December,google/gemma-2-9b-it,15.2
+Meerut,Uttar Pradesh,2023,January,google/gemma-2-9b-it,38.7
+Meerut,Uttar Pradesh,2023,February,google/gemma-2-9b-it,38.7
+Meerut,Uttar Pradesh,2023,March,google/gemma-2-9b-it,38.7
+Meerut,Uttar Pradesh,2023,April,google/gemma-2-9b-it,38.7
+Meerut,Uttar Pradesh,2023,May,google/gemma-2-9b-it,38.7
+Meerut,Uttar Pradesh,2023,June,google/gemma-2-9b-it,38.7
+Meerut,Uttar Pradesh,2023,July,google/gemma-2-9b-it,38.7
+Meerut,Uttar Pradesh,2023,August,google/gemma-2-9b-it,38.7
+Meerut,Uttar Pradesh,2023,September,google/gemma-2-9b-it,38.0
+Meerut,Uttar Pradesh,2023,October,google/gemma-2-9b-it,35.0
+Meerut,Uttar Pradesh,2023,November,google/gemma-2-9b-it,35.0
+Meerut,Uttar Pradesh,2023,December,google/gemma-2-9b-it,35.0
+Muzaffarnagar,Uttar Pradesh,2023,January,google/gemma-2-9b-it,38.7
+Muzaffarnagar,Uttar Pradesh,2023,February,google/gemma-2-9b-it,38.7
+Muzaffarnagar,Uttar Pradesh,2023,March,google/gemma-2-9b-it,38.7
+Muzaffarnagar,Uttar Pradesh,2023,April,google/gemma-2-9b-it,38.7
+Muzaffarnagar,Uttar Pradesh,2023,May,google/gemma-2-9b-it,38.7
+Muzaffarnagar,Uttar Pradesh,2023,June,google/gemma-2-9b-it,38.7
+Muzaffarnagar,Uttar Pradesh,2023,July,google/gemma-2-9b-it,38.7
+Muzaffarnagar,Uttar Pradesh,2023,August,google/gemma-2-9b-it,38.7
+Muzaffarnagar,Uttar Pradesh,2023,September,google/gemma-2-9b-it,38.7
+Muzaffarnagar,Uttar Pradesh,2023,October,google/gemma-2-9b-it,35.0
+Muzaffarnagar,Uttar Pradesh,2023,November,google/gemma-2-9b-it,35.0
+Muzaffarnagar,Uttar Pradesh,2023,December,google/gemma-2-9b-it,35.0
+Nagpur,Maharashtra,2023,January,google/gemma-2-9b-it,38.2
+Nagpur,Maharashtra,2023,February,google/gemma-2-9b-it,38.2
+Nagpur,Maharashtra,2023,March,google/gemma-2-9b-it,38.7
+Nagpur,Maharashtra,2023,April,google/gemma-2-9b-it,38.7
+Nagpur,Maharashtra,2023,May,google/gemma-2-9b-it,38.7
+Nagpur,Maharashtra,2023,June,google/gemma-2-9b-it,38.7
+Nagpur,Maharashtra,2023,July,google/gemma-2-9b-it,38.7
+Nagpur,Maharashtra,2023,August,google/gemma-2-9b-it,38.7
+Nagpur,Maharashtra,2023,September,google/gemma-2-9b-it,35.2
+Nagpur,Maharashtra,2023,October,google/gemma-2-9b-it,35.0
+Nagpur,Maharashtra,2023,November,google/gemma-2-9b-it,35.0
+Nagpur,Maharashtra,2023,December,google/gemma-2-9b-it,35.0
+Naharlagun,Arunachal Pradesh,2023,January,google/gemma-2-9b-it,32.7
+Naharlagun,Arunachal Pradesh,2023,February,google/gemma-2-9b-it,30.8
+Naharlagun,Arunachal Pradesh,2023,March,google/gemma-2-9b-it,32.7
+Naharlagun,Arunachal Pradesh,2023,April,google/gemma-2-9b-it,32.7
+Naharlagun,Arunachal Pradesh,2023,May,google/gemma-2-9b-it,32.7
+Naharlagun,Arunachal Pradesh,2023,June,google/gemma-2-9b-it,32.7
+Naharlagun,Arunachal Pradesh,2023,July,google/gemma-2-9b-it,32.7
+Naharlagun,Arunachal Pradesh,2023,August,google/gemma-2-9b-it,32.5
+Naharlagun,Arunachal Pradesh,2023,September,google/gemma-2-9b-it,30.5
+Naharlagun,Arunachal Pradesh,2023,October,google/gemma-2-9b-it,30.5
+Naharlagun,Arunachal Pradesh,2023,November,google/gemma-2-9b-it,10.0
+Naharlagun,Arunachal Pradesh,2023,December,google/gemma-2-9b-it,10.0
+Nalbari,Assam,2023,January,google/gemma-2-9b-it,32.7
+Nalbari,Assam,2023,February,google/gemma-2-9b-it,32.7
+Nalbari,Assam,2023,March,google/gemma-2-9b-it,32.5
+Nalbari,Assam,2023,April,google/gemma-2-9b-it,35.2
+Nalbari,Assam,2023,May,google/gemma-2-9b-it,35.2
+Nalbari,Assam,2023,June,google/gemma-2-9b-it,35.2
+Nalbari,Assam,2023,July,google/gemma-2-9b-it,35.2
+Nalbari,Assam,2023,August,google/gemma-2-9b-it,100.0
+Nalbari,Assam,2023,September,google/gemma-2-9b-it,10.0
+Nalbari,Assam,2023,October,google/gemma-2-9b-it,10.0
+Nalbari,Assam,2023,November,google/gemma-2-9b-it,10.0
+Nalbari,Assam,2023,December,google/gemma-2-9b-it,10.0
+Nashik,Maharashtra,2023,January,google/gemma-2-9b-it,35.2
+Nashik,Maharashtra,2023,February,google/gemma-2-9b-it,30.8
+Nashik,Maharashtra,2023,March,google/gemma-2-9b-it,35.2
+Nashik,Maharashtra,2023,April,google/gemma-2-9b-it,35.2
+Nashik,Maharashtra,2023,May,google/gemma-2-9b-it,35.2
+Nashik,Maharashtra,2023,June,google/gemma-2-9b-it,35.2
+Nashik,Maharashtra,2023,July,google/gemma-2-9b-it,35.2
+Nashik,Maharashtra,2023,August,google/gemma-2-9b-it,35.2
+Nashik,Maharashtra,2023,September,google/gemma-2-9b-it,35.2
+Nashik,Maharashtra,2023,October,google/gemma-2-9b-it,35.2
+Nashik,Maharashtra,2023,November,google/gemma-2-9b-it,35.2
+Nashik,Maharashtra,2023,December,google/gemma-2-9b-it,35.2
+Nayagarh,Odisha,2023,January,google/gemma-2-9b-it,32.7
+Nayagarh,Odisha,2023,February,google/gemma-2-9b-it,32.7
+Nayagarh,Odisha,2023,March,google/gemma-2-9b-it,32.7
+Nayagarh,Odisha,2023,April,google/gemma-2-9b-it,32.7
+Nayagarh,Odisha,2023,May,google/gemma-2-9b-it,32.7
+Nayagarh,Odisha,2023,June,google/gemma-2-9b-it,35.2
+Nayagarh,Odisha,2023,July,google/gemma-2-9b-it,35.2
+Nayagarh,Odisha,2023,August,google/gemma-2-9b-it,35.2
+Nayagarh,Odisha,2023,September,google/gemma-2-9b-it,10.5
+Nayagarh,Odisha,2023,October,google/gemma-2-9b-it,10.0
+Nayagarh,Odisha,2023,November,google/gemma-2-9b-it,10.0
+Nayagarh,Odisha,2023,December,google/gemma-2-9b-it,10.0
+Ooty,Tamil Nadu,2023,January,google/gemma-2-9b-it,10.2
+Ooty,Tamil Nadu,2023,February,google/gemma-2-9b-it,10.2
+Ooty,Tamil Nadu,2023,March,google/gemma-2-9b-it,10.2
+Ooty,Tamil Nadu,2023,April,google/gemma-2-9b-it,10.2
+Ooty,Tamil Nadu,2023,May,google/gemma-2-9b-it,10.2
+Ooty,Tamil Nadu,2023,June,google/gemma-2-9b-it,10.5
+Ooty,Tamil Nadu,2023,July,google/gemma-2-9b-it,10.5
+Ooty,Tamil Nadu,2023,August,google/gemma-2-9b-it,10.5
+Ooty,Tamil Nadu,2023,September,google/gemma-2-9b-it,10.5
+Ooty,Tamil Nadu,2023,October,google/gemma-2-9b-it,10.5
+Ooty,Tamil Nadu,2023,November,google/gemma-2-9b-it,10.5
+Ooty,Tamil Nadu,2023,December,google/gemma-2-9b-it,10.5
+Pali,Rajasthan,2023,January,google/gemma-2-9b-it,38.0
+Pali,Rajasthan,2023,February,google/gemma-2-9b-it,38.0
+Pali,Rajasthan,2023,March,google/gemma-2-9b-it,38.7
+Pali,Rajasthan,2023,April,google/gemma-2-9b-it,38.7
+Pali,Rajasthan,2023,May,google/gemma-2-9b-it,38.7
+Pali,Rajasthan,2023,June,google/gemma-2-9b-it,35.0
+Pali,Rajasthan,2023,July,google/gemma-2-9b-it,105.0
+Pali,Rajasthan,2023,August,google/gemma-2-9b-it,100.0
+Pali,Rajasthan,2023,September,google/gemma-2-9b-it,100.0
+Pali,Rajasthan,2023,October,google/gemma-2-9b-it,105.0
+Pali,Rajasthan,2023,November,google/gemma-2-9b-it,100.0
+Pali,Rajasthan,2023,December,google/gemma-2-9b-it,100.0
+Puducherry,Puducherry,2023,January,google/gemma-2-9b-it,28.7
+Puducherry,Puducherry,2023,February,google/gemma-2-9b-it,22.3
+Puducherry,Puducherry,2023,March,google/gemma-2-9b-it,25.8
+Puducherry,Puducherry,2023,April,google/gemma-2-9b-it,28.7
+Puducherry,Puducherry,2023,May,google/gemma-2-9b-it,25.8
+Puducherry,Puducherry,2023,June,google/gemma-2-9b-it,25.8
+Puducherry,Puducherry,2023,July,google/gemma-2-9b-it,28.7
+Puducherry,Puducherry,2023,August,google/gemma-2-9b-it,25.3
+Puducherry,Puducherry,2023,September,google/gemma-2-9b-it,25.3
+Puducherry,Puducherry,2023,October,google/gemma-2-9b-it,18.7
+Puducherry,Puducherry,2023,November,google/gemma-2-9b-it,15.2
+Puducherry,Puducherry,2023,December,google/gemma-2-9b-it,15.2
+Pune,Maharashtra,2023,January,google/gemma-2-9b-it,35.2
+Pune,Maharashtra,2023,February,google/gemma-2-9b-it,35.2
+Pune,Maharashtra,2023,March,google/gemma-2-9b-it,35.2
+Pune,Maharashtra,2023,April,google/gemma-2-9b-it,35.2
+Pune,Maharashtra,2023,May,google/gemma-2-9b-it,35.2
+Pune,Maharashtra,2023,June,google/gemma-2-9b-it,35.2
+Pune,Maharashtra,2023,July,google/gemma-2-9b-it,35.2
+Pune,Maharashtra,2023,August,google/gemma-2-9b-it,35.2
+Pune,Maharashtra,2023,September,google/gemma-2-9b-it,35.2
+Pune,Maharashtra,2023,October,google/gemma-2-9b-it,35.2
+Pune,Maharashtra,2023,November,google/gemma-2-9b-it,35.2
+Pune,Maharashtra,2023,December,google/gemma-2-9b-it,35.2
+Rajamahendravaram,Andhra Pradesh,2023,January,google/gemma-2-9b-it,30.8
+Rajamahendravaram,Andhra Pradesh,2023,February,google/gemma-2-9b-it,32.8
+Rajamahendravaram,Andhra Pradesh,2023,March,google/gemma-2-9b-it,32.7
+Rajamahendravaram,Andhra Pradesh,2023,April,google/gemma-2-9b-it,30.8
+Rajamahendravaram,Andhra Pradesh,2023,May,google/gemma-2-9b-it,32.7
+Rajamahendravaram,Andhra Pradesh,2023,June,google/gemma-2-9b-it,32.7
+Rajamahendravaram,Andhra Pradesh,2023,July,google/gemma-2-9b-it,32.7
+Rajamahendravaram,Andhra Pradesh,2023,August,google/gemma-2-9b-it,30.8
+Rajamahendravaram,Andhra Pradesh,2023,September,google/gemma-2-9b-it,30.5
+Rajamahendravaram,Andhra Pradesh,2023,October,google/gemma-2-9b-it,25.8
+Rajamahendravaram,Andhra Pradesh,2023,November,google/gemma-2-9b-it,15.2
+Rajamahendravaram,Andhra Pradesh,2023,December,google/gemma-2-9b-it,10.0
+Rupnagar,Punjab,2023,January,google/gemma-2-9b-it,38.0
+Rupnagar,Punjab,2023,February,google/gemma-2-9b-it,35.0
+Rupnagar,Punjab,2023,March,google/gemma-2-9b-it,35.0
+Rupnagar,Punjab,2023,April,google/gemma-2-9b-it,35.0
+Rupnagar,Punjab,2023,May,google/gemma-2-9b-it,35.0
+Rupnagar,Punjab,2023,June,google/gemma-2-9b-it,35.0
+Rupnagar,Punjab,2023,July,google/gemma-2-9b-it,35.0
+Rupnagar,Punjab,2023,August,google/gemma-2-9b-it,35.0
+Rupnagar,Punjab,2023,September,google/gemma-2-9b-it,35.0
+Rupnagar,Punjab,2023,October,google/gemma-2-9b-it,100.0
+Rupnagar,Punjab,2023,November,google/gemma-2-9b-it,100.0
+Rupnagar,Punjab,2023,December,google/gemma-2-9b-it,35.0
+Sagar,Madhya Pradesh,2023,January,google/gemma-2-9b-it,35.2
+Sagar,Madhya Pradesh,2023,February,google/gemma-2-9b-it,38.7
+Sagar,Madhya Pradesh,2023,March,google/gemma-2-9b-it,38.7
+Sagar,Madhya Pradesh,2023,April,google/gemma-2-9b-it,38.7
+Sagar,Madhya Pradesh,2023,May,google/gemma-2-9b-it,35.2
+Sagar,Madhya Pradesh,2023,June,google/gemma-2-9b-it,35.2
+Sagar,Madhya Pradesh,2023,July,google/gemma-2-9b-it,38.7
+Sagar,Madhya Pradesh,2023,August,google/gemma-2-9b-it,35.2
+Sagar,Madhya Pradesh,2023,September,google/gemma-2-9b-it,100.0
+Sagar,Madhya Pradesh,2023,October,google/gemma-2-9b-it,100.0
+Sagar,Madhya Pradesh,2023,November,google/gemma-2-9b-it,100.0
+Sagar,Madhya Pradesh,2023,December,google/gemma-2-9b-it,100.0
+Samastipur,Bihar,2023,January,google/gemma-2-9b-it,38.7
+Samastipur,Bihar,2023,February,google/gemma-2-9b-it,38.7
+Samastipur,Bihar,2023,March,google/gemma-2-9b-it,38.7
+Samastipur,Bihar,2023,April,google/gemma-2-9b-it,38.7
+Samastipur,Bihar,2023,May,google/gemma-2-9b-it,38.7
+Samastipur,Bihar,2023,June,google/gemma-2-9b-it,38.7
+Samastipur,Bihar,2023,July,google/gemma-2-9b-it,38.7
+Samastipur,Bihar,2023,August,google/gemma-2-9b-it,38.7
+Samastipur,Bihar,2023,September,google/gemma-2-9b-it,38.7
+Samastipur,Bihar,2023,October,google/gemma-2-9b-it,105.0
+Samastipur,Bihar,2023,November,google/gemma-2-9b-it,100.0
+Samastipur,Bihar,2023,December,google/gemma-2-9b-it,35.2
+Shillong,Meghalaya,2023,January,google/gemma-2-9b-it,25.8
+Shillong,Meghalaya,2023,February,google/gemma-2-9b-it,25.8
+Shillong,Meghalaya,2023,March,google/gemma-2-9b-it,22.3
+Shillong,Meghalaya,2023,April,google/gemma-2-9b-it,25.3
+Shillong,Meghalaya,2023,May,google/gemma-2-9b-it,25.3
+Shillong,Meghalaya,2023,June,google/gemma-2-9b-it,25.8
+Shillong,Meghalaya,2023,July,google/gemma-2-9b-it,25.8
+Shillong,Meghalaya,2023,August,google/gemma-2-9b-it,25.8
+Shillong,Meghalaya,2023,September,google/gemma-2-9b-it,25.3
+Shillong,Meghalaya,2023,October,google/gemma-2-9b-it,25.3
+Shillong,Meghalaya,2023,November,google/gemma-2-9b-it,15.2
+Shillong,Meghalaya,2023,December,google/gemma-2-9b-it,15.2
+Silchar,Assam,2023,January,google/gemma-2-9b-it,38.7
+Silchar,Assam,2023,February,google/gemma-2-9b-it,38.7
+Silchar,Assam,2023,March,google/gemma-2-9b-it,38.7
+Silchar,Assam,2023,April,google/gemma-2-9b-it,38.7
+Silchar,Assam,2023,May,google/gemma-2-9b-it,38.7
+Silchar,Assam,2023,June,google/gemma-2-9b-it,38.7
+Silchar,Assam,2023,July,google/gemma-2-9b-it,38.7
+Silchar,Assam,2023,August,google/gemma-2-9b-it,38.7
+Silchar,Assam,2023,September,google/gemma-2-9b-it,35.2
+Silchar,Assam,2023,October,google/gemma-2-9b-it,35.2
+Silchar,Assam,2023,November,google/gemma-2-9b-it,35.2
+Silchar,Assam,2023,December,google/gemma-2-9b-it,35.2
+Srinagar,Jammu and Kashmir,2023,January,google/gemma-2-9b-it,38.2
+Srinagar,Jammu and Kashmir,2023,February,google/gemma-2-9b-it,38.2
+Srinagar,Jammu and Kashmir,2023,March,google/gemma-2-9b-it,35.2
+Srinagar,Jammu and Kashmir,2023,April,google/gemma-2-9b-it,38.7
+Srinagar,Jammu and Kashmir,2023,May,google/gemma-2-9b-it,38.7
+Srinagar,Jammu and Kashmir,2023,June,google/gemma-2-9b-it,38.7
+Srinagar,Jammu and Kashmir,2023,July,google/gemma-2-9b-it,38.7
+Srinagar,Jammu and Kashmir,2023,August,google/gemma-2-9b-it,35.2
+Srinagar,Jammu and Kashmir,2023,September,google/gemma-2-9b-it,35.2
+Srinagar,Jammu and Kashmir,2023,October,google/gemma-2-9b-it,35.0
+Srinagar,Jammu and Kashmir,2023,November,google/gemma-2-9b-it,35.0
+Srinagar,Jammu and Kashmir,2023,December,google/gemma-2-9b-it,35.0
+Thrissur,Kerala,2023,January,google/gemma-2-9b-it,30.5
+Thrissur,Kerala,2023,February,google/gemma-2-9b-it,30.5
+Thrissur,Kerala,2023,March,google/gemma-2-9b-it,30.5
+Thrissur,Kerala,2023,April,google/gemma-2-9b-it,30.5
+Thrissur,Kerala,2023,May,google/gemma-2-9b-it,30.5
+Thrissur,Kerala,2023,June,google/gemma-2-9b-it,30.5
+Thrissur,Kerala,2023,July,google/gemma-2-9b-it,30.5
+Thrissur,Kerala,2023,August,google/gemma-2-9b-it,30.5
+Thrissur,Kerala,2023,September,google/gemma-2-9b-it,25.8
+Thrissur,Kerala,2023,October,google/gemma-2-9b-it,15.2
+Thrissur,Kerala,2023,November,google/gemma-2-9b-it,15.2
+Thrissur,Kerala,2023,December,google/gemma-2-9b-it,15.2
+Ujjain,Madhya Pradesh,2023,January,google/gemma-2-9b-it,38.7
+Ujjain,Madhya Pradesh,2023,February,google/gemma-2-9b-it,38.0
+Ujjain,Madhya Pradesh,2023,March,google/gemma-2-9b-it,38.7
+Ujjain,Madhya Pradesh,2023,April,google/gemma-2-9b-it,38.7
+Ujjain,Madhya Pradesh,2023,May,google/gemma-2-9b-it,38.0
+Ujjain,Madhya Pradesh,2023,June,google/gemma-2-9b-it,38.0
+Ujjain,Madhya Pradesh,2023,July,google/gemma-2-9b-it,38.0
+Ujjain,Madhya Pradesh,2023,August,google/gemma-2-9b-it,38.0
+Ujjain,Madhya Pradesh,2023,September,google/gemma-2-9b-it,38.0
+Ujjain,Madhya Pradesh,2023,October,google/gemma-2-9b-it,105.0
+Ujjain,Madhya Pradesh,2023,November,google/gemma-2-9b-it,35.0
+Ujjain,Madhya Pradesh,2023,December,google/gemma-2-9b-it,35.0
+Vapi,Gujarat,2023,January,google/gemma-2-9b-it,35.2
+Vapi,Gujarat,2023,February,google/gemma-2-9b-it,35.2
+Vapi,Gujarat,2023,March,google/gemma-2-9b-it,35.2
+Vapi,Gujarat,2023,April,google/gemma-2-9b-it,35.2
+Vapi,Gujarat,2023,May,google/gemma-2-9b-it,35.2
+Vapi,Gujarat,2023,June,google/gemma-2-9b-it,35.2
+Vapi,Gujarat,2023,July,google/gemma-2-9b-it,38.7
+Vapi,Gujarat,2023,August,google/gemma-2-9b-it,35.2
+Vapi,Gujarat,2023,September,google/gemma-2-9b-it,35.2
+Vapi,Gujarat,2023,October,google/gemma-2-9b-it,35.2
+Vapi,Gujarat,2023,November,google/gemma-2-9b-it,100.0
+Vapi,Gujarat,2023,December,google/gemma-2-9b-it,100.0

@@ -1,0 +1,145 @@
+city,state,has_wikipedia,matched_news_city,media_count
+agra,Uttar Pradesh,True,agra,88.0
+ahmedabad,Gujarat,True,ahmedabad,239.0
+aizawl,Mizoram,True,aizawl,1.0
+ajmer,Rajasthan,True,ajmer,3.0
+alwar,Rajasthan,True,,0.0
+amaravati,Andhra Pradesh,True,amaravati,7.0
+ambala,Haryana,True,,0.0
+amritsar,Punjab,True,amritsar,43.0
+ankleshwar,Gujarat,True,,0.0
+araria,Bihar,True,,0.0
+arrah,Bihar,True,,0.0
+asansol,West Bengal,True,,0.0
+bagalkot,Karnataka,True,,0.0
+bahadurgarh,Haryana,True,,0.0
+ballabgarh,Haryana,True,,0.0
+bathinda,Punjab,True,,0.0
+bengaluru,Karnataka,True,bengaluru,537.0
+bettiah,Bihar,True,,0.0
+bhagalpur,Bihar,True,,0.0
+bhiwadi,Rajasthan,True,,0.0
+bhiwani,Haryana,True,,0.0
+bhopal,Madhya Pradesh,True,bhopal,74.0
+bihar sharif,Bihar,True,,0.0
+bilaspur,Chhattisgarh,True,,0.0
+bulandshahr,Uttar Pradesh,True,,0.0
+chamarajanagar,Karnataka,True,,0.0
+chandigarh,Chandigarh,True,chandigarh,621.0
+charkhi dadri,Haryana,True,,0.0
+chennai,Tamil Nadu,True,chennai,488.0
+chhapra,Bihar,True,,0.0
+chikkaballapur,Karnataka,True,,0.0
+chikkamagaluru,Karnataka,True,mangaluru,62.0
+damoh,Madhya Pradesh,True,,0.0
+davanagere,Karnataka,True,,0.0
+delhi,Delhi,True,delhi,5285.0
+dharuhera,Haryana,True,,0.0
+durgapur,West Bengal,True,,0.0
+eloor,Kerala,True,koviloor,1.0
+faridabad,Haryana,True,faridabad,51.0
+fatehabad,Haryana,True,fatehabad,1.0
+firozabad,Uttar Pradesh,True,,0.0
+gadag,Karnataka,True,,0.0
+gandhinagar,Gujarat,True,gandhinagar,1.0
+gaya,Bihar,True,gaya,2.0
+ghaziabad,Uttar Pradesh,True,ghaziabad,86.0
+gorakhpur,Uttar Pradesh,True,,0.0
+greater noida,Uttar Pradesh,True,greaternoida,1.0
+gummidipoondi,Tamil Nadu,True,,0.0
+gurugram,Haryana,True,gurugram,849.0
+guwahati,Assam,True,guwahati,39.0
+gwalior,Madhya Pradesh,True,,0.0
+hajipur,Bihar,True,,0.0
+hapur,Uttar Pradesh,True,thiruvananthapuram,94.0
+hassan,Karnataka,True,hassan,5.0
+hisar,Haryana,True,,0.0
+howrah,West Bengal,True,,0.0
+hubballi,Karnataka,True,hubballi,30.0
+hyderabad,Telangana,True,hyderabad,386.0
+indore,Madhya Pradesh,True,indore,41.0
+jabalpur,Madhya Pradesh,True,,0.0
+jaipur,Rajasthan,True,jaipur,121.0
+jalandhar,Punjab,True,,0.0
+jind,Haryana,True,,0.0
+jodhpur,Rajasthan,True,jodhpur,2.0
+kaithal,Haryana,True,,0.0
+kalyan,Maharashtra,True,,0.0
+kannur,Kerala,True,kannur,5.0
+kanpur,Uttar Pradesh,True,kanpur,56.0
+karnal,Haryana,True,karnal,1.0
+katihar,Bihar,True,,0.0
+katni,Madhya Pradesh,True,,0.0
+khanna,Punjab,True,,0.0
+kishanganj,Bihar,True,,0.0
+kochi,Kerala,True,kochi,205.0
+kohima,Nagaland,True,,0.0
+kolkata,West Bengal,True,kolkata,488.0
+kollam,Kerala,True,kollam,3.0
+koppal,Karnataka,True,,0.0
+kota,Rajasthan,True,sriharikota,1.0
+kurukshetra,Haryana,True,,0.0
+lucknow,Uttar Pradesh,True,lucknow,320.0
+ludhiana,Punjab,True,ludhiana,160.0
+madikeri,Karnataka,True,,0.0
+mandi gobindgarh,Punjab,True,,0.0
+mandideep,Madhya Pradesh,True,,0.0
+mandikhera,Haryana,False,,0.0
+manesar,Haryana,True,,0.0
+mangalore,Karnataka,True,mangalore,4.0
+manguraha,Bihar,False,,0.0
+meerut,Uttar Pradesh,True,meerut,44.0
+moradabad,Uttar Pradesh,True,,0.0
+motihari,Bihar,True,,0.0
+mumbai,Maharashtra,True,mumbai,647.0
+munger,Bihar,True,,0.0
+muzaffarnagar,Uttar Pradesh,True,muzaffarnagar,1.0
+muzaffarpur,Bihar,True,,0.0
+mysuru,Karnataka,True,mysuru,68.0
+nagpur,Maharashtra,True,nagpur,471.0
+naharlagun,Arunachal Pradesh,True,,0.0
+nandesari,Gujarat,True,,0.0
+narnaul,Haryana,True,,0.0
+nashik,Maharashtra,True,nashik,46.0
+navi mumbai,Maharashtra,True,navimumbai,2.0
+noida,Uttar Pradesh,True,noida,368.0
+pali,Rajasthan,True,,0.0
+palwal,Haryana,True,,0.0
+panchkula,Haryana,True,,0.0
+panipat,Haryana,True,,0.0
+patiala,Punjab,True,patiala,1.0
+patna,Bihar,True,patna,317.0
+pithampur,Madhya Pradesh,True,,0.0
+prayagraj,Uttar Pradesh,True,agra,88.0
+puducherry,Puducherry,True,puducherry,26.0
+purnia,Bihar,True,,0.0
+raichur,Karnataka,True,raichur,1.0
+rajamahendravaram,Andhra Pradesh,True,rajamahendravaram,1.0
+rajgir,Bihar,True,,0.0
+ramanagara,Karnataka,True,,0.0
+ratlam,Madhya Pradesh,True,,0.0
+rohtak,Haryana,True,,0.0
+rupnagar,Punjab,True,,0.0
+saharsa,Bihar,True,,0.0
+sasaram,Bihar,True,,0.0
+satna,Madhya Pradesh,True,patna,317.0
+shivamogga,Karnataka,True,shivamogga,5.0
+siliguri,West Bengal,True,,0.0
+singrauli,Madhya Pradesh,True,,0.0
+sirsa,Haryana,True,,0.0
+siwan,Bihar,True,,0.0
+solapur,Maharashtra,True,kolhapur,35.0
+srinagar,Jammu and Kashmir,True,srinagar,2.0
+talcher,Odisha,True,,0.0
+thiruvananthapuram,Kerala,True,thiruvananthapuram,94.0
+thrissur,Kerala,True,thrissur,5.0
+tirupati,Andhra Pradesh,True,tirupati,3.0
+udaipur,Rajasthan,True,udaipur,7.0
+ujjain,Madhya Pradesh,True,,0.0
+varanasi,Uttar Pradesh,True,varanasi,51.0
+vatva,Gujarat,True,,0.0
+vijayapura,Karnataka,True,,0.0
+visakhapatnam,Andhra Pradesh,True,visakhapatnam,204.0
+vrindavan,Uttar Pradesh,True,,0.0
+yadgir,Karnataka,True,,0.0
+yamuna nagar,Haryana,True,,0.0

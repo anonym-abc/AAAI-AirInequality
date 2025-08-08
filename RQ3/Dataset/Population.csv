@@ -1,0 +1,202 @@
+city,state,matched_city,level,population,score
+agartala,tripura,,,,
+agra,uttar pradesh,,district,4418797.0,100.0
+ahmedabad,gujarat,,district,7214225.0,88.88888888888889
+aizawl,mizoram,,district,400309.0,100.0
+ajmer,rajasthan,,district,2583052.0,100.0
+alwar,rajasthan,,district,3674179.0,100.0
+amaravati,andhra pradesh,,sub-district,66277.0,94.73684210526316
+ambala,haryana,,district,1128350.0,100.0
+amritsar,punjab,,district,2490656.0,100.0
+anantapur,andhra pradesh,,district,4081148.0,100.0
+ankleshwar,gujarat,,,,
+araria,bihar,,district,2811569.0,100.0
+ariyalur,tamil nadu,,district,754894.0,100.0
+arrah,bihar,,sub-district,462618.0,100.0
+asansol,west bengal,,,,
+aurangabad,bihar,,district,2540073.0,100.0
+aurangabad,maharashtra,,district,3701282.0,100.0
+baddi,himachal pradesh,,sub-district,90942.0,100.0
+bagalkot,karnataka,,district,1889752.0,100.0
+baghpat,uttar pradesh,,district,1303048.0,100.0
+bahadurgarh,haryana,,sub-district,403746.0,100.0
+ballabgarh,haryana,,sub-district,214894.0,100.0
+bareilly,uttar pradesh,,district,4448359.0,100.0
+baripada,odisha,,sub-district,87091.0,90.0
+bathinda,punjab,,district,1388525.0,100.0
+begusarai,bihar,,district,2970541.0,100.0
+belgaum,karnataka,,district,4779661.0,100.0
+bengaluru,karnataka,,sub-district,85255.0,90.0
+bettiah,bihar,,sub-district,224200.0,100.0
+bhagalpur,bihar,,district,3037766.0,100.0
+bhilai,chhattisgarh,,,,
+bhiwadi,rajasthan,,,,
+bhiwani,haryana,,district,1634445.0,100.0
+bhopal,madhya pradesh,,district,2371061.0,100.0
+bihar sharif,bihar,,sub-district,494489.0,90.0
+bilaspur,chhattisgarh,,district,2663629.0,100.0
+bileipada,odisha,,,,
+brajrajnagar,odisha,,sub-district,26484.0,96.0
+bulandshahr,uttar pradesh,,district,3499171.0,100.0
+byrnihat,assam,,,,
+chamarajanagar,karnataka,,district,1020791.0,100.0
+chandigarh,chandigarh,,district,1055450.0,100.0
+chandrapur,maharashtra,,district,2204307.0,100.0
+charkhi dadri,haryana,,sub-district,384192.0,90.0
+chennai,tamil nadu,,district,4646732.0,100.0
+chhal,chhattisgarh,,,,
+chhapra,bihar,,sub-district,442639.0,92.3076923076923
+chikkaballapur,karnataka,,district,1255104.0,96.55172413793103
+chikkamagaluru,karnataka,,district,1137961.0,88.0
+chittoor,andhra pradesh,,district,4174064.0,100.0
+damoh,madhya pradesh,,district,1264219.0,100.0
+davanagere,karnataka,,district,1945497.0,100.0
+dehradun,uttarakhand,,district,1696694.0,100.0
+delhi,nct of delhi,,district,142004.0,90.0
+dewas,madhya pradesh,,district,1563715.0,100.0
+dharuhera,haryana,,,,
+dharwad,karnataka,,district,1847023.0,100.0
+durgapur,west bengal,,sub-district,115924.0,90.0
+eloor,kerala,,,,
+faridabad,haryana,,district,1809733.0,100.0
+fatehabad,haryana,,district,942011.0,100.0
+firozabad,uttar pradesh,,district,2498156.0,100.0
+gadag,karnataka,,district,1064570.0,100.0
+gandhinagar,gujarat,,district,1391753.0,100.0
+gangtok,sikkim,,sub-district,219450.0,100.0
+gaya,bihar,,district,4391418.0,100.0
+ghaziabad,uttar pradesh,,district,4681645.0,100.0
+gorakhpur,uttar pradesh,,district,4440895.0,100.0
+greater noida,uttar pradesh,,,,
+gummidipoondi,tamil nadu,,sub-district,190541.0,100.0
+gurugram,haryana,,,,
+guwahati,assam,,sub-district,433771.0,100.0
+gwalior,madhya pradesh,,district,2032036.0,100.0
+hajipur,bihar,,sub-district,443976.0,100.0
+haldia,west bengal,,sub-district,97992.0,100.0
+hapur,uttar pradesh,,sub-district,953480.0,100.0
+hassan,karnataka,,district,1776421.0,100.0
+haveri,karnataka,,district,1597668.0,100.0
+hisar,haryana,,district,1743931.0,100.0
+hosur,tamil nadu,,sub-district,539663.0,100.0
+howrah,west bengal,,,,
+hubballi,karnataka,,,,
+hyderabad,telangana,,,,
+indore,madhya pradesh,,district,3276697.0,100.0
+jabalpur,madhya pradesh,,district,2463289.0,100.0
+jaipur,rajasthan,,district,6626178.0,100.0
+jalandhar,punjab,,district,2193590.0,100.0
+jhansi,uttar pradesh,,district,1998603.0,100.0
+jind,haryana,,district,1334152.0,100.0
+jodhpur,rajasthan,,district,3687165.0,100.0
+kadapa,andhra pradesh,,sub-district,318916.0,100.0
+kaithal,haryana,,district,1074304.0,100.0
+kalaburagi,karnataka,,,,
+kalyan,maharashtra,,sub-district,1565417.0,100.0
+kanchipuram,tamil nadu,,district,3998252.0,86.95652173913044
+kannur,kerala,,district,2523003.0,100.0
+kanpur,uttar pradesh,,district,1796184.0,90.0
+karnal,haryana,,district,1505324.0,100.0
+katihar,bihar,,district,3071029.0,100.0
+katni,madhya pradesh,,district,1292042.0,100.0
+keonjhar,odisha,,,,
+khanna,punjab,,sub-district,222297.0,100.0
+khurja,uttar pradesh,,sub-district,519063.0,100.0
+kishanganj,bihar,,district,1690400.0,100.0
+kochi,kerala,,sub-district,508212.0,100.0
+kohima,nagaland,,district,267988.0,100.0
+kolkata,west bengal,,district,4496694.0,100.0
+kollam,kerala,,district,2635375.0,100.0
+koppal,karnataka,,district,1389920.0,100.0
+korba,chhattisgarh,,district,1206640.0,100.0
+kota,rajasthan,,district,1951014.0,100.0
+kunjemura,chhattisgarh,,,,
+kurukshetra,haryana,,district,964655.0,100.0
+lucknow,uttar pradesh,,district,4589838.0,100.0
+ludhiana,punjab,,district,3498739.0,100.0
+madikeri,karnataka,,sub-district,146583.0,100.0
+maihar,madhya pradesh,,sub-district,358725.0,100.0
+mandi gobindgarh,punjab,,,,
+mandideep,madhya pradesh,,,,
+mandikhera,haryana,,,,
+manesar,haryana,,sub-district,116606.0,100.0
+mangalore,karnataka,,district,9621551.0,88.88888888888889
+manguraha,bihar,,,,
+meerut,uttar pradesh,,district,3443689.0,100.0
+moradabad,uttar pradesh,,district,4772006.0,100.0
+motihari,bihar,,sub-district,363976.0,100.0
+mumbai,maharashtra,,district,3085411.0,100.0
+munger,bihar,,district,1367765.0,100.0
+muzaffarnagar,uttar pradesh,,district,4143512.0,100.0
+muzaffarpur,bihar,,district,4801062.0,100.0
+mysuru,karnataka,,,,
+nagpur,maharashtra,,district,4653570.0,100.0
+naharlagun,arunachal pradesh,,sub-district,49106.0,100.0
+nalbari,assam,,district,771639.0,100.0
+nandesari,gujarat,,,,
+narnaul,haryana,,sub-district,517707.0,100.0
+nashik,maharashtra,,district,6107187.0,100.0
+navi mumbai,maharashtra,,district,3085411.0,90.0
+nayagarh,odisha,,district,962789.0,100.0
+noida,uttar pradesh,,,,
+ooty,tamil nadu,,,,
+pali,rajasthan,,district,2037573.0,100.0
+palwal,haryana,,district,1042708.0,100.0
+panchkula,haryana,,district,561293.0,100.0
+panipat,haryana,,district,1205437.0,100.0
+patiala,punjab,,district,1895686.0,100.0
+patna,bihar,,district,5838465.0,100.0
+pithampur,madhya pradesh,,,,
+prayagraj,uttar pradesh,,district,4418797.0,90.0
+puducherry,puducherry,,district,950289.0,100.0
+pune,maharashtra,,district,9429408.0,100.0
+purnia,bihar,,district,3264619.0,100.0
+raichur,karnataka,,district,1928812.0,100.0
+raipur,chhattisgarh,,district,4063872.0,100.0
+rajamahendravaram,andhra pradesh,,sub-district,94039.0,90.0
+rajgir,bihar,,sub-district,130183.0,100.0
+ramanagara,karnataka,,district,1082636.0,100.0
+ramanathapuram,tamil nadu,,district,1353445.0,100.0
+ratlam,madhya pradesh,,district,1455069.0,100.0
+rohtak,haryana,,district,1061204.0,100.0
+rourkela,odisha,,,,
+rupnagar,punjab,,district,684627.0,100.0
+sagar,madhya pradesh,,district,2378458.0,100.0
+saharsa,bihar,,district,1900661.0,100.0
+salem,tamil nadu,,district,3482056.0,100.0
+samastipur,bihar,,district,4261566.0,100.0
+sasaram,bihar,,sub-district,358283.0,100.0
+satna,madhya pradesh,,district,2228935.0,100.0
+shillong,meghalaya,,,,
+shivamogga,karnataka,,,,
+silchar,assam,,sub-district,704465.0,100.0
+siliguri,west bengal,,,,
+singrauli,madhya pradesh,,district,1178273.0,100.0
+sirohi,rajasthan,,district,1036346.0,100.0
+sirsa,haryana,,district,1295189.0,100.0
+sivasagar,assam,,district,1151050.0,100.0
+siwan,bihar,,district,3330464.0,100.0
+solapur,maharashtra,,district,4317756.0,100.0
+sonipat,haryana,,district,1450001.0,100.0
+srinagar,jammu & kashmir,,district,1236829.0,100.0
+suakati,odisha,,,,
+surat,gujarat,,district,6081322.0,100.0
+talcher,odisha,,sub-district,97968.0,90.0
+tensa,odisha,,,,
+thiruvananthapuram,kerala,,district,3301427.0,100.0
+thrissur,kerala,,district,3121200.0,100.0
+tirupati,andhra pradesh,,sub-district,117445.0,90.0
+tumakuru,karnataka,,district,2678980.0,85.71428571428572
+tumidih,chhattisgarh,,,,
+udaipur,rajasthan,,district,3068420.0,100.0
+ujjain,madhya pradesh,,district,1986864.0,100.0
+vapi,gujarat,,,,
+varanasi,uttar pradesh,,district,3676841.0,100.0
+vatva,gujarat,,,,
+vellore,tamil nadu,,district,3936331.0,100.0
+vijayapura,karnataka,,,,
+vijayawada,andhra pradesh,,sub-district,1021806.0,90.0
+visakhapatnam,andhra pradesh,,district,4290589.0,100.0
+vrindavan,uttar pradesh,,,,
+yadgir,karnataka,,district,1174271.0,100.0
+yamuna nagar,haryana,,district,1214205.0,95.65217391304348

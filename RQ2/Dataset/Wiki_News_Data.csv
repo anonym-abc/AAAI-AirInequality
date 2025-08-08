@@ -1,0 +1,202 @@
+city,state,has_wikipedia,wiki_len,matched_news_city,media_count
+agartala,tripura,True,30333,"agartala, tripura",1.0
+agra,uttar pradesh,True,51925,"agra, uttar pradesh",88.0
+ahmedabad,gujarat,True,45827,"ahmedabad, gujarat",239.0
+aizawl,mizoram,True,15347,"aizawl, mizoram",1.0
+ajmer,rajasthan,True,16162,"ajmer, rajasthan",3.0
+alwar,rajasthan,True,12633,,0.0
+amaravati,andhra pradesh,True,18937,"amaravati, andhra pradesh",7.0
+ambala,haryana,True,10731,,0.0
+amritsar,punjab,True,17058,"amritsar, punjab",43.0
+anantapur,andhra pradesh,True,7302,"anantapur, andhra pradesh",2.0
+ankleshwar,gujarat,True,1725,,0.0
+araria,bihar,True,6236,,0.0
+ariyalur,tamil nadu,True,10949,"ariyalur, tamil nadu",1.0
+arrah,bihar,True,37775,,0.0
+asansol,west bengal,True,14380,,0.0
+aurangabad,bihar,True,24245,,0.0
+aurangabad,maharashtra,True,24245,"aurangabad, maharashtra",39.0
+baddi,himachal pradesh,True,2365,,0.0
+bagalkot,karnataka,True,2132,,0.0
+baghpat,uttar pradesh,True,2689,,0.0
+bahadurgarh,haryana,True,7109,,0.0
+ballabgarh,haryana,True,10775,,0.0
+bareilly,uttar pradesh,True,40246,"bareilly, uttar pradesh",41.0
+baripada,odisha,True,19351,,0.0
+bathinda,punjab,True,7605,,0.0
+begusarai,bihar,True,21220,,0.0
+belgaum,karnataka,True,18323,,0.0
+bengaluru,karnataka,True,57436,"bengaluru, karnataka",537.0
+bettiah,bihar,True,10645,,0.0
+bhagalpur,bihar,True,18709,,0.0
+bhilai,chhattisgarh,True,6971,,0.0
+bhiwadi,rajasthan,True,3712,,0.0
+bhiwani,haryana,True,8419,,0.0
+bhopal,madhya pradesh,True,39315,"bhopal, madhya pradesh",74.0
+bihar sharif,bihar,True,16150,,0.0
+bilaspur,chhattisgarh,True,31658,,0.0
+bileipada,odisha,True,306,,0.0
+brajrajnagar,odisha,True,10211,,0.0
+bulandshahr,uttar pradesh,True,8387,,0.0
+byrnihat,assam,False,0,,0.0
+chamarajanagar,karnataka,True,3194,,0.0
+chandigarh,chandigarh,True,35757,"chandigarh, chandigarh",621.0
+chandrapur,maharashtra,True,14137,,0.0
+charkhi dadri,haryana,True,9048,,0.0
+chennai,tamil nadu,True,49896,"chennai, tamil nadu",488.0
+chhal,chhattisgarh,False,0,,0.0
+chhapra,bihar,True,2981,,0.0
+chikkaballapur,karnataka,True,6866,,0.0
+chikkamagaluru,karnataka,True,3473,,0.0
+chittoor,andhra pradesh,True,11176,"chittoor, andhra pradesh",1.0
+damoh,madhya pradesh,True,6446,,0.0
+davanagere,karnataka,True,5052,,0.0
+dehradun,uttarakhand,True,47768,"dehradun, uttarakhand",32.0
+delhi,delhi,True,52514,"delhi, delhi",5285.0
+dewas,madhya pradesh,True,11930,,0.0
+dharuhera,haryana,True,4536,,0.0
+dharwad,karnataka,True,14555,,0.0
+durgapur,west bengal,True,22113,,0.0
+eloor,kerala,True,3447,,0.0
+faridabad,haryana,True,16135,"faridabad, haryana",51.0
+fatehabad,haryana,True,2401,"fatehabad, haryana",1.0
+firozabad,uttar pradesh,True,13392,,0.0
+gadag,karnataka,True,3624,,0.0
+gandhinagar,gujarat,True,4823,"gandhinagar, gujarat",1.0
+gangtok,sikkim,True,25660,,0.0
+gaya,bihar,True,17234,"gaya, bihar",2.0
+ghaziabad,uttar pradesh,True,13050,"ghaziabad, uttar pradesh",86.0
+gorakhpur,uttar pradesh,True,23236,,0.0
+greater noida,uttar pradesh,True,13807,,0.0
+gummidipoondi,tamil nadu,True,1302,,0.0
+gurugram,haryana,True,21854,"gurugram, haryana",849.0
+guwahati,assam,True,30450,"guwahati, assam",39.0
+gwalior,madhya pradesh,True,51350,,0.0
+hajipur,bihar,True,18504,,0.0
+haldia,west bengal,True,5538,,0.0
+hapur,uttar pradesh,True,3574,,0.0
+hassan,karnataka,True,2738,"hassan, karnataka",5.0
+haveri,karnataka,True,1891,,0.0
+hisar,haryana,True,20574,,0.0
+hosur,tamil nadu,True,9229,,0.0
+howrah,west bengal,True,13108,,0.0
+hubballi,karnataka,True,14686,"hubballi, karnataka",30.0
+hyderabad,telangana,True,57596,"hyderabad, telangana",386.0
+indore,madhya pradesh,True,45890,"indore, madhya pradesh",41.0
+jabalpur,madhya pradesh,True,21996,,0.0
+jaipur,rajasthan,True,24748,"jaipur, rajasthan",121.0
+jalandhar,punjab,True,12414,,0.0
+jhansi,uttar pradesh,True,32155,,0.0
+jind,haryana,True,4015,,0.0
+jodhpur,rajasthan,True,27599,"jodhpur, rajasthan",2.0
+kadapa,andhra pradesh,True,10710,"kadapa, andhra pradesh",1.0
+kaithal,haryana,True,16789,,0.0
+kalaburagi,karnataka,True,9876,"kalaburagi, karnataka",2.0
+kalyan,maharashtra,True,3922,,0.0
+kanchipuram,tamil nadu,True,36308,,0.0
+kannur,kerala,True,22323,"kannur, kerala",5.0
+kanpur,uttar pradesh,True,23325,"kanpur, uttar pradesh",56.0
+karnal,haryana,True,8739,"karnal, haryana",1.0
+katihar,bihar,True,3185,,0.0
+katni,madhya pradesh,True,2341,,0.0
+keonjhar,odisha,True,827,,0.0
+khanna,punjab,True,3027,,0.0
+khurja,uttar pradesh,True,9697,,0.0
+kishanganj,bihar,True,1673,,0.0
+kochi,kerala,True,56490,"kochi, kerala",205.0
+kohima,nagaland,True,17989,,0.0
+kolkata,west bengal,True,56735,"kolkata, west bengal",488.0
+kollam,kerala,True,38540,"kollam, kerala",3.0
+koppal,karnataka,True,1505,,0.0
+korba,chhattisgarh,True,4382,,0.0
+kota,rajasthan,True,21096,,0.0
+kunjemura,chhattisgarh,False,0,,0.0
+kurukshetra,haryana,True,12012,,0.0
+lucknow,uttar pradesh,True,60794,"lucknow, uttar pradesh",320.0
+ludhiana,punjab,True,14424,"ludhiana, punjab",160.0
+madikeri,karnataka,True,5193,,0.0
+maihar,madhya pradesh,True,8185,,0.0
+mandi gobindgarh,punjab,True,4289,,0.0
+mandideep,madhya pradesh,True,3786,,0.0
+mandikhera,haryana,False,0,,0.0
+manesar,haryana,True,8722,,0.0
+mangalore,karnataka,True,43650,"mangalore, karnataka",4.0
+manguraha,bihar,False,0,,0.0
+meerut,uttar pradesh,True,41195,"meerut, uttar pradesh",44.0
+moradabad,uttar pradesh,True,49376,,0.0
+motihari,bihar,True,6435,,0.0
+mumbai,maharashtra,True,69685,"mumbai, maharashtra",647.0
+munger,bihar,True,8860,,0.0
+muzaffarnagar,uttar pradesh,True,9330,"muzaffarnagar, uttar pradesh",1.0
+muzaffarpur,bihar,True,8307,,0.0
+mysuru,karnataka,True,34060,"mysuru, karnataka",68.0
+nagpur,maharashtra,True,63124,"nagpur, maharashtra",471.0
+naharlagun,arunachal pradesh,True,1586,,0.0
+nalbari,assam,True,11320,,0.0
+nandesari,gujarat,True,608,,0.0
+narnaul,haryana,True,5712,,0.0
+nashik,maharashtra,True,17415,"nashik, maharashtra",46.0
+navi mumbai,maharashtra,True,17825,,0.0
+nayagarh,odisha,True,29891,,0.0
+noida,uttar pradesh,True,24198,"noida, uttar pradesh",368.0
+ooty,tamil nadu,True,15483,,0.0
+pali,rajasthan,True,56440,,0.0
+palwal,haryana,True,2593,,0.0
+panchkula,haryana,True,15149,,0.0
+panipat,haryana,True,8341,,0.0
+patiala,punjab,True,16561,"patiala, punjab",1.0
+patna,bihar,True,49274,"patna, bihar",317.0
+pithampur,madhya pradesh,True,851,,0.0
+prayagraj,uttar pradesh,True,60232,,0.0
+puducherry,puducherry,True,17186,"puducherry, puducherry",26.0
+pune,maharashtra,True,53572,"pune, maharashtra",396.0
+purnia,bihar,True,15417,,0.0
+raichur,karnataka,True,5932,"raichur, karnataka",1.0
+raipur,chhattisgarh,True,18710,"raipur, chhattisgarh",21.0
+rajamahendravaram,andhra pradesh,True,18716,"rajamahendravaram, andhra pradesh",1.0
+rajgir,bihar,True,28580,,0.0
+ramanagara,karnataka,True,2314,,0.0
+ramanathapuram,tamil nadu,True,8717,"ramanathapuram, tamil nadu",2.0
+ratlam,madhya pradesh,True,4298,,0.0
+rohtak,haryana,True,20809,,0.0
+rourkela,odisha,True,24597,,0.0
+rupnagar,punjab,True,6227,,0.0
+sagar,madhya pradesh,True,17557,,0.0
+saharsa,bihar,True,4981,,0.0
+salem,tamil nadu,True,19020,,0.0
+samastipur,bihar,True,2683,,0.0
+sasaram,bihar,True,12810,,0.0
+satna,madhya pradesh,True,17190,,0.0
+shillong,meghalaya,True,19391,,0.0
+shivamogga,karnataka,True,8797,"shivamogga, karnataka",5.0
+silchar,assam,True,24688,,0.0
+siliguri,west bengal,True,31482,,0.0
+singrauli,madhya pradesh,True,2131,,0.0
+sirohi,rajasthan,True,1722,,0.0
+sirsa,haryana,True,6146,,0.0
+sivasagar,assam,True,6753,,0.0
+siwan,bihar,True,3585,,0.0
+solapur,maharashtra,True,20430,,0.0
+sonipat,haryana,True,12274,"sonipat, haryana",2.0
+srinagar,jammu and kashmir,True,31447,"srinagar, jammu and kashmir",2.0
+suakati,odisha,False,0,,0.0
+surat,gujarat,True,30656,,0.0
+talcher,odisha,True,15801,,0.0
+tensa,odisha,True,2072,,0.0
+thiruvananthapuram,kerala,True,48957,"thiruvananthapuram, kerala",94.0
+thrissur,kerala,True,27048,"thrissur, kerala",5.0
+tirupati,andhra pradesh,True,32317,"tirupati, andhra pradesh",3.0
+tumakuru,karnataka,True,4487,,0.0
+tumidih,chhattisgarh,False,0,,0.0
+udaipur,rajasthan,True,33169,"udaipur, rajasthan",7.0
+ujjain,madhya pradesh,True,20102,,0.0
+vapi,gujarat,True,2584,,0.0
+varanasi,uttar pradesh,True,59993,"varanasi, uttar pradesh",51.0
+vatva,gujarat,True,895,,0.0
+vellore,tamil nadu,True,32013,"vellore, tamil nadu",12.0
+vijayapura,karnataka,True,903,,0.0
+vijayawada,andhra pradesh,True,30209,"vijayawada, andhra pradesh",86.0
+visakhapatnam,andhra pradesh,True,42919,"visakhapatnam, andhra pradesh",204.0
+vrindavan,uttar pradesh,True,8042,,0.0
+yadgir,karnataka,True,5184,,0.0
+yamuna nagar,haryana,True,6736,,0.0

@@ -1,0 +1,13 @@
+year,month,model,pm2.5
+2023,January,google/gemma-2-27b-it,94.0
+2023,February,google/gemma-2-27b-it,75.0
+2023,March,google/gemma-2-27b-it,72.0
+2023,April,google/gemma-2-27b-it,72.0
+2023,May,google/gemma-2-27b-it,75.0
+2023,June,google/gemma-2-27b-it,72.0
+2023,July,google/gemma-2-27b-it,55.0
+2023,August,google/gemma-2-27b-it,55.0
+2023,September,google/gemma-2-27b-it,75.0
+2023,October,google/gemma-2-27b-it,75.0
+2023,November,google/gemma-2-27b-it,102.0
+2023,December,google/gemma-2-27b-it,102.0

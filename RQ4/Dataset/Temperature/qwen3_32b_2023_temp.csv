@@ -1,0 +1,1416 @@
+city,state,year,month,model,pm2.5
+agra,uttar pradesh,2023,January,Qwen/Qwen3-32B,154.3
+agra,uttar pradesh,2023,February,Qwen/Qwen3-32B,154.3
+agra,uttar pradesh,2023,March,Qwen/Qwen3-32B,150.7
+agra,uttar pradesh,2023,April,Qwen/Qwen3-32B,150.7
+agra,uttar pradesh,2023,May,Qwen/Qwen3-32B,85.6
+agra,uttar pradesh,2023,June,Qwen/Qwen3-32B,85.6
+agra,uttar pradesh,2023,July,Qwen/Qwen3-32B,78.2
+agra,uttar pradesh,2023,August,Qwen/Qwen3-32B,150.3
+agra,uttar pradesh,2023,September,Qwen/Qwen3-32B,150.2
+agra,uttar pradesh,2023,October,Qwen/Qwen3-32B,150.7
+agra,uttar pradesh,2023,November,Qwen/Qwen3-32B,150.3
+agra,uttar pradesh,2023,December,Qwen/Qwen3-32B,154.3
+ahmedabad,gujarat,2023,January,Qwen/Qwen3-32B,154.6
+ahmedabad,gujarat,2023,February,Qwen/Qwen3-32B,150.7
+ahmedabad,gujarat,2023,March,Qwen/Qwen3-32B,150.3
+ahmedabad,gujarat,2023,April,Qwen/Qwen3-32B,150.3
+ahmedabad,gujarat,2023,May,Qwen/Qwen3-32B,45.6
+ahmedabad,gujarat,2023,June,Qwen/Qwen3-32B,45.6
+ahmedabad,gujarat,2023,July,Qwen/Qwen3-32B,45.6
+ahmedabad,gujarat,2023,August,Qwen/Qwen3-32B,45.6
+ahmedabad,gujarat,2023,September,Qwen/Qwen3-32B,45.6
+ahmedabad,gujarat,2023,October,Qwen/Qwen3-32B,150.3
+ahmedabad,gujarat,2023,November,Qwen/Qwen3-32B,150.3
+ahmedabad,gujarat,2023,December,Qwen/Qwen3-32B,150.3
+amaravati,andhra pradesh,2023,January,Qwen/Qwen3-32B,45.7
+amaravati,andhra pradesh,2023,February,Qwen/Qwen3-32B,45.7
+amaravati,andhra pradesh,2023,March,Qwen/Qwen3-32B,45.6
+amaravati,andhra pradesh,2023,April,Qwen/Qwen3-32B,45.7
+amaravati,andhra pradesh,2023,May,Qwen/Qwen3-32B,45.6
+amaravati,andhra pradesh,2023,June,Qwen/Qwen3-32B,45.7
+amaravati,andhra pradesh,2023,July,Qwen/Qwen3-32B,45.6
+amaravati,andhra pradesh,2023,August,Qwen/Qwen3-32B,45.7
+amaravati,andhra pradesh,2023,September,Qwen/Qwen3-32B,45.7
+amaravati,andhra pradesh,2023,October,Qwen/Qwen3-32B,45.6
+amaravati,andhra pradesh,2023,November,Qwen/Qwen3-32B,45.6
+amaravati,andhra pradesh,2023,December,Qwen/Qwen3-32B,45.6
+anantapur,andhra pradesh,2023,January,Qwen/Qwen3-32B,45.7
+anantapur,andhra pradesh,2023,February,Qwen/Qwen3-32B,45.6
+anantapur,andhra pradesh,2023,March,Qwen/Qwen3-32B,45.6
+anantapur,andhra pradesh,2023,April,Qwen/Qwen3-32B,45.6
+anantapur,andhra pradesh,2023,May,Qwen/Qwen3-32B,45.6
+anantapur,andhra pradesh,2023,June,Qwen/Qwen3-32B,45.6
+anantapur,andhra pradesh,2023,July,Qwen/Qwen3-32B,38.4
+anantapur,andhra pradesh,2023,August,Qwen/Qwen3-32B,35.7
+anantapur,andhra pradesh,2023,September,Qwen/Qwen3-32B,45.7
+anantapur,andhra pradesh,2023,October,Qwen/Qwen3-32B,45.6
+anantapur,andhra pradesh,2023,November,Qwen/Qwen3-32B,45.6
+anantapur,andhra pradesh,2023,December,Qwen/Qwen3-32B,45.7
+araria,bihar,2023,January,Qwen/Qwen3-32B,154.2
+araria,bihar,2023,February,Qwen/Qwen3-32B,85.6
+araria,bihar,2023,March,Qwen/Qwen3-32B,45.7
+araria,bihar,2023,April,Qwen/Qwen3-32B,78.3
+araria,bihar,2023,May,Qwen/Qwen3-32B,45.6
+araria,bihar,2023,June,Qwen/Qwen3-32B,78.4
+araria,bihar,2023,July,Qwen/Qwen3-32B,45.6
+araria,bihar,2023,August,Qwen/Qwen3-32B,45.6
+araria,bihar,2023,September,Qwen/Qwen3-32B,45.6
+araria,bihar,2023,October,Qwen/Qwen3-32B,78.4
+araria,bihar,2023,November,Qwen/Qwen3-32B,156.4
+araria,bihar,2023,December,Qwen/Qwen3-32B,156.3
+ariyalur,tamil nadu,2023,January,Qwen/Qwen3-32B,45.6
+ariyalur,tamil nadu,2023,February,Qwen/Qwen3-32B,45.6
+ariyalur,tamil nadu,2023,March,Qwen/Qwen3-32B,45.6
+ariyalur,tamil nadu,2023,April,Qwen/Qwen3-32B,45.7
+ariyalur,tamil nadu,2023,May,Qwen/Qwen3-32B,45.7
+ariyalur,tamil nadu,2023,June,Qwen/Qwen3-32B,45.6
+ariyalur,tamil nadu,2023,July,Qwen/Qwen3-32B,35.2
+ariyalur,tamil nadu,2023,August,Qwen/Qwen3-32B,45.6
+ariyalur,tamil nadu,2023,September,Qwen/Qwen3-32B,45.6
+ariyalur,tamil nadu,2023,October,Qwen/Qwen3-32B,45.7
+ariyalur,tamil nadu,2023,November,Qwen/Qwen3-32B,45.7
+ariyalur,tamil nadu,2023,December,Qwen/Qwen3-32B,45.6
+arrah,bihar,2023,January,Qwen/Qwen3-32B,154.3
+arrah,bihar,2023,February,Qwen/Qwen3-32B,78.4
+arrah,bihar,2023,March,Qwen/Qwen3-32B,45.7
+arrah,bihar,2023,April,Qwen/Qwen3-32B,78.4
+arrah,bihar,2023,May,Qwen/Qwen3-32B,45.6
+arrah,bihar,2023,June,Qwen/Qwen3-32B,78.4
+arrah,bihar,2023,July,Qwen/Qwen3-32B,45.6
+arrah,bihar,2023,August,Qwen/Qwen3-32B,45.7
+arrah,bihar,2023,September,Qwen/Qwen3-32B,78.4
+arrah,bihar,2023,October,Qwen/Qwen3-32B,78.4
+arrah,bihar,2023,November,Qwen/Qwen3-32B,150.3
+arrah,bihar,2023,December,Qwen/Qwen3-32B,156.7
+aurangabad,bihar,2023,January,Qwen/Qwen3-32B,156.3
+aurangabad,bihar,2023,February,Qwen/Qwen3-32B,85.6
+aurangabad,bihar,2023,March,Qwen/Qwen3-32B,78.4
+aurangabad,bihar,2023,April,Qwen/Qwen3-32B,85.4
+aurangabad,bihar,2023,May,Qwen/Qwen3-32B,78.4
+aurangabad,bihar,2023,June,Qwen/Qwen3-32B,78.2
+aurangabad,bihar,2023,July,Qwen/Qwen3-32B,78.4
+aurangabad,bihar,2023,August,Qwen/Qwen3-32B,45.7
+aurangabad,bihar,2023,September,Qwen/Qwen3-32B,45.6
+aurangabad,bihar,2023,October,Qwen/Qwen3-32B,78.3
+aurangabad,bihar,2023,November,Qwen/Qwen3-32B,156.3
+aurangabad,bihar,2023,December,Qwen/Qwen3-32B,156.3
+baddi,himachal pradesh,2023,January,Qwen/Qwen3-32B,45.6
+baddi,himachal pradesh,2023,February,Qwen/Qwen3-32B,45.6
+baddi,himachal pradesh,2023,March,Qwen/Qwen3-32B,45.6
+baddi,himachal pradesh,2023,April,Qwen/Qwen3-32B,45.7
+baddi,himachal pradesh,2023,May,Qwen/Qwen3-32B,45.7
+baddi,himachal pradesh,2023,June,Qwen/Qwen3-32B,45.6
+baddi,himachal pradesh,2023,July,Qwen/Qwen3-32B,45.6
+baddi,himachal pradesh,2023,August,Qwen/Qwen3-32B,45.6
+baddi,himachal pradesh,2023,September,Qwen/Qwen3-32B,45.7
+baddi,himachal pradesh,2023,October,Qwen/Qwen3-32B,45.7
+baddi,himachal pradesh,2023,November,Qwen/Qwen3-32B,45.6
+baddi,himachal pradesh,2023,December,Qwen/Qwen3-32B,45.7
+bagalkot,karnataka,2023,January,Qwen/Qwen3-32B,45.6
+bagalkot,karnataka,2023,February,Qwen/Qwen3-32B,45.6
+bagalkot,karnataka,2023,March,Qwen/Qwen3-32B,45.6
+bagalkot,karnataka,2023,April,Qwen/Qwen3-32B,45.2
+bagalkot,karnataka,2023,May,Qwen/Qwen3-32B,45.6
+bagalkot,karnataka,2023,June,Qwen/Qwen3-32B,45.6
+bagalkot,karnataka,2023,July,Qwen/Qwen3-32B,35.7
+bagalkot,karnataka,2023,August,Qwen/Qwen3-32B,35.7
+bagalkot,karnataka,2023,September,Qwen/Qwen3-32B,45.6
+bagalkot,karnataka,2023,October,Qwen/Qwen3-32B,45.6
+bagalkot,karnataka,2023,November,Qwen/Qwen3-32B,45.7
+bagalkot,karnataka,2023,December,Qwen/Qwen3-32B,45.6
+baghpat,uttar pradesh,2023,January,Qwen/Qwen3-32B,156.3
+baghpat,uttar pradesh,2023,February,Qwen/Qwen3-32B,150.3
+baghpat,uttar pradesh,2023,March,Qwen/Qwen3-32B,78.4
+baghpat,uttar pradesh,2023,April,Qwen/Qwen3-32B,78.4
+baghpat,uttar pradesh,2023,July,Qwen/Qwen3-32B,78.4
+baghpat,uttar pradesh,2023,August,Qwen/Qwen3-32B,58.7
+baghpat,uttar pradesh,2023,September,Qwen/Qwen3-32B,78.4
+baghpat,uttar pradesh,2023,October,Qwen/Qwen3-32B,78.4
+baghpat,uttar pradesh,2023,November,Qwen/Qwen3-32B,150.3
+baghpat,uttar pradesh,2023,December,Qwen/Qwen3-32B,156.7
+ballabgarh,haryana,2023,January,Qwen/Qwen3-32B,78.4
+ballabgarh,haryana,2023,February,Qwen/Qwen3-32B,85.6
+ballabgarh,haryana,2023,March,Qwen/Qwen3-32B,45.6
+ballabgarh,haryana,2023,April,Qwen/Qwen3-32B,45.6
+ballabgarh,haryana,2023,May,Qwen/Qwen3-32B,45.6
+ballabgarh,haryana,2023,June,Qwen/Qwen3-32B,45.7
+ballabgarh,haryana,2023,July,Qwen/Qwen3-32B,45.7
+ballabgarh,haryana,2023,August,Qwen/Qwen3-32B,45.7
+ballabgarh,haryana,2023,September,Qwen/Qwen3-32B,45.7
+ballabgarh,haryana,2023,October,Qwen/Qwen3-32B,45.6
+ballabgarh,haryana,2023,November,Qwen/Qwen3-32B,85.6
+ballabgarh,haryana,2023,December,Qwen/Qwen3-32B,125.4
+bareilly,uttar pradesh,2023,January,Qwen/Qwen3-32B,154.6
+bareilly,uttar pradesh,2023,February,Qwen/Qwen3-32B,156.3
+bareilly,uttar pradesh,2023,March,Qwen/Qwen3-32B,85.6
+bareilly,uttar pradesh,2023,April,Qwen/Qwen3-32B,78.4
+bareilly,uttar pradesh,2023,May,Qwen/Qwen3-32B,78.2
+bareilly,uttar pradesh,2023,June,Qwen/Qwen3-32B,150.2
+bareilly,uttar pradesh,2023,July,Qwen/Qwen3-32B,78.4
+bareilly,uttar pradesh,2023,August,Qwen/Qwen3-32B,78.2
+bareilly,uttar pradesh,2023,September,Qwen/Qwen3-32B,78.4
+bareilly,uttar pradesh,2023,October,Qwen/Qwen3-32B,150.3
+bareilly,uttar pradesh,2023,November,Qwen/Qwen3-32B,156.3
+bareilly,uttar pradesh,2023,December,Qwen/Qwen3-32B,152.3
+baripada,odisha,2023,January,Qwen/Qwen3-32B,45.6
+baripada,odisha,2023,February,Qwen/Qwen3-32B,45.6
+baripada,odisha,2023,March,Qwen/Qwen3-32B,45.7
+baripada,odisha,2023,April,Qwen/Qwen3-32B,45.6
+baripada,odisha,2023,May,Qwen/Qwen3-32B,45.7
+baripada,odisha,2023,June,Qwen/Qwen3-32B,45.7
+baripada,odisha,2023,July,Qwen/Qwen3-32B,45.7
+baripada,odisha,2023,August,Qwen/Qwen3-32B,45.7
+baripada,odisha,2023,September,Qwen/Qwen3-32B,45.6
+baripada,odisha,2023,October,Qwen/Qwen3-32B,45.6
+baripada,odisha,2023,November,Qwen/Qwen3-32B,45.6
+baripada,odisha,2023,December,Qwen/Qwen3-32B,45.6
+begusarai,bihar,2023,January,Qwen/Qwen3-32B,156.7
+begusarai,bihar,2023,February,Qwen/Qwen3-32B,156.3
+begusarai,bihar,2023,March,Qwen/Qwen3-32B,78.4
+begusarai,bihar,2023,April,Qwen/Qwen3-32B,150.3
+begusarai,bihar,2023,May,Qwen/Qwen3-32B,78.4
+begusarai,bihar,2023,June,Qwen/Qwen3-32B,78.4
+begusarai,bihar,2023,July,Qwen/Qwen3-32B,78.4
+begusarai,bihar,2023,August,Qwen/Qwen3-32B,78.3
+begusarai,bihar,2023,September,Qwen/Qwen3-32B,78.4
+begusarai,bihar,2023,October,Qwen/Qwen3-32B,156.3
+begusarai,bihar,2023,November,Qwen/Qwen3-32B,156.3
+begusarai,bihar,2023,December,Qwen/Qwen3-32B,154.7
+belgaum,karnataka,2023,January,Qwen/Qwen3-32B,45.6
+belgaum,karnataka,2023,February,Qwen/Qwen3-32B,45.6
+belgaum,karnataka,2023,March,Qwen/Qwen3-32B,45.7
+belgaum,karnataka,2023,April,Qwen/Qwen3-32B,45.7
+belgaum,karnataka,2023,May,Qwen/Qwen3-32B,45.7
+belgaum,karnataka,2023,June,Qwen/Qwen3-32B,45.6
+belgaum,karnataka,2023,July,Qwen/Qwen3-32B,45.7
+belgaum,karnataka,2023,August,Qwen/Qwen3-32B,45.6
+belgaum,karnataka,2023,September,Qwen/Qwen3-32B,45.6
+belgaum,karnataka,2023,October,Qwen/Qwen3-32B,45.6
+belgaum,karnataka,2023,November,Qwen/Qwen3-32B,45.7
+belgaum,karnataka,2023,December,Qwen/Qwen3-32B,45.7
+bengaluru,karnataka,2023,January,Qwen/Qwen3-32B,45.6
+bengaluru,karnataka,2023,February,Qwen/Qwen3-32B,45.6
+bengaluru,karnataka,2023,March,Qwen/Qwen3-32B,45.6
+bengaluru,karnataka,2023,April,Qwen/Qwen3-32B,45.6
+bengaluru,karnataka,2023,May,Qwen/Qwen3-32B,35.6
+bengaluru,karnataka,2023,June,Qwen/Qwen3-32B,35.6
+bengaluru,karnataka,2023,July,Qwen/Qwen3-32B,35.7
+bengaluru,karnataka,2023,August,Qwen/Qwen3-32B,35.7
+bengaluru,karnataka,2023,September,Qwen/Qwen3-32B,35.7
+bengaluru,karnataka,2023,October,Qwen/Qwen3-32B,35.7
+bengaluru,karnataka,2023,November,Qwen/Qwen3-32B,45.6
+bengaluru,karnataka,2023,December,Qwen/Qwen3-32B,45.6
+bettiah,bihar,2023,January,Qwen/Qwen3-32B,78.4
+bettiah,bihar,2023,February,Qwen/Qwen3-32B,78.4
+bettiah,bihar,2023,March,Qwen/Qwen3-32B,45.6
+bettiah,bihar,2023,April,Qwen/Qwen3-32B,68.4
+bettiah,bihar,2023,May,Qwen/Qwen3-32B,45.6
+bettiah,bihar,2023,June,Qwen/Qwen3-32B,68.4
+bettiah,bihar,2023,July,Qwen/Qwen3-32B,78.4
+bettiah,bihar,2023,August,Qwen/Qwen3-32B,45.6
+bettiah,bihar,2023,September,Qwen/Qwen3-32B,78.4
+bettiah,bihar,2023,October,Qwen/Qwen3-32B,78.4
+bettiah,bihar,2023,November,Qwen/Qwen3-32B,156.3
+bettiah,bihar,2023,December,Qwen/Qwen3-32B,156.3
+bhagalpur,bihar,2023,January,Qwen/Qwen3-32B,154.3
+bhagalpur,bihar,2023,February,Qwen/Qwen3-32B,154.7
+bhagalpur,bihar,2023,March,Qwen/Qwen3-32B,85.6
+bhagalpur,bihar,2023,April,Qwen/Qwen3-32B,85.6
+bhagalpur,bihar,2023,May,Qwen/Qwen3-32B,78.4
+bhagalpur,bihar,2023,June,Qwen/Qwen3-32B,78.4
+bhagalpur,bihar,2023,July,Qwen/Qwen3-32B,78.4
+bhagalpur,bihar,2023,August,Qwen/Qwen3-32B,68.4
+bhagalpur,bihar,2023,September,Qwen/Qwen3-32B,78.3
+bhagalpur,bihar,2023,October,Qwen/Qwen3-32B,78.4
+bhagalpur,bihar,2023,November,Qwen/Qwen3-32B,156.3
+bhagalpur,bihar,2023,December,Qwen/Qwen3-32B,154.6
+bhopal,madhya pradesh,2023,January,Qwen/Qwen3-32B,78.4
+bhopal,madhya pradesh,2023,February,Qwen/Qwen3-32B,45.6
+bhopal,madhya pradesh,2023,March,Qwen/Qwen3-32B,45.6
+bhopal,madhya pradesh,2023,April,Qwen/Qwen3-32B,45.6
+bhopal,madhya pradesh,2023,May,Qwen/Qwen3-32B,45.6
+bhopal,madhya pradesh,2023,June,Qwen/Qwen3-32B,45.6
+bhopal,madhya pradesh,2023,July,Qwen/Qwen3-32B,45.6
+bhopal,madhya pradesh,2023,August,Qwen/Qwen3-32B,45.6
+bhopal,madhya pradesh,2023,September,Qwen/Qwen3-32B,45.7
+bhopal,madhya pradesh,2023,October,Qwen/Qwen3-32B,45.7
+bhopal,madhya pradesh,2023,November,Qwen/Qwen3-32B,78.4
+bhopal,madhya pradesh,2023,December,Qwen/Qwen3-32B,78.4
+bihar sharif,bihar,2023,January,Qwen/Qwen3-32B,156.3
+bihar sharif,bihar,2023,February,Qwen/Qwen3-32B,156.3
+bihar sharif,bihar,2023,March,Qwen/Qwen3-32B,78.4
+bihar sharif,bihar,2023,April,Qwen/Qwen3-32B,78.4
+bihar sharif,bihar,2023,May,Qwen/Qwen3-32B,78.4
+bihar sharif,bihar,2023,June,Qwen/Qwen3-32B,78.4
+bihar sharif,bihar,2023,July,Qwen/Qwen3-32B,78.4
+bihar sharif,bihar,2023,August,Qwen/Qwen3-32B,78.4
+bihar sharif,bihar,2023,September,Qwen/Qwen3-32B,78.4
+bihar sharif,bihar,2023,October,Qwen/Qwen3-32B,78.4
+bihar sharif,bihar,2023,November,Qwen/Qwen3-32B,150.3
+bihar sharif,bihar,2023,December,Qwen/Qwen3-32B,156.3
+bilaspur,chhattisgarh,2023,January,Qwen/Qwen3-32B,85.6
+bilaspur,chhattisgarh,2023,February,Qwen/Qwen3-32B,150.2
+bilaspur,chhattisgarh,2023,March,Qwen/Qwen3-32B,78.4
+bilaspur,chhattisgarh,2023,April,Qwen/Qwen3-32B,85.3
+bilaspur,chhattisgarh,2023,May,Qwen/Qwen3-32B,45.6
+bilaspur,chhattisgarh,2023,June,Qwen/Qwen3-32B,45.6
+bilaspur,chhattisgarh,2023,July,Qwen/Qwen3-32B,45.6
+bilaspur,chhattisgarh,2023,August,Qwen/Qwen3-32B,45.6
+bilaspur,chhattisgarh,2023,September,Qwen/Qwen3-32B,78.4
+bilaspur,chhattisgarh,2023,October,Qwen/Qwen3-32B,85.3
+bilaspur,chhattisgarh,2023,November,Qwen/Qwen3-32B,150.3
+bilaspur,chhattisgarh,2023,December,Qwen/Qwen3-32B,150.3
+brajrajnagar,odisha,2023,January,Qwen/Qwen3-32B,78.4
+brajrajnagar,odisha,2023,February,Qwen/Qwen3-32B,78.4
+brajrajnagar,odisha,2023,March,Qwen/Qwen3-32B,45.7
+brajrajnagar,odisha,2023,April,Qwen/Qwen3-32B,45.6
+brajrajnagar,odisha,2023,May,Qwen/Qwen3-32B,45.7
+brajrajnagar,odisha,2023,June,Qwen/Qwen3-32B,45.6
+brajrajnagar,odisha,2023,July,Qwen/Qwen3-32B,45.7
+brajrajnagar,odisha,2023,August,Qwen/Qwen3-32B,45.6
+brajrajnagar,odisha,2023,September,Qwen/Qwen3-32B,45.7
+brajrajnagar,odisha,2023,October,Qwen/Qwen3-32B,45.6
+brajrajnagar,odisha,2023,November,Qwen/Qwen3-32B,45.7
+brajrajnagar,odisha,2023,December,Qwen/Qwen3-32B,78.4
+bulandshahr,uttar pradesh,2023,January,Qwen/Qwen3-32B,156.3
+bulandshahr,uttar pradesh,2023,February,Qwen/Qwen3-32B,156.3
+bulandshahr,uttar pradesh,2023,March,Qwen/Qwen3-32B,150.2
+bulandshahr,uttar pradesh,2023,April,Qwen/Qwen3-32B,150.3
+bulandshahr,uttar pradesh,2023,May,Qwen/Qwen3-32B,78.4
+bulandshahr,uttar pradesh,2023,June,Qwen/Qwen3-32B,78.4
+bulandshahr,uttar pradesh,2023,July,Qwen/Qwen3-32B,78.4
+bulandshahr,uttar pradesh,2023,August,Qwen/Qwen3-32B,78.4
+bulandshahr,uttar pradesh,2023,September,Qwen/Qwen3-32B,78.4
+bulandshahr,uttar pradesh,2023,October,Qwen/Qwen3-32B,78.3
+bulandshahr,uttar pradesh,2023,November,Qwen/Qwen3-32B,156.7
+bulandshahr,uttar pradesh,2023,December,Qwen/Qwen3-32B,156.3
+chandigarh,chandigarh,2023,January,Qwen/Qwen3-32B,45.6
+chandigarh,chandigarh,2023,February,Qwen/Qwen3-32B,45.7
+chandigarh,chandigarh,2023,March,Qwen/Qwen3-32B,45.6
+chandigarh,chandigarh,2023,April,Qwen/Qwen3-32B,45.7
+chandigarh,chandigarh,2023,May,Qwen/Qwen3-32B,45.6
+chandigarh,chandigarh,2023,June,Qwen/Qwen3-32B,45.6
+chandigarh,chandigarh,2023,July,Qwen/Qwen3-32B,42.5
+chandigarh,chandigarh,2023,August,Qwen/Qwen3-32B,35.7
+chandigarh,chandigarh,2023,September,Qwen/Qwen3-32B,45.7
+chandigarh,chandigarh,2023,October,Qwen/Qwen3-32B,45.6
+chandigarh,chandigarh,2023,November,Qwen/Qwen3-32B,45.7
+chandigarh,chandigarh,2023,December,Qwen/Qwen3-32B,78.4
+chandrapur,maharashtra,2023,January,Qwen/Qwen3-32B,78.4
+chandrapur,maharashtra,2023,February,Qwen/Qwen3-32B,78.4
+chandrapur,maharashtra,2023,March,Qwen/Qwen3-32B,45.6
+chandrapur,maharashtra,2023,April,Qwen/Qwen3-32B,68.4
+chandrapur,maharashtra,2023,May,Qwen/Qwen3-32B,45.7
+chandrapur,maharashtra,2023,June,Qwen/Qwen3-32B,58.3
+chandrapur,maharashtra,2023,July,Qwen/Qwen3-32B,45.6
+chandrapur,maharashtra,2023,August,Qwen/Qwen3-32B,45.7
+chandrapur,maharashtra,2023,September,Qwen/Qwen3-32B,45.7
+chandrapur,maharashtra,2023,October,Qwen/Qwen3-32B,45.6
+chandrapur,maharashtra,2023,November,Qwen/Qwen3-32B,78.2
+chandrapur,maharashtra,2023,December,Qwen/Qwen3-32B,78.4
+charkhi dadri,haryana,2023,January,Qwen/Qwen3-32B,125.4
+charkhi dadri,haryana,2023,February,Qwen/Qwen3-32B,124.5
+charkhi dadri,haryana,2023,March,Qwen/Qwen3-32B,58.3
+charkhi dadri,haryana,2023,April,Qwen/Qwen3-32B,68.4
+charkhi dadri,haryana,2023,May,Qwen/Qwen3-32B,45.6
+charkhi dadri,haryana,2023,June,Qwen/Qwen3-32B,68.4
+charkhi dadri,haryana,2023,July,Qwen/Qwen3-32B,45.6
+charkhi dadri,haryana,2023,August,Qwen/Qwen3-32B,125.4
+charkhi dadri,haryana,2023,September,Qwen/Qwen3-32B,45.6
+charkhi dadri,haryana,2023,October,Qwen/Qwen3-32B,78.3
+charkhi dadri,haryana,2023,November,Qwen/Qwen3-32B,125.4
+charkhi dadri,haryana,2023,December,Qwen/Qwen3-32B,125.6
+chhapra,bihar,2023,January,Qwen/Qwen3-32B,154.6
+chhapra,bihar,2023,February,Qwen/Qwen3-32B,154.6
+chhapra,bihar,2023,March,Qwen/Qwen3-32B,150.3
+chhapra,bihar,2023,April,Qwen/Qwen3-32B,156.3
+chhapra,bihar,2023,May,Qwen/Qwen3-32B,150.7
+chhapra,bihar,2023,June,Qwen/Qwen3-32B,150.2
+chhapra,bihar,2023,July,Qwen/Qwen3-32B,78.4
+chhapra,bihar,2023,August,Qwen/Qwen3-32B,150.2
+chhapra,bihar,2023,September,Qwen/Qwen3-32B,150.2
+chhapra,bihar,2023,October,Qwen/Qwen3-32B,150.7
+chhapra,bihar,2023,November,Qwen/Qwen3-32B,150.7
+chhapra,bihar,2023,December,Qwen/Qwen3-32B,156.7
+chikkaballapur,karnataka,2023,January,Qwen/Qwen3-32B,45.6
+chikkaballapur,karnataka,2023,February,Qwen/Qwen3-32B,45.6
+chikkaballapur,karnataka,2023,March,Qwen/Qwen3-32B,45.6
+chikkaballapur,karnataka,2023,April,Qwen/Qwen3-32B,45.7
+chikkaballapur,karnataka,2023,May,Qwen/Qwen3-32B,45.6
+chikkaballapur,karnataka,2023,June,Qwen/Qwen3-32B,45.6
+chikkaballapur,karnataka,2023,July,Qwen/Qwen3-32B,35.7
+chikkaballapur,karnataka,2023,August,Qwen/Qwen3-32B,35.7
+chikkaballapur,karnataka,2023,September,Qwen/Qwen3-32B,45.6
+chikkaballapur,karnataka,2023,October,Qwen/Qwen3-32B,45.6
+chikkaballapur,karnataka,2023,November,Qwen/Qwen3-32B,45.7
+chikkaballapur,karnataka,2023,December,Qwen/Qwen3-32B,45.6
+chikkamagaluru,karnataka,2023,January,Qwen/Qwen3-32B,35.7
+chikkamagaluru,karnataka,2023,February,Qwen/Qwen3-32B,35.7
+chikkamagaluru,karnataka,2023,March,Qwen/Qwen3-32B,35.7
+chikkamagaluru,karnataka,2023,April,Qwen/Qwen3-32B,35.7
+chikkamagaluru,karnataka,2023,May,Qwen/Qwen3-32B,25.4
+chikkamagaluru,karnataka,2023,June,Qwen/Qwen3-32B,25.4
+chikkamagaluru,karnataka,2023,July,Qwen/Qwen3-32B,25.4
+chikkamagaluru,karnataka,2023,August,Qwen/Qwen3-32B,25.4
+chikkamagaluru,karnataka,2023,September,Qwen/Qwen3-32B,25.4
+chikkamagaluru,karnataka,2023,October,Qwen/Qwen3-32B,35.7
+chikkamagaluru,karnataka,2023,November,Qwen/Qwen3-32B,35.7
+chikkamagaluru,karnataka,2023,December,Qwen/Qwen3-32B,35.7
+chittoor,andhra pradesh,2023,January,Qwen/Qwen3-32B,45.7
+chittoor,andhra pradesh,2023,February,Qwen/Qwen3-32B,45.7
+chittoor,andhra pradesh,2023,March,Qwen/Qwen3-32B,45.7
+chittoor,andhra pradesh,2023,April,Qwen/Qwen3-32B,45.6
+chittoor,andhra pradesh,2023,May,Qwen/Qwen3-32B,45.7
+chittoor,andhra pradesh,2023,June,Qwen/Qwen3-32B,45.6
+chittoor,andhra pradesh,2023,July,Qwen/Qwen3-32B,35.7
+chittoor,andhra pradesh,2023,August,Qwen/Qwen3-32B,35.7
+chittoor,andhra pradesh,2023,September,Qwen/Qwen3-32B,45.6
+chittoor,andhra pradesh,2023,October,Qwen/Qwen3-32B,45.7
+chittoor,andhra pradesh,2023,November,Qwen/Qwen3-32B,45.7
+chittoor,andhra pradesh,2023,December,Qwen/Qwen3-32B,45.7
+davanagere,karnataka,2023,February,Qwen/Qwen3-32B,45.6
+davanagere,karnataka,2023,March,Qwen/Qwen3-32B,45.6
+davanagere,karnataka,2023,April,Qwen/Qwen3-32B,45.6
+davanagere,karnataka,2023,May,Qwen/Qwen3-32B,45.7
+davanagere,karnataka,2023,June,Qwen/Qwen3-32B,45.6
+davanagere,karnataka,2023,July,Qwen/Qwen3-32B,45.6
+davanagere,karnataka,2023,August,Qwen/Qwen3-32B,45.6
+davanagere,karnataka,2023,September,Qwen/Qwen3-32B,45.7
+davanagere,karnataka,2023,October,Qwen/Qwen3-32B,45.6
+davanagere,karnataka,2023,November,Qwen/Qwen3-32B,45.7
+davanagere,karnataka,2023,December,Qwen/Qwen3-32B,45.6
+dehradun,uttarakhand,2023,January,Qwen/Qwen3-32B,58.3
+dehradun,uttarakhand,2023,February,Qwen/Qwen3-32B,45.6
+dehradun,uttarakhand,2023,March,Qwen/Qwen3-32B,45.6
+dehradun,uttarakhand,2023,April,Qwen/Qwen3-32B,45.6
+dehradun,uttarakhand,2023,May,Qwen/Qwen3-32B,45.6
+dehradun,uttarakhand,2023,June,Qwen/Qwen3-32B,45.6
+dehradun,uttarakhand,2023,July,Qwen/Qwen3-32B,45.6
+dehradun,uttarakhand,2023,August,Qwen/Qwen3-32B,45.6
+dehradun,uttarakhand,2023,September,Qwen/Qwen3-32B,45.6
+dehradun,uttarakhand,2023,October,Qwen/Qwen3-32B,45.6
+dehradun,uttarakhand,2023,November,Qwen/Qwen3-32B,78.4
+dehradun,uttarakhand,2023,December,Qwen/Qwen3-32B,78.4
+dewas,madhya pradesh,2023,January,Qwen/Qwen3-32B,78.4
+dewas,madhya pradesh,2023,February,Qwen/Qwen3-32B,58.3
+dewas,madhya pradesh,2023,March,Qwen/Qwen3-32B,45.6
+dewas,madhya pradesh,2023,April,Qwen/Qwen3-32B,58.7
+dewas,madhya pradesh,2023,May,Qwen/Qwen3-32B,45.6
+dewas,madhya pradesh,2023,June,Qwen/Qwen3-32B,45.6
+dewas,madhya pradesh,2023,July,Qwen/Qwen3-32B,45.2
+dewas,madhya pradesh,2023,August,Qwen/Qwen3-32B,45.6
+dewas,madhya pradesh,2023,September,Qwen/Qwen3-32B,45.6
+dewas,madhya pradesh,2023,October,Qwen/Qwen3-32B,45.6
+dewas,madhya pradesh,2023,November,Qwen/Qwen3-32B,78.3
+dewas,madhya pradesh,2023,December,Qwen/Qwen3-32B,78.4
+dharwad,karnataka,2023,January,Qwen/Qwen3-32B,45.7
+dharwad,karnataka,2023,February,Qwen/Qwen3-32B,45.6
+dharwad,karnataka,2023,March,Qwen/Qwen3-32B,45.6
+dharwad,karnataka,2023,April,Qwen/Qwen3-32B,45.7
+dharwad,karnataka,2023,May,Qwen/Qwen3-32B,45.6
+dharwad,karnataka,2023,June,Qwen/Qwen3-32B,45.6
+dharwad,karnataka,2023,July,Qwen/Qwen3-32B,45.6
+dharwad,karnataka,2023,August,Qwen/Qwen3-32B,45.7
+dharwad,karnataka,2023,September,Qwen/Qwen3-32B,45.6
+dharwad,karnataka,2023,October,Qwen/Qwen3-32B,45.6
+dharwad,karnataka,2023,November,Qwen/Qwen3-32B,45.7
+dharwad,karnataka,2023,December,Qwen/Qwen3-32B,45.6
+durgapur,west bengal,2023,January,Qwen/Qwen3-32B,156.3
+durgapur,west bengal,2023,February,Qwen/Qwen3-32B,85.6
+durgapur,west bengal,2023,March,Qwen/Qwen3-32B,78.4
+durgapur,west bengal,2023,April,Qwen/Qwen3-32B,78.4
+durgapur,west bengal,2023,May,Qwen/Qwen3-32B,58.7
+durgapur,west bengal,2023,June,Qwen/Qwen3-32B,68.4
+durgapur,west bengal,2023,July,Qwen/Qwen3-32B,58.7
+durgapur,west bengal,2023,August,Qwen/Qwen3-32B,58.7
+durgapur,west bengal,2023,September,Qwen/Qwen3-32B,54.3
+durgapur,west bengal,2023,October,Qwen/Qwen3-32B,78.4
+durgapur,west bengal,2023,November,Qwen/Qwen3-32B,156.3
+durgapur,west bengal,2023,December,Qwen/Qwen3-32B,156.7
+faridabad,haryana,2023,January,Qwen/Qwen3-32B,154.3
+faridabad,haryana,2023,February,Qwen/Qwen3-32B,154.3
+faridabad,haryana,2023,March,Qwen/Qwen3-32B,85.4
+faridabad,haryana,2023,April,Qwen/Qwen3-32B,85.6
+faridabad,haryana,2023,May,Qwen/Qwen3-32B,78.4
+faridabad,haryana,2023,June,Qwen/Qwen3-32B,78.4
+faridabad,haryana,2023,July,Qwen/Qwen3-32B,78.4
+faridabad,haryana,2023,August,Qwen/Qwen3-32B,78.4
+faridabad,haryana,2023,September,Qwen/Qwen3-32B,78.4
+faridabad,haryana,2023,October,Qwen/Qwen3-32B,150.3
+faridabad,haryana,2023,November,Qwen/Qwen3-32B,156.7
+faridabad,haryana,2023,December,Qwen/Qwen3-32B,150.3
+firozabad,uttar pradesh,2023,January,Qwen/Qwen3-32B,154.3
+firozabad,uttar pradesh,2023,February,Qwen/Qwen3-32B,154.3
+firozabad,uttar pradesh,2023,March,Qwen/Qwen3-32B,150.3
+firozabad,uttar pradesh,2023,April,Qwen/Qwen3-32B,156.3
+firozabad,uttar pradesh,2023,May,Qwen/Qwen3-32B,150.3
+firozabad,uttar pradesh,2023,June,Qwen/Qwen3-32B,150.3
+firozabad,uttar pradesh,2023,July,Qwen/Qwen3-32B,78.5
+firozabad,uttar pradesh,2023,August,Qwen/Qwen3-32B,150.7
+firozabad,uttar pradesh,2023,September,Qwen/Qwen3-32B,78.4
+firozabad,uttar pradesh,2023,October,Qwen/Qwen3-32B,150.3
+firozabad,uttar pradesh,2023,November,Qwen/Qwen3-32B,156.7
+firozabad,uttar pradesh,2023,December,Qwen/Qwen3-32B,154.7
+gadag,karnataka,2023,January,Qwen/Qwen3-32B,38.7
+gadag,karnataka,2023,February,Qwen/Qwen3-32B,45.6
+gadag,karnataka,2023,March,Qwen/Qwen3-32B,35.6
+gadag,karnataka,2023,April,Qwen/Qwen3-32B,45.6
+gadag,karnataka,2023,May,Qwen/Qwen3-32B,35.7
+gadag,karnataka,2023,June,Qwen/Qwen3-32B,35.7
+gadag,karnataka,2023,July,Qwen/Qwen3-32B,15.6
+gadag,karnataka,2023,August,Qwen/Qwen3-32B,38.7
+gadag,karnataka,2023,September,Qwen/Qwen3-32B,35.7
+gadag,karnataka,2023,October,Qwen/Qwen3-32B,45.7
+gadag,karnataka,2023,November,Qwen/Qwen3-32B,38.7
+gadag,karnataka,2023,December,Qwen/Qwen3-32B,45.7
+gandhinagar,gujarat,2023,January,Qwen/Qwen3-32B,45.6
+gandhinagar,gujarat,2023,February,Qwen/Qwen3-32B,45.6
+gandhinagar,gujarat,2023,March,Qwen/Qwen3-32B,42.3
+gandhinagar,gujarat,2023,April,Qwen/Qwen3-32B,45.6
+gandhinagar,gujarat,2023,May,Qwen/Qwen3-32B,45.6
+gandhinagar,gujarat,2023,June,Qwen/Qwen3-32B,35.7
+gandhinagar,gujarat,2023,July,Qwen/Qwen3-32B,35.6
+gandhinagar,gujarat,2023,August,Qwen/Qwen3-32B,32.5
+gandhinagar,gujarat,2023,September,Qwen/Qwen3-32B,45.7
+gandhinagar,gujarat,2023,October,Qwen/Qwen3-32B,45.6
+gandhinagar,gujarat,2023,November,Qwen/Qwen3-32B,45.6
+gandhinagar,gujarat,2023,December,Qwen/Qwen3-32B,45.7
+gangtok,sikkim,2023,January,Qwen/Qwen3-32B,45.6
+gangtok,sikkim,2023,February,Qwen/Qwen3-32B,45.7
+gangtok,sikkim,2023,March,Qwen/Qwen3-32B,42.3
+gangtok,sikkim,2023,April,Qwen/Qwen3-32B,45.6
+gangtok,sikkim,2023,May,Qwen/Qwen3-32B,42.5
+gangtok,sikkim,2023,June,Qwen/Qwen3-32B,35.7
+gangtok,sikkim,2023,July,Qwen/Qwen3-32B,35.7
+gangtok,sikkim,2023,August,Qwen/Qwen3-32B,25.4
+gangtok,sikkim,2023,September,Qwen/Qwen3-32B,35.7
+gangtok,sikkim,2023,October,Qwen/Qwen3-32B,42.3
+gangtok,sikkim,2023,November,Qwen/Qwen3-32B,45.7
+gangtok,sikkim,2023,December,Qwen/Qwen3-32B,45.7
+gaya,bihar,2023,January,Qwen/Qwen3-32B,152.3
+gaya,bihar,2023,February,Qwen/Qwen3-32B,156.3
+gaya,bihar,2023,March,Qwen/Qwen3-32B,78.4
+gaya,bihar,2023,April,Qwen/Qwen3-32B,78.4
+gaya,bihar,2023,May,Qwen/Qwen3-32B,68.4
+gaya,bihar,2023,June,Qwen/Qwen3-32B,68.2
+gaya,bihar,2023,July,Qwen/Qwen3-32B,68.4
+gaya,bihar,2023,August,Qwen/Qwen3-32B,45.7
+gaya,bihar,2023,September,Qwen/Qwen3-32B,45.6
+gaya,bihar,2023,October,Qwen/Qwen3-32B,78.4
+gaya,bihar,2023,November,Qwen/Qwen3-32B,156.3
+gaya,bihar,2023,December,Qwen/Qwen3-32B,156.3
+ghaziabad,uttar pradesh,2023,January,Qwen/Qwen3-32B,150.3
+ghaziabad,uttar pradesh,2023,February,Qwen/Qwen3-32B,150.3
+ghaziabad,uttar pradesh,2023,March,Qwen/Qwen3-32B,150.7
+ghaziabad,uttar pradesh,2023,April,Qwen/Qwen3-32B,150.3
+ghaziabad,uttar pradesh,2023,May,Qwen/Qwen3-32B,150.7
+ghaziabad,uttar pradesh,2023,June,Qwen/Qwen3-32B,150.7
+ghaziabad,uttar pradesh,2023,July,Qwen/Qwen3-32B,150.7
+ghaziabad,uttar pradesh,2023,August,Qwen/Qwen3-32B,150.7
+ghaziabad,uttar pradesh,2023,September,Qwen/Qwen3-32B,150.7
+ghaziabad,uttar pradesh,2023,October,Qwen/Qwen3-32B,150.3
+ghaziabad,uttar pradesh,2023,November,Qwen/Qwen3-32B,150.3
+ghaziabad,uttar pradesh,2023,December,Qwen/Qwen3-32B,152.7
+gorakhpur,uttar pradesh,2023,January,Qwen/Qwen3-32B,154.3
+gorakhpur,uttar pradesh,2023,February,Qwen/Qwen3-32B,150.3
+gorakhpur,uttar pradesh,2023,March,Qwen/Qwen3-32B,150.3
+gorakhpur,uttar pradesh,2023,April,Qwen/Qwen3-32B,150.7
+gorakhpur,uttar pradesh,2023,May,Qwen/Qwen3-32B,150.3
+gorakhpur,uttar pradesh,2023,June,Qwen/Qwen3-32B,150.2
+gorakhpur,uttar pradesh,2023,July,Qwen/Qwen3-32B,150.2
+gorakhpur,uttar pradesh,2023,August,Qwen/Qwen3-32B,150.3
+gorakhpur,uttar pradesh,2023,September,Qwen/Qwen3-32B,150.3
+gorakhpur,uttar pradesh,2023,October,Qwen/Qwen3-32B,150.0
+gorakhpur,uttar pradesh,2023,November,Qwen/Qwen3-32B,150.3
+gorakhpur,uttar pradesh,2023,December,Qwen/Qwen3-32B,150.3
+gummidipoondi,tamil nadu,2023,January,Qwen/Qwen3-32B,45.6
+gummidipoondi,tamil nadu,2023,February,Qwen/Qwen3-32B,45.6
+gummidipoondi,tamil nadu,2023,March,Qwen/Qwen3-32B,45.6
+gummidipoondi,tamil nadu,2023,April,Qwen/Qwen3-32B,45.6
+gummidipoondi,tamil nadu,2023,May,Qwen/Qwen3-32B,35.2
+gummidipoondi,tamil nadu,2023,June,Qwen/Qwen3-32B,35.7
+gummidipoondi,tamil nadu,2023,July,Qwen/Qwen3-32B,35.7
+gummidipoondi,tamil nadu,2023,August,Qwen/Qwen3-32B,35.7
+gummidipoondi,tamil nadu,2023,September,Qwen/Qwen3-32B,45.6
+gummidipoondi,tamil nadu,2023,October,Qwen/Qwen3-32B,45.7
+gummidipoondi,tamil nadu,2023,November,Qwen/Qwen3-32B,45.6
+gummidipoondi,tamil nadu,2023,December,Qwen/Qwen3-32B,45.7
+guwahati,assam,2023,January,Qwen/Qwen3-32B,85.6
+guwahati,assam,2023,February,Qwen/Qwen3-32B,85.6
+guwahati,assam,2023,March,Qwen/Qwen3-32B,68.4
+guwahati,assam,2023,April,Qwen/Qwen3-32B,68.4
+guwahati,assam,2023,May,Qwen/Qwen3-32B,68.4
+guwahati,assam,2023,June,Qwen/Qwen3-32B,65.3
+guwahati,assam,2023,July,Qwen/Qwen3-32B,45.6
+guwahati,assam,2023,August,Qwen/Qwen3-32B,45.6
+guwahati,assam,2023,September,Qwen/Qwen3-32B,45.6
+guwahati,assam,2023,October,Qwen/Qwen3-32B,45.7
+guwahati,assam,2023,November,Qwen/Qwen3-32B,85.6
+guwahati,assam,2023,December,Qwen/Qwen3-32B,150.3
+gwalior,madhya pradesh,2023,January,Qwen/Qwen3-32B,125.4
+gwalior,madhya pradesh,2023,February,Qwen/Qwen3-32B,85.6
+gwalior,madhya pradesh,2023,March,Qwen/Qwen3-32B,78.4
+gwalior,madhya pradesh,2023,April,Qwen/Qwen3-32B,78.4
+gwalior,madhya pradesh,2023,May,Qwen/Qwen3-32B,78.3
+gwalior,madhya pradesh,2023,June,Qwen/Qwen3-32B,78.4
+gwalior,madhya pradesh,2023,July,Qwen/Qwen3-32B,58.3
+gwalior,madhya pradesh,2023,August,Qwen/Qwen3-32B,45.6
+gwalior,madhya pradesh,2023,September,Qwen/Qwen3-32B,45.7
+gwalior,madhya pradesh,2023,October,Qwen/Qwen3-32B,78.4
+gwalior,madhya pradesh,2023,November,Qwen/Qwen3-32B,125.4
+gwalior,madhya pradesh,2023,December,Qwen/Qwen3-32B,125.4
+hajipur,bihar,2023,January,Qwen/Qwen3-32B,156.3
+hajipur,bihar,2023,February,Qwen/Qwen3-32B,154.6
+hajipur,bihar,2023,March,Qwen/Qwen3-32B,156.3
+hajipur,bihar,2023,April,Qwen/Qwen3-32B,156.3
+hajipur,bihar,2023,May,Qwen/Qwen3-32B,78.4
+hajipur,bihar,2023,June,Qwen/Qwen3-32B,78.4
+hajipur,bihar,2023,July,Qwen/Qwen3-32B,78.4
+hajipur,bihar,2023,August,Qwen/Qwen3-32B,78.4
+hajipur,bihar,2023,September,Qwen/Qwen3-32B,78.4
+hajipur,bihar,2023,October,Qwen/Qwen3-32B,150.3
+hajipur,bihar,2023,November,Qwen/Qwen3-32B,156.3
+hajipur,bihar,2023,December,Qwen/Qwen3-32B,156.3
+haldia,west bengal,2023,January,Qwen/Qwen3-32B,78.4
+haldia,west bengal,2023,February,Qwen/Qwen3-32B,68.5
+haldia,west bengal,2023,March,Qwen/Qwen3-32B,45.7
+haldia,west bengal,2023,April,Qwen/Qwen3-32B,58.7
+haldia,west bengal,2023,May,Qwen/Qwen3-32B,54.3
+haldia,west bengal,2023,June,Qwen/Qwen3-32B,45.7
+haldia,west bengal,2023,July,Qwen/Qwen3-32B,45.6
+haldia,west bengal,2023,August,Qwen/Qwen3-32B,54.3
+haldia,west bengal,2023,September,Qwen/Qwen3-32B,45.7
+haldia,west bengal,2023,October,Qwen/Qwen3-32B,45.6
+haldia,west bengal,2023,November,Qwen/Qwen3-32B,78.4
+haldia,west bengal,2023,December,Qwen/Qwen3-32B,78.4
+hapur,uttar pradesh,2023,January,Qwen/Qwen3-32B,154.2
+hapur,uttar pradesh,2023,February,Qwen/Qwen3-32B,150.3
+hapur,uttar pradesh,2023,March,Qwen/Qwen3-32B,150.2
+hapur,uttar pradesh,2023,April,Qwen/Qwen3-32B,150.2
+hapur,uttar pradesh,2023,May,Qwen/Qwen3-32B,68.4
+hapur,uttar pradesh,2023,June,Qwen/Qwen3-32B,68.4
+hapur,uttar pradesh,2023,July,Qwen/Qwen3-32B,62.3
+hapur,uttar pradesh,2023,August,Qwen/Qwen3-32B,45.7
+hapur,uttar pradesh,2023,September,Qwen/Qwen3-32B,45.7
+hapur,uttar pradesh,2023,October,Qwen/Qwen3-32B,78.4
+hapur,uttar pradesh,2023,November,Qwen/Qwen3-32B,150.3
+hapur,uttar pradesh,2023,December,Qwen/Qwen3-32B,156.3
+hassan,karnataka,2023,January,Qwen/Qwen3-32B,45.6
+hassan,karnataka,2023,February,Qwen/Qwen3-32B,45.7
+hassan,karnataka,2023,March,Qwen/Qwen3-32B,35.7
+hassan,karnataka,2023,April,Qwen/Qwen3-32B,45.6
+hassan,karnataka,2023,May,Qwen/Qwen3-32B,38.7
+hassan,karnataka,2023,June,Qwen/Qwen3-32B,35.7
+hassan,karnataka,2023,July,Qwen/Qwen3-32B,35.7
+hassan,karnataka,2023,August,Qwen/Qwen3-32B,35.7
+hassan,karnataka,2023,September,Qwen/Qwen3-32B,35.7
+hassan,karnataka,2023,October,Qwen/Qwen3-32B,45.6
+hassan,karnataka,2023,November,Qwen/Qwen3-32B,45.6
+hassan,karnataka,2023,December,Qwen/Qwen3-32B,45.7
+haveri,karnataka,2023,January,Qwen/Qwen3-32B,38.7
+haveri,karnataka,2023,February,Qwen/Qwen3-32B,45.6
+haveri,karnataka,2023,March,Qwen/Qwen3-32B,35.7
+haveri,karnataka,2023,April,Qwen/Qwen3-32B,35.7
+haveri,karnataka,2023,May,Qwen/Qwen3-32B,35.2
+haveri,karnataka,2023,June,Qwen/Qwen3-32B,35.7
+haveri,karnataka,2023,July,Qwen/Qwen3-32B,25.4
+haveri,karnataka,2023,August,Qwen/Qwen3-32B,25.6
+haveri,karnataka,2023,September,Qwen/Qwen3-32B,35.6
+haveri,karnataka,2023,October,Qwen/Qwen3-32B,35.6
+haveri,karnataka,2023,November,Qwen/Qwen3-32B,45.7
+haveri,karnataka,2023,December,Qwen/Qwen3-32B,45.6
+hosur,tamil nadu,2023,January,Qwen/Qwen3-32B,45.6
+hosur,tamil nadu,2023,February,Qwen/Qwen3-32B,45.6
+hosur,tamil nadu,2023,March,Qwen/Qwen3-32B,45.6
+hosur,tamil nadu,2023,April,Qwen/Qwen3-32B,38.7
+hosur,tamil nadu,2023,May,Qwen/Qwen3-32B,35.7
+hosur,tamil nadu,2023,June,Qwen/Qwen3-32B,35.6
+hosur,tamil nadu,2023,July,Qwen/Qwen3-32B,35.7
+hosur,tamil nadu,2023,August,Qwen/Qwen3-32B,32.4
+hosur,tamil nadu,2023,September,Qwen/Qwen3-32B,35.7
+hosur,tamil nadu,2023,October,Qwen/Qwen3-32B,45.6
+hosur,tamil nadu,2023,November,Qwen/Qwen3-32B,35.7
+hosur,tamil nadu,2023,December,Qwen/Qwen3-32B,45.6
+indore,madhya pradesh,2023,January,Qwen/Qwen3-32B,85.6
+indore,madhya pradesh,2023,February,Qwen/Qwen3-32B,85.6
+indore,madhya pradesh,2023,March,Qwen/Qwen3-32B,45.7
+indore,madhya pradesh,2023,April,Qwen/Qwen3-32B,45.6
+indore,madhya pradesh,2023,May,Qwen/Qwen3-32B,45.6
+indore,madhya pradesh,2023,June,Qwen/Qwen3-32B,45.6
+indore,madhya pradesh,2023,July,Qwen/Qwen3-32B,45.7
+indore,madhya pradesh,2023,August,Qwen/Qwen3-32B,45.7
+indore,madhya pradesh,2023,September,Qwen/Qwen3-32B,45.7
+indore,madhya pradesh,2023,October,Qwen/Qwen3-32B,78.4
+indore,madhya pradesh,2023,November,Qwen/Qwen3-32B,125.4
+indore,madhya pradesh,2023,December,Qwen/Qwen3-32B,125.4
+jabalpur,madhya pradesh,2023,January,Qwen/Qwen3-32B,85.6
+jabalpur,madhya pradesh,2023,February,Qwen/Qwen3-32B,85.6
+jabalpur,madhya pradesh,2023,March,Qwen/Qwen3-32B,78.4
+jabalpur,madhya pradesh,2023,April,Qwen/Qwen3-32B,78.4
+jabalpur,madhya pradesh,2023,May,Qwen/Qwen3-32B,45.6
+jabalpur,madhya pradesh,2023,June,Qwen/Qwen3-32B,78.2
+jabalpur,madhya pradesh,2023,July,Qwen/Qwen3-32B,45.6
+jabalpur,madhya pradesh,2023,August,Qwen/Qwen3-32B,45.6
+jabalpur,madhya pradesh,2023,September,Qwen/Qwen3-32B,45.7
+jabalpur,madhya pradesh,2023,October,Qwen/Qwen3-32B,78.4
+jabalpur,madhya pradesh,2023,November,Qwen/Qwen3-32B,85.6
+jabalpur,madhya pradesh,2023,December,Qwen/Qwen3-32B,125.4
+jaipur,rajasthan,2023,January,Qwen/Qwen3-32B,125.4
+jaipur,rajasthan,2023,February,Qwen/Qwen3-32B,150.3
+jaipur,rajasthan,2023,March,Qwen/Qwen3-32B,125.4
+jaipur,rajasthan,2023,April,Qwen/Qwen3-32B,150.3
+jaipur,rajasthan,2023,May,Qwen/Qwen3-32B,150.2
+jaipur,rajasthan,2023,June,Qwen/Qwen3-32B,125.4
+jaipur,rajasthan,2023,July,Qwen/Qwen3-32B,78.4
+jaipur,rajasthan,2023,August,Qwen/Qwen3-32B,150.3
+jaipur,rajasthan,2023,September,Qwen/Qwen3-32B,102.5
+jaipur,rajasthan,2023,October,Qwen/Qwen3-32B,125.4
+jaipur,rajasthan,2023,November,Qwen/Qwen3-32B,150.3
+jaipur,rajasthan,2023,December,Qwen/Qwen3-32B,156.7
+jhansi,uttar pradesh,2023,January,Qwen/Qwen3-32B,154.3
+jhansi,uttar pradesh,2023,February,Qwen/Qwen3-32B,85.6
+jhansi,uttar pradesh,2023,March,Qwen/Qwen3-32B,78.4
+jhansi,uttar pradesh,2023,April,Qwen/Qwen3-32B,85.6
+jhansi,uttar pradesh,2023,May,Qwen/Qwen3-32B,78.4
+jhansi,uttar pradesh,2023,June,Qwen/Qwen3-32B,78.4
+jhansi,uttar pradesh,2023,July,Qwen/Qwen3-32B,78.4
+jhansi,uttar pradesh,2023,August,Qwen/Qwen3-32B,78.4
+jhansi,uttar pradesh,2023,September,Qwen/Qwen3-32B,78.4
+jhansi,uttar pradesh,2023,October,Qwen/Qwen3-32B,78.3
+jhansi,uttar pradesh,2023,November,Qwen/Qwen3-32B,150.7
+jhansi,uttar pradesh,2023,December,Qwen/Qwen3-32B,156.3
+kadapa,andhra pradesh,2023,January,Qwen/Qwen3-32B,45.7
+kadapa,andhra pradesh,2023,February,Qwen/Qwen3-32B,45.6
+kadapa,andhra pradesh,2023,March,Qwen/Qwen3-32B,45.6
+kadapa,andhra pradesh,2023,April,Qwen/Qwen3-32B,45.6
+kadapa,andhra pradesh,2023,May,Qwen/Qwen3-32B,45.6
+kadapa,andhra pradesh,2023,June,Qwen/Qwen3-32B,45.6
+kadapa,andhra pradesh,2023,July,Qwen/Qwen3-32B,45.6
+kadapa,andhra pradesh,2023,August,Qwen/Qwen3-32B,45.7
+kadapa,andhra pradesh,2023,September,Qwen/Qwen3-32B,45.6
+kadapa,andhra pradesh,2023,October,Qwen/Qwen3-32B,45.7
+kadapa,andhra pradesh,2023,November,Qwen/Qwen3-32B,45.7
+kadapa,andhra pradesh,2023,December,Qwen/Qwen3-32B,45.7
+kalyan,maharashtra,2023,January,Qwen/Qwen3-32B,78.4
+kalyan,maharashtra,2023,February,Qwen/Qwen3-32B,65.3
+kalyan,maharashtra,2023,March,Qwen/Qwen3-32B,45.6
+kalyan,maharashtra,2023,April,Qwen/Qwen3-32B,45.6
+kalyan,maharashtra,2023,May,Qwen/Qwen3-32B,45.3
+kalyan,maharashtra,2023,June,Qwen/Qwen3-32B,45.6
+kalyan,maharashtra,2023,July,Qwen/Qwen3-32B,45.6
+kalyan,maharashtra,2023,August,Qwen/Qwen3-32B,45.6
+kalyan,maharashtra,2023,September,Qwen/Qwen3-32B,45.6
+kalyan,maharashtra,2023,October,Qwen/Qwen3-32B,45.2
+kalyan,maharashtra,2023,November,Qwen/Qwen3-32B,78.4
+kalyan,maharashtra,2023,December,Qwen/Qwen3-32B,125.4
+kanchipuram,tamil nadu,2023,January,Qwen/Qwen3-32B,45.6
+kanchipuram,tamil nadu,2023,February,Qwen/Qwen3-32B,45.6
+kanchipuram,tamil nadu,2023,March,Qwen/Qwen3-32B,45.6
+kanchipuram,tamil nadu,2023,April,Qwen/Qwen3-32B,45.6
+kanchipuram,tamil nadu,2023,May,Qwen/Qwen3-32B,45.6
+kanchipuram,tamil nadu,2023,June,Qwen/Qwen3-32B,45.6
+kanchipuram,tamil nadu,2023,July,Qwen/Qwen3-32B,35.7
+kanchipuram,tamil nadu,2023,August,Qwen/Qwen3-32B,45.7
+kanchipuram,tamil nadu,2023,September,Qwen/Qwen3-32B,45.6
+kanchipuram,tamil nadu,2023,October,Qwen/Qwen3-32B,45.7
+kanchipuram,tamil nadu,2023,November,Qwen/Qwen3-32B,45.7
+kanchipuram,tamil nadu,2023,December,Qwen/Qwen3-32B,45.6
+kannur,kerala,2023,January,Qwen/Qwen3-32B,45.6
+kannur,kerala,2023,February,Qwen/Qwen3-32B,35.7
+kannur,kerala,2023,March,Qwen/Qwen3-32B,35.2
+kannur,kerala,2023,April,Qwen/Qwen3-32B,35.7
+kannur,kerala,2023,May,Qwen/Qwen3-32B,35.7
+kannur,kerala,2023,June,Qwen/Qwen3-32B,25.6
+kannur,kerala,2023,July,Qwen/Qwen3-32B,15.6
+kannur,kerala,2023,August,Qwen/Qwen3-32B,25.6
+kannur,kerala,2023,September,Qwen/Qwen3-32B,35.7
+kannur,kerala,2023,October,Qwen/Qwen3-32B,35.7
+kannur,kerala,2023,November,Qwen/Qwen3-32B,45.6
+kannur,kerala,2023,December,Qwen/Qwen3-32B,45.6
+kanpur,uttar pradesh,2023,January,Qwen/Qwen3-32B,150.3
+kanpur,uttar pradesh,2023,February,Qwen/Qwen3-32B,150.3
+kanpur,uttar pradesh,2023,March,Qwen/Qwen3-32B,150.3
+kanpur,uttar pradesh,2023,April,Qwen/Qwen3-32B,150.3
+kanpur,uttar pradesh,2023,May,Qwen/Qwen3-32B,150.7
+kanpur,uttar pradesh,2023,June,Qwen/Qwen3-32B,150.2
+kanpur,uttar pradesh,2023,July,Qwen/Qwen3-32B,150.7
+kanpur,uttar pradesh,2023,August,Qwen/Qwen3-32B,150.2
+kanpur,uttar pradesh,2023,September,Qwen/Qwen3-32B,150.7
+kanpur,uttar pradesh,2023,October,Qwen/Qwen3-32B,150.3
+kanpur,uttar pradesh,2023,November,Qwen/Qwen3-32B,150.3
+kanpur,uttar pradesh,2023,December,Qwen/Qwen3-32B,150.3
+karnal,haryana,2023,January,Qwen/Qwen3-32B,154.3
+karnal,haryana,2023,February,Qwen/Qwen3-32B,154.3
+karnal,haryana,2023,March,Qwen/Qwen3-32B,85.6
+karnal,haryana,2023,April,Qwen/Qwen3-32B,150.2
+karnal,haryana,2023,May,Qwen/Qwen3-32B,78.4
+karnal,haryana,2023,June,Qwen/Qwen3-32B,150.3
+karnal,haryana,2023,July,Qwen/Qwen3-32B,150.7
+karnal,haryana,2023,August,Qwen/Qwen3-32B,150.2
+karnal,haryana,2023,September,Qwen/Qwen3-32B,150.5
+karnal,haryana,2023,October,Qwen/Qwen3-32B,150.3
+karnal,haryana,2023,November,Qwen/Qwen3-32B,156.3
+karnal,haryana,2023,December,Qwen/Qwen3-32B,150.7
+katihar,bihar,2023,January,Qwen/Qwen3-32B,156.3
+katihar,bihar,2023,February,Qwen/Qwen3-32B,85.6
+katihar,bihar,2023,March,Qwen/Qwen3-32B,78.4
+katihar,bihar,2023,April,Qwen/Qwen3-32B,78.3
+katihar,bihar,2023,May,Qwen/Qwen3-32B,45.6
+katihar,bihar,2023,June,Qwen/Qwen3-32B,68.3
+katihar,bihar,2023,July,Qwen/Qwen3-32B,45.7
+katihar,bihar,2023,August,Qwen/Qwen3-32B,45.7
+katihar,bihar,2023,September,Qwen/Qwen3-32B,45.7
+katihar,bihar,2023,October,Qwen/Qwen3-32B,78.4
+katihar,bihar,2023,November,Qwen/Qwen3-32B,156.3
+katihar,bihar,2023,December,Qwen/Qwen3-32B,156.7
+katni,madhya pradesh,2023,January,Qwen/Qwen3-32B,45.6
+katni,madhya pradesh,2023,February,Qwen/Qwen3-32B,45.6
+katni,madhya pradesh,2023,March,Qwen/Qwen3-32B,45.6
+katni,madhya pradesh,2023,April,Qwen/Qwen3-32B,45.6
+katni,madhya pradesh,2023,May,Qwen/Qwen3-32B,45.7
+katni,madhya pradesh,2023,June,Qwen/Qwen3-32B,45.6
+katni,madhya pradesh,2023,July,Qwen/Qwen3-32B,45.6
+katni,madhya pradesh,2023,August,Qwen/Qwen3-32B,45.6
+katni,madhya pradesh,2023,September,Qwen/Qwen3-32B,45.6
+katni,madhya pradesh,2023,October,Qwen/Qwen3-32B,45.6
+katni,madhya pradesh,2023,November,Qwen/Qwen3-32B,45.7
+katni,madhya pradesh,2023,December,Qwen/Qwen3-32B,45.7
+khanna,punjab,2023,June,Qwen/Qwen3-32B,45.7
+khanna,punjab,2023,July,Qwen/Qwen3-32B,45.7
+khanna,punjab,2023,August,Qwen/Qwen3-32B,45.6
+khanna,punjab,2023,September,Qwen/Qwen3-32B,58.3
+khanna,punjab,2023,October,Qwen/Qwen3-32B,78.4
+khanna,punjab,2023,November,Qwen/Qwen3-32B,150.3
+khanna,punjab,2023,December,Qwen/Qwen3-32B,156.3
+khurja,uttar pradesh,2023,January,Qwen/Qwen3-32B,154.3
+khurja,uttar pradesh,2023,February,Qwen/Qwen3-32B,85.6
+khurja,uttar pradesh,2023,March,Qwen/Qwen3-32B,78.4
+khurja,uttar pradesh,2023,April,Qwen/Qwen3-32B,150.3
+khurja,uttar pradesh,2023,May,Qwen/Qwen3-32B,78.4
+khurja,uttar pradesh,2023,June,Qwen/Qwen3-32B,78.4
+khurja,uttar pradesh,2023,July,Qwen/Qwen3-32B,78.4
+khurja,uttar pradesh,2023,August,Qwen/Qwen3-32B,78.4
+khurja,uttar pradesh,2023,September,Qwen/Qwen3-32B,78.2
+khurja,uttar pradesh,2023,October,Qwen/Qwen3-32B,78.4
+khurja,uttar pradesh,2023,November,Qwen/Qwen3-32B,156.3
+khurja,uttar pradesh,2023,December,Qwen/Qwen3-32B,152.3
+kishanganj,bihar,2023,January,Qwen/Qwen3-32B,154.2
+kishanganj,bihar,2023,February,Qwen/Qwen3-32B,85.6
+kishanganj,bihar,2023,March,Qwen/Qwen3-32B,45.6
+kishanganj,bihar,2023,April,Qwen/Qwen3-32B,45.6
+kishanganj,bihar,2023,May,Qwen/Qwen3-32B,45.6
+kishanganj,bihar,2023,June,Qwen/Qwen3-32B,45.6
+kishanganj,bihar,2023,July,Qwen/Qwen3-32B,45.6
+kishanganj,bihar,2023,August,Qwen/Qwen3-32B,45.7
+kishanganj,bihar,2023,September,Qwen/Qwen3-32B,45.7
+kishanganj,bihar,2023,October,Qwen/Qwen3-32B,45.7
+kishanganj,bihar,2023,November,Qwen/Qwen3-32B,156.3
+kishanganj,bihar,2023,December,Qwen/Qwen3-32B,156.7
+kohima,nagaland,2023,January,Qwen/Qwen3-32B,45.6
+kohima,nagaland,2023,February,Qwen/Qwen3-32B,45.7
+kohima,nagaland,2023,March,Qwen/Qwen3-32B,45.7
+kohima,nagaland,2023,April,Qwen/Qwen3-32B,45.6
+kohima,nagaland,2023,May,Qwen/Qwen3-32B,45.6
+kohima,nagaland,2023,June,Qwen/Qwen3-32B,45.6
+kohima,nagaland,2023,July,Qwen/Qwen3-32B,45.6
+kohima,nagaland,2023,August,Qwen/Qwen3-32B,35.7
+kohima,nagaland,2023,September,Qwen/Qwen3-32B,45.6
+kohima,nagaland,2023,October,Qwen/Qwen3-32B,45.7
+kohima,nagaland,2023,November,Qwen/Qwen3-32B,45.6
+kohima,nagaland,2023,December,Qwen/Qwen3-32B,45.6
+kolkata,west bengal,2023,January,Qwen/Qwen3-32B,154.3
+kolkata,west bengal,2023,February,Qwen/Qwen3-32B,154.6
+kolkata,west bengal,2023,March,Qwen/Qwen3-32B,85.6
+kolkata,west bengal,2023,April,Qwen/Qwen3-32B,85.4
+kolkata,west bengal,2023,May,Qwen/Qwen3-32B,65.2
+kolkata,west bengal,2023,June,Qwen/Qwen3-32B,45.6
+kolkata,west bengal,2023,July,Qwen/Qwen3-32B,45.7
+kolkata,west bengal,2023,August,Qwen/Qwen3-32B,45.6
+kolkata,west bengal,2023,September,Qwen/Qwen3-32B,45.6
+kolkata,west bengal,2023,October,Qwen/Qwen3-32B,65.4
+kolkata,west bengal,2023,November,Qwen/Qwen3-32B,154.3
+kolkata,west bengal,2023,December,Qwen/Qwen3-32B,154.3
+kollam,kerala,2023,January,Qwen/Qwen3-32B,45.7
+kollam,kerala,2023,February,Qwen/Qwen3-32B,38.4
+kollam,kerala,2023,March,Qwen/Qwen3-32B,35.7
+kollam,kerala,2023,April,Qwen/Qwen3-32B,35.7
+kollam,kerala,2023,May,Qwen/Qwen3-32B,25.6
+kollam,kerala,2023,June,Qwen/Qwen3-32B,15.6
+kollam,kerala,2023,July,Qwen/Qwen3-32B,15.6
+kollam,kerala,2023,August,Qwen/Qwen3-32B,15.6
+kollam,kerala,2023,September,Qwen/Qwen3-32B,35.7
+kollam,kerala,2023,October,Qwen/Qwen3-32B,35.7
+kollam,kerala,2023,November,Qwen/Qwen3-32B,45.6
+kollam,kerala,2023,December,Qwen/Qwen3-32B,45.6
+koppal,karnataka,2023,January,Qwen/Qwen3-32B,45.6
+koppal,karnataka,2023,February,Qwen/Qwen3-32B,45.6
+koppal,karnataka,2023,March,Qwen/Qwen3-32B,45.6
+koppal,karnataka,2023,April,Qwen/Qwen3-32B,45.6
+koppal,karnataka,2023,May,Qwen/Qwen3-32B,45.2
+koppal,karnataka,2023,June,Qwen/Qwen3-32B,35.7
+koppal,karnataka,2023,July,Qwen/Qwen3-32B,35.7
+koppal,karnataka,2023,August,Qwen/Qwen3-32B,35.7
+koppal,karnataka,2023,October,Qwen/Qwen3-32B,45.2
+koppal,karnataka,2023,November,Qwen/Qwen3-32B,45.6
+koppal,karnataka,2023,December,Qwen/Qwen3-32B,45.7
+korba,chhattisgarh,2023,January,Qwen/Qwen3-32B,156.3
+korba,chhattisgarh,2023,February,Qwen/Qwen3-32B,156.7
+korba,chhattisgarh,2023,March,Qwen/Qwen3-32B,156.3
+korba,chhattisgarh,2023,April,Qwen/Qwen3-32B,156.3
+korba,chhattisgarh,2023,May,Qwen/Qwen3-32B,156.7
+korba,chhattisgarh,2023,June,Qwen/Qwen3-32B,156.3
+korba,chhattisgarh,2023,July,Qwen/Qwen3-32B,150.7
+korba,chhattisgarh,2023,August,Qwen/Qwen3-32B,78.4
+korba,chhattisgarh,2023,September,Qwen/Qwen3-32B,78.4
+korba,chhattisgarh,2023,October,Qwen/Qwen3-32B,150.3
+korba,chhattisgarh,2023,November,Qwen/Qwen3-32B,156.3
+korba,chhattisgarh,2023,December,Qwen/Qwen3-32B,156.3
+lucknow,uttar pradesh,2023,January,Qwen/Qwen3-32B,154.3
+lucknow,uttar pradesh,2023,February,Qwen/Qwen3-32B,154.3
+lucknow,uttar pradesh,2023,March,Qwen/Qwen3-32B,150.3
+lucknow,uttar pradesh,2023,April,Qwen/Qwen3-32B,150.3
+lucknow,uttar pradesh,2023,May,Qwen/Qwen3-32B,150.3
+lucknow,uttar pradesh,2023,June,Qwen/Qwen3-32B,78.4
+lucknow,uttar pradesh,2023,July,Qwen/Qwen3-32B,65.4
+lucknow,uttar pradesh,2023,August,Qwen/Qwen3-32B,45.6
+lucknow,uttar pradesh,2023,September,Qwen/Qwen3-32B,78.3
+lucknow,uttar pradesh,2023,October,Qwen/Qwen3-32B,150.3
+lucknow,uttar pradesh,2023,November,Qwen/Qwen3-32B,150.7
+lucknow,uttar pradesh,2023,December,Qwen/Qwen3-32B,154.7
+madikeri,karnataka,2023,January,Qwen/Qwen3-32B,35.7
+madikeri,karnataka,2023,February,Qwen/Qwen3-32B,35.7
+madikeri,karnataka,2023,March,Qwen/Qwen3-32B,35.7
+madikeri,karnataka,2023,April,Qwen/Qwen3-32B,35.7
+madikeri,karnataka,2023,May,Qwen/Qwen3-32B,35.6
+madikeri,karnataka,2023,June,Qwen/Qwen3-32B,15.6
+madikeri,karnataka,2023,July,Qwen/Qwen3-32B,15.6
+madikeri,karnataka,2023,August,Qwen/Qwen3-32B,15.6
+madikeri,karnataka,2023,September,Qwen/Qwen3-32B,35.7
+madikeri,karnataka,2023,October,Qwen/Qwen3-32B,35.6
+madikeri,karnataka,2023,November,Qwen/Qwen3-32B,45.6
+madikeri,karnataka,2023,December,Qwen/Qwen3-32B,45.7
+mangalore,karnataka,2023,January,Qwen/Qwen3-32B,35.7
+mangalore,karnataka,2023,February,Qwen/Qwen3-32B,35.7
+mangalore,karnataka,2023,March,Qwen/Qwen3-32B,35.7
+mangalore,karnataka,2023,April,Qwen/Qwen3-32B,35.7
+mangalore,karnataka,2023,May,Qwen/Qwen3-32B,35.7
+mangalore,karnataka,2023,June,Qwen/Qwen3-32B,35.7
+mangalore,karnataka,2023,July,Qwen/Qwen3-32B,35.7
+mangalore,karnataka,2023,August,Qwen/Qwen3-32B,35.6
+mangalore,karnataka,2023,September,Qwen/Qwen3-32B,35.7
+mangalore,karnataka,2023,October,Qwen/Qwen3-32B,35.7
+mangalore,karnataka,2023,November,Qwen/Qwen3-32B,35.7
+mangalore,karnataka,2023,December,Qwen/Qwen3-32B,45.6
+meerut,uttar pradesh,2023,January,Qwen/Qwen3-32B,154.3
+meerut,uttar pradesh,2023,February,Qwen/Qwen3-32B,150.3
+meerut,uttar pradesh,2023,March,Qwen/Qwen3-32B,150.7
+meerut,uttar pradesh,2023,April,Qwen/Qwen3-32B,150.3
+meerut,uttar pradesh,2023,May,Qwen/Qwen3-32B,85.6
+meerut,uttar pradesh,2023,June,Qwen/Qwen3-32B,150.2
+meerut,uttar pradesh,2023,July,Qwen/Qwen3-32B,78.2
+meerut,uttar pradesh,2023,August,Qwen/Qwen3-32B,78.4
+meerut,uttar pradesh,2023,September,Qwen/Qwen3-32B,150.7
+meerut,uttar pradesh,2023,October,Qwen/Qwen3-32B,150.3
+meerut,uttar pradesh,2023,November,Qwen/Qwen3-32B,150.3
+meerut,uttar pradesh,2023,December,Qwen/Qwen3-32B,154.3
+moradabad,uttar pradesh,2023,January,Qwen/Qwen3-32B,154.3
+moradabad,uttar pradesh,2023,February,Qwen/Qwen3-32B,150.7
+moradabad,uttar pradesh,2023,March,Qwen/Qwen3-32B,150.7
+moradabad,uttar pradesh,2023,April,Qwen/Qwen3-32B,150.3
+moradabad,uttar pradesh,2023,May,Qwen/Qwen3-32B,150.3
+moradabad,uttar pradesh,2023,June,Qwen/Qwen3-32B,150.7
+moradabad,uttar pradesh,2023,July,Qwen/Qwen3-32B,78.4
+moradabad,uttar pradesh,2023,August,Qwen/Qwen3-32B,78.4
+moradabad,uttar pradesh,2023,September,Qwen/Qwen3-32B,78.4
+moradabad,uttar pradesh,2023,October,Qwen/Qwen3-32B,150.7
+moradabad,uttar pradesh,2023,November,Qwen/Qwen3-32B,150.7
+moradabad,uttar pradesh,2023,December,Qwen/Qwen3-32B,154.7
+motihari,bihar,2023,January,Qwen/Qwen3-32B,156.3
+motihari,bihar,2023,February,Qwen/Qwen3-32B,156.3
+motihari,bihar,2023,March,Qwen/Qwen3-32B,78.4
+motihari,bihar,2023,April,Qwen/Qwen3-32B,78.4
+motihari,bihar,2023,May,Qwen/Qwen3-32B,78.4
+motihari,bihar,2023,June,Qwen/Qwen3-32B,78.4
+motihari,bihar,2023,July,Qwen/Qwen3-32B,78.2
+motihari,bihar,2023,August,Qwen/Qwen3-32B,45.6
+motihari,bihar,2023,September,Qwen/Qwen3-32B,78.4
+motihari,bihar,2023,October,Qwen/Qwen3-32B,78.3
+motihari,bihar,2023,November,Qwen/Qwen3-32B,156.3
+motihari,bihar,2023,December,Qwen/Qwen3-32B,156.7
+mumbai,maharashtra,2023,January,Qwen/Qwen3-32B,45.6
+mumbai,maharashtra,2023,February,Qwen/Qwen3-32B,45.6
+mumbai,maharashtra,2023,March,Qwen/Qwen3-32B,45.6
+mumbai,maharashtra,2023,April,Qwen/Qwen3-32B,45.6
+mumbai,maharashtra,2023,May,Qwen/Qwen3-32B,45.6
+mumbai,maharashtra,2023,June,Qwen/Qwen3-32B,45.6
+mumbai,maharashtra,2023,July,Qwen/Qwen3-32B,45.6
+mumbai,maharashtra,2023,August,Qwen/Qwen3-32B,45.6
+mumbai,maharashtra,2023,September,Qwen/Qwen3-32B,45.7
+mumbai,maharashtra,2023,October,Qwen/Qwen3-32B,45.6
+mumbai,maharashtra,2023,November,Qwen/Qwen3-32B,65.4
+mumbai,maharashtra,2023,December,Qwen/Qwen3-32B,78.4
+munger,bihar,2023,January,Qwen/Qwen3-32B,156.3
+munger,bihar,2023,February,Qwen/Qwen3-32B,85.6
+munger,bihar,2023,March,Qwen/Qwen3-32B,45.6
+munger,bihar,2023,April,Qwen/Qwen3-32B,78.4
+munger,bihar,2023,May,Qwen/Qwen3-32B,45.6
+munger,bihar,2023,June,Qwen/Qwen3-32B,78.4
+munger,bihar,2023,July,Qwen/Qwen3-32B,45.6
+munger,bihar,2023,August,Qwen/Qwen3-32B,45.6
+munger,bihar,2023,September,Qwen/Qwen3-32B,45.7
+munger,bihar,2023,October,Qwen/Qwen3-32B,78.4
+munger,bihar,2023,November,Qwen/Qwen3-32B,156.3
+munger,bihar,2023,December,Qwen/Qwen3-32B,156.3
+muzaffarnagar,uttar pradesh,2023,January,Qwen/Qwen3-32B,154.3
+muzaffarnagar,uttar pradesh,2023,February,Qwen/Qwen3-32B,150.3
+muzaffarnagar,uttar pradesh,2023,March,Qwen/Qwen3-32B,150.3
+muzaffarnagar,uttar pradesh,2023,April,Qwen/Qwen3-32B,150.3
+muzaffarnagar,uttar pradesh,2023,May,Qwen/Qwen3-32B,150.7
+muzaffarnagar,uttar pradesh,2023,June,Qwen/Qwen3-32B,150.3
+muzaffarnagar,uttar pradesh,2023,July,Qwen/Qwen3-32B,78.4
+muzaffarnagar,uttar pradesh,2023,August,Qwen/Qwen3-32B,150.2
+muzaffarnagar,uttar pradesh,2023,September,Qwen/Qwen3-32B,150.3
+muzaffarnagar,uttar pradesh,2023,October,Qwen/Qwen3-32B,150.7
+muzaffarnagar,uttar pradesh,2023,November,Qwen/Qwen3-32B,152.3
+muzaffarnagar,uttar pradesh,2023,December,Qwen/Qwen3-32B,156.3
+muzaffarpur,bihar,2023,January,Qwen/Qwen3-32B,154.6
+muzaffarpur,bihar,2023,February,Qwen/Qwen3-32B,150.2
+muzaffarpur,bihar,2023,March,Qwen/Qwen3-32B,150.2
+muzaffarpur,bihar,2023,April,Qwen/Qwen3-32B,150.3
+muzaffarpur,bihar,2023,May,Qwen/Qwen3-32B,150.3
+muzaffarpur,bihar,2023,June,Qwen/Qwen3-32B,150.7
+muzaffarpur,bihar,2023,July,Qwen/Qwen3-32B,150.7
+muzaffarpur,bihar,2023,August,Qwen/Qwen3-32B,150.7
+muzaffarpur,bihar,2023,September,Qwen/Qwen3-32B,150.3
+muzaffarpur,bihar,2023,October,Qwen/Qwen3-32B,150.3
+muzaffarpur,bihar,2023,November,Qwen/Qwen3-32B,150.3
+muzaffarpur,bihar,2023,December,Qwen/Qwen3-32B,150.3
+naharlagun,arunachal pradesh,2023,January,Qwen/Qwen3-32B,45.6
+naharlagun,arunachal pradesh,2023,February,Qwen/Qwen3-32B,45.6
+naharlagun,arunachal pradesh,2023,March,Qwen/Qwen3-32B,45.6
+naharlagun,arunachal pradesh,2023,April,Qwen/Qwen3-32B,45.6
+naharlagun,arunachal pradesh,2023,May,Qwen/Qwen3-32B,45.7
+naharlagun,arunachal pradesh,2023,June,Qwen/Qwen3-32B,45.6
+naharlagun,arunachal pradesh,2023,July,Qwen/Qwen3-32B,35.7
+naharlagun,arunachal pradesh,2023,August,Qwen/Qwen3-32B,25.4
+nalbari,assam,2023,January,Qwen/Qwen3-32B,45.7
+nalbari,assam,2023,February,Qwen/Qwen3-32B,45.7
+nalbari,assam,2023,March,Qwen/Qwen3-32B,45.7
+nalbari,assam,2023,April,Qwen/Qwen3-32B,45.6
+nalbari,assam,2023,May,Qwen/Qwen3-32B,45.6
+nalbari,assam,2023,June,Qwen/Qwen3-32B,45.6
+nalbari,assam,2023,July,Qwen/Qwen3-32B,45.7
+nalbari,assam,2023,August,Qwen/Qwen3-32B,45.6
+nalbari,assam,2023,September,Qwen/Qwen3-32B,45.7
+nalbari,assam,2023,October,Qwen/Qwen3-32B,45.7
+nalbari,assam,2023,November,Qwen/Qwen3-32B,45.7
+nalbari,assam,2023,December,Qwen/Qwen3-32B,45.7
+navi mumbai,maharashtra,2023,January,Qwen/Qwen3-32B,45.6
+navi mumbai,maharashtra,2023,February,Qwen/Qwen3-32B,45.6
+navi mumbai,maharashtra,2023,March,Qwen/Qwen3-32B,45.6
+navi mumbai,maharashtra,2023,April,Qwen/Qwen3-32B,45.6
+navi mumbai,maharashtra,2023,May,Qwen/Qwen3-32B,45.6
+navi mumbai,maharashtra,2023,June,Qwen/Qwen3-32B,45.6
+navi mumbai,maharashtra,2023,July,Qwen/Qwen3-32B,45.7
+navi mumbai,maharashtra,2023,August,Qwen/Qwen3-32B,45.6
+navi mumbai,maharashtra,2023,September,Qwen/Qwen3-32B,45.7
+navi mumbai,maharashtra,2023,October,Qwen/Qwen3-32B,45.7
+navi mumbai,maharashtra,2023,November,Qwen/Qwen3-32B,45.7
+navi mumbai,maharashtra,2023,December,Qwen/Qwen3-32B,45.7
+nayagarh,odisha,2023,January,Qwen/Qwen3-32B,45.6
+nayagarh,odisha,2023,February,Qwen/Qwen3-32B,45.7
+nayagarh,odisha,2023,March,Qwen/Qwen3-32B,45.6
+nayagarh,odisha,2023,April,Qwen/Qwen3-32B,45.6
+nayagarh,odisha,2023,May,Qwen/Qwen3-32B,45.6
+nayagarh,odisha,2023,June,Qwen/Qwen3-32B,45.6
+nayagarh,odisha,2023,July,Qwen/Qwen3-32B,45.6
+nayagarh,odisha,2023,August,Qwen/Qwen3-32B,45.7
+nayagarh,odisha,2023,September,Qwen/Qwen3-32B,45.6
+nayagarh,odisha,2023,October,Qwen/Qwen3-32B,45.6
+nayagarh,odisha,2023,November,Qwen/Qwen3-32B,45.7
+nayagarh,odisha,2023,December,Qwen/Qwen3-32B,45.7
+patna,bihar,2023,January,Qwen/Qwen3-32B,152.3
+patna,bihar,2023,February,Qwen/Qwen3-32B,150.3
+patna,bihar,2023,March,Qwen/Qwen3-32B,154.6
+patna,bihar,2023,April,Qwen/Qwen3-32B,154.3
+patna,bihar,2023,May,Qwen/Qwen3-32B,150.7
+patna,bihar,2023,June,Qwen/Qwen3-32B,150.3
+patna,bihar,2023,July,Qwen/Qwen3-32B,150.7
+patna,bihar,2023,August,Qwen/Qwen3-32B,150.3
+patna,bihar,2023,September,Qwen/Qwen3-32B,150.3
+patna,bihar,2023,October,Qwen/Qwen3-32B,150.3
+patna,bihar,2023,November,Qwen/Qwen3-32B,150.3
+patna,bihar,2023,December,Qwen/Qwen3-32B,152.3
+prayagraj,uttar pradesh,2023,January,Qwen/Qwen3-32B,154.3
+prayagraj,uttar pradesh,2023,February,Qwen/Qwen3-32B,150.2
+prayagraj,uttar pradesh,2023,March,Qwen/Qwen3-32B,154.3
+prayagraj,uttar pradesh,2023,April,Qwen/Qwen3-32B,150.2
+prayagraj,uttar pradesh,2023,May,Qwen/Qwen3-32B,156.3
+prayagraj,uttar pradesh,2023,June,Qwen/Qwen3-32B,150.2
+prayagraj,uttar pradesh,2023,July,Qwen/Qwen3-32B,150.2
+prayagraj,uttar pradesh,2023,August,Qwen/Qwen3-32B,150.7
+prayagraj,uttar pradesh,2023,September,Qwen/Qwen3-32B,150.2
+prayagraj,uttar pradesh,2023,October,Qwen/Qwen3-32B,150.3
+prayagraj,uttar pradesh,2023,November,Qwen/Qwen3-32B,150.3
+prayagraj,uttar pradesh,2023,December,Qwen/Qwen3-32B,156.7
+puducherry,puducherry,2023,January,Qwen/Qwen3-32B,45.6
+puducherry,puducherry,2023,February,Qwen/Qwen3-32B,45.3
+puducherry,puducherry,2023,March,Qwen/Qwen3-32B,45.6
+puducherry,puducherry,2023,April,Qwen/Qwen3-32B,45.6
+puducherry,puducherry,2023,May,Qwen/Qwen3-32B,45.6
+puducherry,puducherry,2023,June,Qwen/Qwen3-32B,35.7
+puducherry,puducherry,2023,July,Qwen/Qwen3-32B,35.6
+puducherry,puducherry,2023,August,Qwen/Qwen3-32B,35.7
+puducherry,puducherry,2023,September,Qwen/Qwen3-32B,45.6
+puducherry,puducherry,2023,October,Qwen/Qwen3-32B,45.6
+puducherry,puducherry,2023,November,Qwen/Qwen3-32B,45.6
+puducherry,puducherry,2023,December,Qwen/Qwen3-32B,45.7
+purnia,bihar,2023,January,Qwen/Qwen3-32B,154.3
+purnia,bihar,2023,February,Qwen/Qwen3-32B,156.3
+purnia,bihar,2023,March,Qwen/Qwen3-32B,78.3
+purnia,bihar,2023,April,Qwen/Qwen3-32B,156.3
+purnia,bihar,2023,May,Qwen/Qwen3-32B,78.4
+purnia,bihar,2023,June,Qwen/Qwen3-32B,78.4
+purnia,bihar,2023,July,Qwen/Qwen3-32B,45.6
+purnia,bihar,2023,August,Qwen/Qwen3-32B,45.6
+purnia,bihar,2023,September,Qwen/Qwen3-32B,45.6
+purnia,bihar,2023,October,Qwen/Qwen3-32B,78.4
+purnia,bihar,2023,November,Qwen/Qwen3-32B,156.3
+purnia,bihar,2023,December,Qwen/Qwen3-32B,156.3
+raichur,karnataka,2023,January,Qwen/Qwen3-32B,78.4
+raichur,karnataka,2023,February,Qwen/Qwen3-32B,45.6
+raichur,karnataka,2023,March,Qwen/Qwen3-32B,45.6
+raichur,karnataka,2023,April,Qwen/Qwen3-32B,45.6
+raichur,karnataka,2023,May,Qwen/Qwen3-32B,45.6
+raichur,karnataka,2023,June,Qwen/Qwen3-32B,45.6
+raichur,karnataka,2023,July,Qwen/Qwen3-32B,45.6
+raichur,karnataka,2023,August,Qwen/Qwen3-32B,45.6
+raichur,karnataka,2023,September,Qwen/Qwen3-32B,45.6
+raichur,karnataka,2023,October,Qwen/Qwen3-32B,45.2
+raichur,karnataka,2023,November,Qwen/Qwen3-32B,45.6
+raichur,karnataka,2023,December,Qwen/Qwen3-32B,78.4
+raipur,chhattisgarh,2023,January,Qwen/Qwen3-32B,78.4
+raipur,chhattisgarh,2023,February,Qwen/Qwen3-32B,78.4
+raipur,chhattisgarh,2023,March,Qwen/Qwen3-32B,45.6
+raipur,chhattisgarh,2023,April,Qwen/Qwen3-32B,68.3
+raipur,chhattisgarh,2023,May,Qwen/Qwen3-32B,45.6
+raipur,chhattisgarh,2023,June,Qwen/Qwen3-32B,45.6
+raipur,chhattisgarh,2023,July,Qwen/Qwen3-32B,45.2
+raipur,chhattisgarh,2023,August,Qwen/Qwen3-32B,45.6
+raipur,chhattisgarh,2023,September,Qwen/Qwen3-32B,45.7
+raipur,chhattisgarh,2023,October,Qwen/Qwen3-32B,68.3
+raipur,chhattisgarh,2023,November,Qwen/Qwen3-32B,78.4
+raipur,chhattisgarh,2023,December,Qwen/Qwen3-32B,78.3
+rajamahendravaram,andhra pradesh,2023,January,Qwen/Qwen3-32B,45.6
+rajamahendravaram,andhra pradesh,2023,February,Qwen/Qwen3-32B,45.6
+rajamahendravaram,andhra pradesh,2023,March,Qwen/Qwen3-32B,45.6
+rajamahendravaram,andhra pradesh,2023,April,Qwen/Qwen3-32B,45.6
+rajamahendravaram,andhra pradesh,2023,May,Qwen/Qwen3-32B,45.6
+rajamahendravaram,andhra pradesh,2023,June,Qwen/Qwen3-32B,45.6
+rajamahendravaram,andhra pradesh,2023,July,Qwen/Qwen3-32B,45.6
+rajamahendravaram,andhra pradesh,2023,August,Qwen/Qwen3-32B,45.6
+rajamahendravaram,andhra pradesh,2023,September,Qwen/Qwen3-32B,45.7
+rajamahendravaram,andhra pradesh,2023,October,Qwen/Qwen3-32B,45.6
+rajamahendravaram,andhra pradesh,2023,November,Qwen/Qwen3-32B,45.6
+rajamahendravaram,andhra pradesh,2023,December,Qwen/Qwen3-32B,45.7
+rajgir,bihar,2023,January,Qwen/Qwen3-32B,85.6
+rajgir,bihar,2023,February,Qwen/Qwen3-32B,85.6
+rajgir,bihar,2023,March,Qwen/Qwen3-32B,45.7
+rajgir,bihar,2023,April,Qwen/Qwen3-32B,78.2
+rajgir,bihar,2023,May,Qwen/Qwen3-32B,68.4
+rajgir,bihar,2023,June,Qwen/Qwen3-32B,45.6
+rajgir,bihar,2023,July,Qwen/Qwen3-32B,45.7
+rajgir,bihar,2023,August,Qwen/Qwen3-32B,45.7
+rajgir,bihar,2023,September,Qwen/Qwen3-32B,45.7
+rajgir,bihar,2023,October,Qwen/Qwen3-32B,45.6
+rajgir,bihar,2023,November,Qwen/Qwen3-32B,85.6
+rajgir,bihar,2023,December,Qwen/Qwen3-32B,156.3
+ramanagara,karnataka,2023,January,Qwen/Qwen3-32B,38.7
+ramanagara,karnataka,2023,February,Qwen/Qwen3-32B,35.7
+ramanagara,karnataka,2023,March,Qwen/Qwen3-32B,35.7
+ramanagara,karnataka,2023,April,Qwen/Qwen3-32B,35.7
+ramanagara,karnataka,2023,May,Qwen/Qwen3-32B,35.7
+ramanagara,karnataka,2023,June,Qwen/Qwen3-32B,35.7
+ramanagara,karnataka,2023,July,Qwen/Qwen3-32B,28.4
+ramanagara,karnataka,2023,August,Qwen/Qwen3-32B,35.7
+ramanagara,karnataka,2023,September,Qwen/Qwen3-32B,35.7
+ramanagara,karnataka,2023,October,Qwen/Qwen3-32B,35.7
+ramanagara,karnataka,2023,November,Qwen/Qwen3-32B,38.7
+ramanagara,karnataka,2023,December,Qwen/Qwen3-32B,45.6
+ramanathapuram,tamil nadu,2023,January,Qwen/Qwen3-32B,45.6
+ramanathapuram,tamil nadu,2023,February,Qwen/Qwen3-32B,45.7
+ramanathapuram,tamil nadu,2023,March,Qwen/Qwen3-32B,45.6
+ramanathapuram,tamil nadu,2023,April,Qwen/Qwen3-32B,45.7
+ramanathapuram,tamil nadu,2023,May,Qwen/Qwen3-32B,45.7
+ramanathapuram,tamil nadu,2023,June,Qwen/Qwen3-32B,45.7
+ramanathapuram,tamil nadu,2023,July,Qwen/Qwen3-32B,45.6
+ramanathapuram,tamil nadu,2023,August,Qwen/Qwen3-32B,45.6
+ramanathapuram,tamil nadu,2023,September,Qwen/Qwen3-32B,45.6
+ramanathapuram,tamil nadu,2023,October,Qwen/Qwen3-32B,45.7
+ramanathapuram,tamil nadu,2023,November,Qwen/Qwen3-32B,45.6
+ramanathapuram,tamil nadu,2023,December,Qwen/Qwen3-32B,45.6
+sagar,madhya pradesh,2023,January,Qwen/Qwen3-32B,78.4
+sagar,madhya pradesh,2023,February,Qwen/Qwen3-32B,78.4
+sagar,madhya pradesh,2023,March,Qwen/Qwen3-32B,45.6
+sagar,madhya pradesh,2023,April,Qwen/Qwen3-32B,45.6
+sagar,madhya pradesh,2023,May,Qwen/Qwen3-32B,45.6
+sagar,madhya pradesh,2023,June,Qwen/Qwen3-32B,45.6
+sagar,madhya pradesh,2023,July,Qwen/Qwen3-32B,45.6
+sagar,madhya pradesh,2023,August,Qwen/Qwen3-32B,45.6
+sagar,madhya pradesh,2023,September,Qwen/Qwen3-32B,45.7
+sagar,madhya pradesh,2023,October,Qwen/Qwen3-32B,45.7
+sagar,madhya pradesh,2023,November,Qwen/Qwen3-32B,78.4
+sagar,madhya pradesh,2023,December,Qwen/Qwen3-32B,125.4
+saharsa,bihar,2023,January,Qwen/Qwen3-32B,154.3
+saharsa,bihar,2023,February,Qwen/Qwen3-32B,156.4
+saharsa,bihar,2023,March,Qwen/Qwen3-32B,78.3
+saharsa,bihar,2023,April,Qwen/Qwen3-32B,78.4
+saharsa,bihar,2023,May,Qwen/Qwen3-32B,78.4
+saharsa,bihar,2023,June,Qwen/Qwen3-32B,45.6
+saharsa,bihar,2023,July,Qwen/Qwen3-32B,45.6
+saharsa,bihar,2023,August,Qwen/Qwen3-32B,45.6
+saharsa,bihar,2023,September,Qwen/Qwen3-32B,45.7
+saharsa,bihar,2023,October,Qwen/Qwen3-32B,45.6
+saharsa,bihar,2023,November,Qwen/Qwen3-32B,85.6
+saharsa,bihar,2023,December,Qwen/Qwen3-32B,156.3
+salem,tamil nadu,2023,January,Qwen/Qwen3-32B,45.6
+salem,tamil nadu,2023,February,Qwen/Qwen3-32B,45.6
+salem,tamil nadu,2023,March,Qwen/Qwen3-32B,45.6
+salem,tamil nadu,2023,April,Qwen/Qwen3-32B,45.6
+salem,tamil nadu,2023,May,Qwen/Qwen3-32B,45.7
+salem,tamil nadu,2023,June,Qwen/Qwen3-32B,45.6
+salem,tamil nadu,2023,July,Qwen/Qwen3-32B,45.6
+salem,tamil nadu,2023,August,Qwen/Qwen3-32B,45.6
+salem,tamil nadu,2023,September,Qwen/Qwen3-32B,45.6
+salem,tamil nadu,2023,October,Qwen/Qwen3-32B,45.6
+salem,tamil nadu,2023,November,Qwen/Qwen3-32B,45.7
+salem,tamil nadu,2023,December,Qwen/Qwen3-32B,45.7
+samastipur,bihar,2023,January,Qwen/Qwen3-32B,154.3
+samastipur,bihar,2023,February,Qwen/Qwen3-32B,156.3
+samastipur,bihar,2023,March,Qwen/Qwen3-32B,85.4
+samastipur,bihar,2023,April,Qwen/Qwen3-32B,85.6
+samastipur,bihar,2023,May,Qwen/Qwen3-32B,78.4
+samastipur,bihar,2023,June,Qwen/Qwen3-32B,150.3
+samastipur,bihar,2023,July,Qwen/Qwen3-32B,78.4
+samastipur,bihar,2023,August,Qwen/Qwen3-32B,45.6
+samastipur,bihar,2023,September,Qwen/Qwen3-32B,78.4
+samastipur,bihar,2023,October,Qwen/Qwen3-32B,78.4
+samastipur,bihar,2023,November,Qwen/Qwen3-32B,156.7
+samastipur,bihar,2023,December,Qwen/Qwen3-32B,156.3
+sasaram,bihar,2023,January,Qwen/Qwen3-32B,154.7
+sasaram,bihar,2023,February,Qwen/Qwen3-32B,85.6
+sasaram,bihar,2023,March,Qwen/Qwen3-32B,78.4
+sasaram,bihar,2023,April,Qwen/Qwen3-32B,78.4
+sasaram,bihar,2023,May,Qwen/Qwen3-32B,78.5
+sasaram,bihar,2023,June,Qwen/Qwen3-32B,78.2
+sasaram,bihar,2023,July,Qwen/Qwen3-32B,45.7
+sasaram,bihar,2023,August,Qwen/Qwen3-32B,45.6
+sasaram,bihar,2023,September,Qwen/Qwen3-32B,45.6
+sasaram,bihar,2023,October,Qwen/Qwen3-32B,78.4
+sasaram,bihar,2023,November,Qwen/Qwen3-32B,156.3
+sasaram,bihar,2023,December,Qwen/Qwen3-32B,156.3
+silchar,assam,2023,January,Qwen/Qwen3-32B,45.6
+silchar,assam,2023,February,Qwen/Qwen3-32B,45.6
+silchar,assam,2023,March,Qwen/Qwen3-32B,45.6
+silchar,assam,2023,April,Qwen/Qwen3-32B,45.7
+silchar,assam,2023,May,Qwen/Qwen3-32B,45.6
+silchar,assam,2023,June,Qwen/Qwen3-32B,45.6
+silchar,assam,2023,July,Qwen/Qwen3-32B,45.7
+silchar,assam,2023,August,Qwen/Qwen3-32B,45.6
+silchar,assam,2023,September,Qwen/Qwen3-32B,45.7
+silchar,assam,2023,October,Qwen/Qwen3-32B,45.6
+silchar,assam,2023,November,Qwen/Qwen3-32B,45.6
+silchar,assam,2023,December,Qwen/Qwen3-32B,45.6
+sirohi,rajasthan,2023,January,Qwen/Qwen3-32B,125.4
+sirohi,rajasthan,2023,February,Qwen/Qwen3-32B,45.7
+sirohi,rajasthan,2023,March,Qwen/Qwen3-32B,45.7
+sirohi,rajasthan,2023,April,Qwen/Qwen3-32B,45.6
+sirohi,rajasthan,2023,May,Qwen/Qwen3-32B,45.7
+sirohi,rajasthan,2023,June,Qwen/Qwen3-32B,125.4
+sirohi,rajasthan,2023,July,Qwen/Qwen3-32B,15.6
+sirohi,rajasthan,2023,August,Qwen/Qwen3-32B,125.4
+sirohi,rajasthan,2023,September,Qwen/Qwen3-32B,45.7
+sirohi,rajasthan,2023,October,Qwen/Qwen3-32B,45.6
+sirohi,rajasthan,2023,November,Qwen/Qwen3-32B,45.7
+sirohi,rajasthan,2023,December,Qwen/Qwen3-32B,125.4
+sirsa,haryana,2023,January,Qwen/Qwen3-32B,125.4
+sirsa,haryana,2023,February,Qwen/Qwen3-32B,156.7
+sirsa,haryana,2023,March,Qwen/Qwen3-32B,125.4
+sirsa,haryana,2023,April,Qwen/Qwen3-32B,125.4
+sirsa,haryana,2023,May,Qwen/Qwen3-32B,125.4
+sirsa,haryana,2023,June,Qwen/Qwen3-32B,145.6
+sirsa,haryana,2023,July,Qwen/Qwen3-32B,150.2
+sirsa,haryana,2023,August,Qwen/Qwen3-32B,150.7
+sirsa,haryana,2023,September,Qwen/Qwen3-32B,150.3
+sirsa,haryana,2023,October,Qwen/Qwen3-32B,150.2
+sirsa,haryana,2023,November,Qwen/Qwen3-32B,156.3
+sirsa,haryana,2023,December,Qwen/Qwen3-32B,156.3
+sivasagar,assam,2023,January,Qwen/Qwen3-32B,45.6
+sivasagar,assam,2023,February,Qwen/Qwen3-32B,45.7
+sivasagar,assam,2023,March,Qwen/Qwen3-32B,45.7
+sivasagar,assam,2023,April,Qwen/Qwen3-32B,45.7
+sivasagar,assam,2023,May,Qwen/Qwen3-32B,45.6
+sivasagar,assam,2023,June,Qwen/Qwen3-32B,45.7
+sivasagar,assam,2023,July,Qwen/Qwen3-32B,45.6
+sivasagar,assam,2023,August,Qwen/Qwen3-32B,45.2
+sivasagar,assam,2023,September,Qwen/Qwen3-32B,45.6
+sivasagar,assam,2023,October,Qwen/Qwen3-32B,45.7
+sivasagar,assam,2023,November,Qwen/Qwen3-32B,45.6
+sivasagar,assam,2023,December,Qwen/Qwen3-32B,45.7
+siwan,bihar,2023,January,Qwen/Qwen3-32B,156.3
+siwan,bihar,2023,February,Qwen/Qwen3-32B,156.7
+siwan,bihar,2023,March,Qwen/Qwen3-32B,150.3
+siwan,bihar,2023,April,Qwen/Qwen3-32B,156.7
+siwan,bihar,2023,May,Qwen/Qwen3-32B,78.4
+siwan,bihar,2023,June,Qwen/Qwen3-32B,78.4
+siwan,bihar,2023,July,Qwen/Qwen3-32B,78.5
+siwan,bihar,2023,August,Qwen/Qwen3-32B,45.7
+siwan,bihar,2023,September,Qwen/Qwen3-32B,78.4
+siwan,bihar,2023,October,Qwen/Qwen3-32B,78.4
+siwan,bihar,2023,November,Qwen/Qwen3-32B,156.7
+siwan,bihar,2023,December,Qwen/Qwen3-32B,156.7
+surat,gujarat,2023,January,Qwen/Qwen3-32B,78.4
+surat,gujarat,2023,February,Qwen/Qwen3-32B,45.6
+surat,gujarat,2023,March,Qwen/Qwen3-32B,45.6
+surat,gujarat,2023,April,Qwen/Qwen3-32B,45.6
+surat,gujarat,2023,May,Qwen/Qwen3-32B,45.7
+surat,gujarat,2023,June,Qwen/Qwen3-32B,45.6
+surat,gujarat,2023,July,Qwen/Qwen3-32B,45.6
+surat,gujarat,2023,August,Qwen/Qwen3-32B,45.6
+surat,gujarat,2023,September,Qwen/Qwen3-32B,45.6
+surat,gujarat,2023,October,Qwen/Qwen3-32B,45.6
+surat,gujarat,2023,November,Qwen/Qwen3-32B,125.6
+surat,gujarat,2023,December,Qwen/Qwen3-32B,125.4
+talcher,odisha,2023,January,Qwen/Qwen3-32B,78.4
+talcher,odisha,2023,February,Qwen/Qwen3-32B,45.6
+talcher,odisha,2023,March,Qwen/Qwen3-32B,45.6
+talcher,odisha,2023,April,Qwen/Qwen3-32B,45.7
+talcher,odisha,2023,May,Qwen/Qwen3-32B,45.6
+talcher,odisha,2023,June,Qwen/Qwen3-32B,45.6
+talcher,odisha,2023,July,Qwen/Qwen3-32B,45.6
+talcher,odisha,2023,August,Qwen/Qwen3-32B,45.6
+talcher,odisha,2023,September,Qwen/Qwen3-32B,45.6
+talcher,odisha,2023,October,Qwen/Qwen3-32B,45.7
+talcher,odisha,2023,November,Qwen/Qwen3-32B,45.7
+talcher,odisha,2023,December,Qwen/Qwen3-32B,45.7
+thiruvananthapuram,kerala,2023,January,Qwen/Qwen3-32B,35.7
+thiruvananthapuram,kerala,2023,February,Qwen/Qwen3-32B,25.6
+thiruvananthapuram,kerala,2023,March,Qwen/Qwen3-32B,25.4
+thiruvananthapuram,kerala,2023,April,Qwen/Qwen3-32B,25.4
+thiruvananthapuram,kerala,2023,May,Qwen/Qwen3-32B,15.6
+thiruvananthapuram,kerala,2023,June,Qwen/Qwen3-32B,15.6
+thiruvananthapuram,kerala,2023,July,Qwen/Qwen3-32B,15.6
+thiruvananthapuram,kerala,2023,August,Qwen/Qwen3-32B,25.4
+thiruvananthapuram,kerala,2023,September,Qwen/Qwen3-32B,15.6
+thiruvananthapuram,kerala,2023,October,Qwen/Qwen3-32B,15.6
+thiruvananthapuram,kerala,2023,November,Qwen/Qwen3-32B,15.6
+thiruvananthapuram,kerala,2023,December,Qwen/Qwen3-32B,15.6
+thrissur,kerala,2023,January,Qwen/Qwen3-32B,45.6
+thrissur,kerala,2023,February,Qwen/Qwen3-32B,45.6
+thrissur,kerala,2023,March,Qwen/Qwen3-32B,45.7
+thrissur,kerala,2023,April,Qwen/Qwen3-32B,45.6
+thrissur,kerala,2023,May,Qwen/Qwen3-32B,35.7
+thrissur,kerala,2023,June,Qwen/Qwen3-32B,35.7
+thrissur,kerala,2023,July,Qwen/Qwen3-32B,35.7
+thrissur,kerala,2023,August,Qwen/Qwen3-32B,35.7
+thrissur,kerala,2023,September,Qwen/Qwen3-32B,35.7
+thrissur,kerala,2023,October,Qwen/Qwen3-32B,35.7
+thrissur,kerala,2023,November,Qwen/Qwen3-32B,45.6
+thrissur,kerala,2023,December,Qwen/Qwen3-32B,45.7
+tirupati,andhra pradesh,2023,January,Qwen/Qwen3-32B,45.6
+tirupati,andhra pradesh,2023,February,Qwen/Qwen3-32B,45.6
+tirupati,andhra pradesh,2023,March,Qwen/Qwen3-32B,45.6
+tirupati,andhra pradesh,2023,April,Qwen/Qwen3-32B,45.6
+tirupati,andhra pradesh,2023,May,Qwen/Qwen3-32B,45.6
+tirupati,andhra pradesh,2023,June,Qwen/Qwen3-32B,45.6
+tirupati,andhra pradesh,2023,July,Qwen/Qwen3-32B,45.6
+tirupati,andhra pradesh,2023,August,Qwen/Qwen3-32B,45.6
+tirupati,andhra pradesh,2023,September,Qwen/Qwen3-32B,45.6
+tirupati,andhra pradesh,2023,October,Qwen/Qwen3-32B,45.6
+tirupati,andhra pradesh,2023,November,Qwen/Qwen3-32B,45.6
+tirupati,andhra pradesh,2023,December,Qwen/Qwen3-32B,45.6
+tumakuru,karnataka,2023,January,Qwen/Qwen3-32B,45.6
+tumakuru,karnataka,2023,February,Qwen/Qwen3-32B,45.7
+tumakuru,karnataka,2023,March,Qwen/Qwen3-32B,45.6
+tumakuru,karnataka,2023,April,Qwen/Qwen3-32B,38.4
+tumakuru,karnataka,2023,May,Qwen/Qwen3-32B,35.7
+tumakuru,karnataka,2023,June,Qwen/Qwen3-32B,35.7
+tumakuru,karnataka,2023,July,Qwen/Qwen3-32B,35.2
+tumakuru,karnataka,2023,August,Qwen/Qwen3-32B,35.7
+tumakuru,karnataka,2023,September,Qwen/Qwen3-32B,35.7
+tumakuru,karnataka,2023,October,Qwen/Qwen3-32B,45.7
+tumakuru,karnataka,2023,November,Qwen/Qwen3-32B,45.6
+tumakuru,karnataka,2023,December,Qwen/Qwen3-32B,45.6
+ujjain,madhya pradesh,2023,January,Qwen/Qwen3-32B,85.6
+ujjain,madhya pradesh,2023,February,Qwen/Qwen3-32B,78.4
+ujjain,madhya pradesh,2023,March,Qwen/Qwen3-32B,45.6
+ujjain,madhya pradesh,2023,April,Qwen/Qwen3-32B,78.4
+ujjain,madhya pradesh,2023,May,Qwen/Qwen3-32B,78.4
+ujjain,madhya pradesh,2023,June,Qwen/Qwen3-32B,45.7
+ujjain,madhya pradesh,2023,July,Qwen/Qwen3-32B,45.7
+ujjain,madhya pradesh,2023,August,Qwen/Qwen3-32B,45.7
+ujjain,madhya pradesh,2023,September,Qwen/Qwen3-32B,45.6
+ujjain,madhya pradesh,2023,October,Qwen/Qwen3-32B,78.3
+ujjain,madhya pradesh,2023,November,Qwen/Qwen3-32B,125.4
+ujjain,madhya pradesh,2023,December,Qwen/Qwen3-32B,156.3
+varanasi,uttar pradesh,2023,January,Qwen/Qwen3-32B,154.2
+varanasi,uttar pradesh,2023,February,Qwen/Qwen3-32B,150.3
+varanasi,uttar pradesh,2023,March,Qwen/Qwen3-32B,150.3
+varanasi,uttar pradesh,2023,April,Qwen/Qwen3-32B,150.7
+varanasi,uttar pradesh,2023,May,Qwen/Qwen3-32B,150.7
+varanasi,uttar pradesh,2023,June,Qwen/Qwen3-32B,150.2
+varanasi,uttar pradesh,2023,July,Qwen/Qwen3-32B,150.7
+varanasi,uttar pradesh,2023,August,Qwen/Qwen3-32B,150.7
+varanasi,uttar pradesh,2023,September,Qwen/Qwen3-32B,150.2
+varanasi,uttar pradesh,2023,October,Qwen/Qwen3-32B,150.3
+varanasi,uttar pradesh,2023,November,Qwen/Qwen3-32B,150.3
+varanasi,uttar pradesh,2023,December,Qwen/Qwen3-32B,154.3
+vellore,tamil nadu,2023,January,Qwen/Qwen3-32B,45.6
+vellore,tamil nadu,2023,February,Qwen/Qwen3-32B,45.6
+vellore,tamil nadu,2023,March,Qwen/Qwen3-32B,45.7
+vellore,tamil nadu,2023,April,Qwen/Qwen3-32B,45.7
+vellore,tamil nadu,2023,May,Qwen/Qwen3-32B,45.7
+vellore,tamil nadu,2023,June,Qwen/Qwen3-32B,45.6
+vellore,tamil nadu,2023,July,Qwen/Qwen3-32B,45.7
+vellore,tamil nadu,2023,August,Qwen/Qwen3-32B,45.7
+vellore,tamil nadu,2023,September,Qwen/Qwen3-32B,45.6
+vellore,tamil nadu,2023,October,Qwen/Qwen3-32B,45.6
+vellore,tamil nadu,2023,November,Qwen/Qwen3-32B,45.7
+vellore,tamil nadu,2023,December,Qwen/Qwen3-32B,45.7
+vijayawada,andhra pradesh,2023,January,Qwen/Qwen3-32B,45.7
+vijayawada,andhra pradesh,2023,February,Qwen/Qwen3-32B,45.6
+vijayawada,andhra pradesh,2023,March,Qwen/Qwen3-32B,45.6
+vijayawada,andhra pradesh,2023,April,Qwen/Qwen3-32B,45.6
+vijayawada,andhra pradesh,2023,May,Qwen/Qwen3-32B,45.7
+vijayawada,andhra pradesh,2023,June,Qwen/Qwen3-32B,45.7
+vijayawada,andhra pradesh,2023,July,Qwen/Qwen3-32B,45.6
+vijayawada,andhra pradesh,2023,August,Qwen/Qwen3-32B,45.6
+vijayawada,andhra pradesh,2023,September,Qwen/Qwen3-32B,45.7
+vijayawada,andhra pradesh,2023,October,Qwen/Qwen3-32B,45.6
+vijayawada,andhra pradesh,2023,November,Qwen/Qwen3-32B,45.6
+vijayawada,andhra pradesh,2023,December,Qwen/Qwen3-32B,45.7
+visakhapatnam,andhra pradesh,2023,January,Qwen/Qwen3-32B,45.6
+visakhapatnam,andhra pradesh,2023,February,Qwen/Qwen3-32B,42.5
+visakhapatnam,andhra pradesh,2023,March,Qwen/Qwen3-32B,42.5
+visakhapatnam,andhra pradesh,2023,April,Qwen/Qwen3-32B,45.6
+visakhapatnam,andhra pradesh,2023,May,Qwen/Qwen3-32B,45.6
+visakhapatnam,andhra pradesh,2023,June,Qwen/Qwen3-32B,45.6
+visakhapatnam,andhra pradesh,2023,July,Qwen/Qwen3-32B,45.7
+visakhapatnam,andhra pradesh,2023,August,Qwen/Qwen3-32B,45.6
+visakhapatnam,andhra pradesh,2023,September,Qwen/Qwen3-32B,45.7
+visakhapatnam,andhra pradesh,2023,October,Qwen/Qwen3-32B,45.6
+visakhapatnam,andhra pradesh,2023,November,Qwen/Qwen3-32B,45.6
+visakhapatnam,andhra pradesh,2023,December,Qwen/Qwen3-32B,45.6
+yadgir,karnataka,2023,January,Qwen/Qwen3-32B,45.6
+yadgir,karnataka,2023,February,Qwen/Qwen3-32B,45.7
+yadgir,karnataka,2023,March,Qwen/Qwen3-32B,45.6
+yadgir,karnataka,2023,April,Qwen/Qwen3-32B,45.6
+yadgir,karnataka,2023,May,Qwen/Qwen3-32B,45.6
+yadgir,karnataka,2023,June,Qwen/Qwen3-32B,35.7
+yadgir,karnataka,2023,July,Qwen/Qwen3-32B,35.6
+yadgir,karnataka,2023,August,Qwen/Qwen3-32B,35.7
+yadgir,karnataka,2023,September,Qwen/Qwen3-32B,35.7
+yadgir,karnataka,2023,October,Qwen/Qwen3-32B,45.6
+yadgir,karnataka,2023,November,Qwen/Qwen3-32B,45.6
+yadgir,karnataka,2023,December,Qwen/Qwen3-32B,38.7

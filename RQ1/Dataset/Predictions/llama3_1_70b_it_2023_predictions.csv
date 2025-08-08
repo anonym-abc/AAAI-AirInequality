@@ -1,0 +1,2413 @@
+city,state,year,month,model,pm2.5
+Agartala,Tripura,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Agartala,Tripura,2023,February,meta-llama/Llama-3.1-70B-Instruct,63.0
+Agartala,Tripura,2023,March,meta-llama/Llama-3.1-70B-Instruct,63.0
+Agartala,Tripura,2023,April,meta-llama/Llama-3.1-70B-Instruct,63.0
+Agartala,Tripura,2023,May,meta-llama/Llama-3.1-70B-Instruct,43.0
+Agartala,Tripura,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Agartala,Tripura,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Agartala,Tripura,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Agartala,Tripura,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Agartala,Tripura,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Agartala,Tripura,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Agartala,Tripura,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Agra,Uttar Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,234.0
+Agra,Uttar Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Agra,Uttar Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Agra,Uttar Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,98.0
+Agra,Uttar Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,83.0
+Agra,Uttar Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,74.0
+Agra,Uttar Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,83.0
+Agra,Uttar Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,83.0
+Agra,Uttar Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,114.0
+Agra,Uttar Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Agra,Uttar Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,234.0
+Agra,Uttar Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Ahmedabad,Gujarat,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Ahmedabad,Gujarat,2023,February,meta-llama/Llama-3.1-70B-Instruct,69.0
+Ahmedabad,Gujarat,2023,March,meta-llama/Llama-3.1-70B-Instruct,69.0
+Ahmedabad,Gujarat,2023,April,meta-llama/Llama-3.1-70B-Instruct,69.0
+Ahmedabad,Gujarat,2023,May,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ahmedabad,Gujarat,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ahmedabad,Gujarat,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ahmedabad,Gujarat,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ahmedabad,Gujarat,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Ahmedabad,Gujarat,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Ahmedabad,Gujarat,2023,November,meta-llama/Llama-3.1-70B-Instruct,114.0
+Ahmedabad,Gujarat,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Aizawl,Mizoram,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Aizawl,Mizoram,2023,February,meta-llama/Llama-3.1-70B-Instruct,63.0
+Aizawl,Mizoram,2023,March,meta-llama/Llama-3.1-70B-Instruct,63.0
+Aizawl,Mizoram,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Aizawl,Mizoram,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Aizawl,Mizoram,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Aizawl,Mizoram,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Aizawl,Mizoram,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Aizawl,Mizoram,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Aizawl,Mizoram,2023,October,meta-llama/Llama-3.1-70B-Instruct,43.0
+Aizawl,Mizoram,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Aizawl,Mizoram,2023,December,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ajmer,Rajasthan,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Ajmer,Rajasthan,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Ajmer,Rajasthan,2023,March,meta-llama/Llama-3.1-70B-Instruct,69.0
+Ajmer,Rajasthan,2023,April,meta-llama/Llama-3.1-70B-Instruct,83.0
+Ajmer,Rajasthan,2023,May,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ajmer,Rajasthan,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ajmer,Rajasthan,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ajmer,Rajasthan,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ajmer,Rajasthan,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Ajmer,Rajasthan,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Ajmer,Rajasthan,2023,November,meta-llama/Llama-3.1-70B-Instruct,114.0
+Ajmer,Rajasthan,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Alwar,Rajasthan,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Alwar,Rajasthan,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Alwar,Rajasthan,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Alwar,Rajasthan,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Alwar,Rajasthan,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Alwar,Rajasthan,2023,June,meta-llama/Llama-3.1-70B-Instruct,51.0
+Alwar,Rajasthan,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Alwar,Rajasthan,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Alwar,Rajasthan,2023,September,meta-llama/Llama-3.1-70B-Instruct,94.0
+Alwar,Rajasthan,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Alwar,Rajasthan,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Alwar,Rajasthan,2023,December,meta-llama/Llama-3.1-70B-Instruct,114.0
+Amaravati,Andhra Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,43.0
+Amaravati,Andhra Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,23.0
+Amaravati,Andhra Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,23.0
+Amaravati,Andhra Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Amaravati,Andhra Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Amaravati,Andhra Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Amaravati,Andhra Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Amaravati,Andhra Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Amaravati,Andhra Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Amaravati,Andhra Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,43.0
+Amaravati,Andhra Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,43.0
+Amaravati,Andhra Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ambala,Haryana,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Ambala,Haryana,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Ambala,Haryana,2023,March,meta-llama/Llama-3.1-70B-Instruct,98.0
+Ambala,Haryana,2023,April,meta-llama/Llama-3.1-70B-Instruct,88.0
+Ambala,Haryana,2023,May,meta-llama/Llama-3.1-70B-Instruct,51.0
+Ambala,Haryana,2023,June,meta-llama/Llama-3.1-70B-Instruct,51.0
+Ambala,Haryana,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ambala,Haryana,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ambala,Haryana,2023,September,meta-llama/Llama-3.1-70B-Instruct,94.0
+Ambala,Haryana,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Ambala,Haryana,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Ambala,Haryana,2023,December,meta-llama/Llama-3.1-70B-Instruct,114.0
+Amritsar,Punjab,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Amritsar,Punjab,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Amritsar,Punjab,2023,March,meta-llama/Llama-3.1-70B-Instruct,98.0
+Amritsar,Punjab,2023,April,meta-llama/Llama-3.1-70B-Instruct,98.0
+Amritsar,Punjab,2023,May,meta-llama/Llama-3.1-70B-Instruct,88.0
+Amritsar,Punjab,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Amritsar,Punjab,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Amritsar,Punjab,2023,August,meta-llama/Llama-3.1-70B-Instruct,83.0
+Amritsar,Punjab,2023,September,meta-llama/Llama-3.1-70B-Instruct,114.0
+Amritsar,Punjab,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Amritsar,Punjab,2023,November,meta-llama/Llama-3.1-70B-Instruct,434.0
+Amritsar,Punjab,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Anantapur,Andhra Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,43.0
+Anantapur,Andhra Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,43.0
+Anantapur,Andhra Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,43.0
+Anantapur,Andhra Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,43.0
+Anantapur,Andhra Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Anantapur,Andhra Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Anantapur,Andhra Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Anantapur,Andhra Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Anantapur,Andhra Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,43.0
+Anantapur,Andhra Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,43.0
+Anantapur,Andhra Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Anantapur,Andhra Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ankleshwar,Gujarat,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Ankleshwar,Gujarat,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Ankleshwar,Gujarat,2023,March,meta-llama/Llama-3.1-70B-Instruct,69.0
+Ankleshwar,Gujarat,2023,April,meta-llama/Llama-3.1-70B-Instruct,63.0
+Ankleshwar,Gujarat,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Ankleshwar,Gujarat,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ankleshwar,Gujarat,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ankleshwar,Gujarat,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ankleshwar,Gujarat,2023,September,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ankleshwar,Gujarat,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Ankleshwar,Gujarat,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Ankleshwar,Gujarat,2023,December,meta-llama/Llama-3.1-70B-Instruct,83.0
+Araria,Bihar,2023,January,meta-llama/Llama-3.1-70B-Instruct,157.0
+Araria,Bihar,2023,February,meta-llama/Llama-3.1-70B-Instruct,157.0
+Araria,Bihar,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Araria,Bihar,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Araria,Bihar,2023,May,meta-llama/Llama-3.1-70B-Instruct,114.0
+Araria,Bihar,2023,June,meta-llama/Llama-3.1-70B-Instruct,63.0
+Araria,Bihar,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Araria,Bihar,2023,August,meta-llama/Llama-3.1-70B-Instruct,94.0
+Araria,Bihar,2023,September,meta-llama/Llama-3.1-70B-Instruct,114.0
+Araria,Bihar,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Araria,Bihar,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Araria,Bihar,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Ariyalur,Tamil Nadu,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Ariyalur,Tamil Nadu,2023,February,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ariyalur,Tamil Nadu,2023,March,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ariyalur,Tamil Nadu,2023,April,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ariyalur,Tamil Nadu,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Ariyalur,Tamil Nadu,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Ariyalur,Tamil Nadu,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Ariyalur,Tamil Nadu,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Ariyalur,Tamil Nadu,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Ariyalur,Tamil Nadu,2023,October,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ariyalur,Tamil Nadu,2023,November,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ariyalur,Tamil Nadu,2023,December,meta-llama/Llama-3.1-70B-Instruct,43.0
+Arrah,Bihar,2023,January,meta-llama/Llama-3.1-70B-Instruct,157.0
+Arrah,Bihar,2023,February,meta-llama/Llama-3.1-70B-Instruct,157.0
+Arrah,Bihar,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Arrah,Bihar,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Arrah,Bihar,2023,May,meta-llama/Llama-3.1-70B-Instruct,114.0
+Arrah,Bihar,2023,June,meta-llama/Llama-3.1-70B-Instruct,63.0
+Arrah,Bihar,2023,July,meta-llama/Llama-3.1-70B-Instruct,94.0
+Arrah,Bihar,2023,August,meta-llama/Llama-3.1-70B-Instruct,94.0
+Arrah,Bihar,2023,September,meta-llama/Llama-3.1-70B-Instruct,114.0
+Arrah,Bihar,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Arrah,Bihar,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Arrah,Bihar,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Asansol,West Bengal,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Asansol,West Bengal,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Asansol,West Bengal,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Asansol,West Bengal,2023,April,meta-llama/Llama-3.1-70B-Instruct,63.0
+Asansol,West Bengal,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Asansol,West Bengal,2023,June,meta-llama/Llama-3.1-70B-Instruct,63.0
+Asansol,West Bengal,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Asansol,West Bengal,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Asansol,West Bengal,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Asansol,West Bengal,2023,October,meta-llama/Llama-3.1-70B-Instruct,83.0
+Asansol,West Bengal,2023,November,meta-llama/Llama-3.1-70B-Instruct,114.0
+Asansol,West Bengal,2023,December,meta-llama/Llama-3.1-70B-Instruct,83.0
+Aurangabad,Bihar,2023,January,meta-llama/Llama-3.1-70B-Instruct,157.0
+Aurangabad,Bihar,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Aurangabad,Bihar,2023,March,meta-llama/Llama-3.1-70B-Instruct,121.0
+Aurangabad,Bihar,2023,April,meta-llama/Llama-3.1-70B-Instruct,69.0
+Aurangabad,Bihar,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Aurangabad,Bihar,2023,June,meta-llama/Llama-3.1-70B-Instruct,
+Aurangabad,Bihar,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Aurangabad,Bihar,2023,August,meta-llama/Llama-3.1-70B-Instruct,
+Aurangabad,Bihar,2023,September,meta-llama/Llama-3.1-70B-Instruct,
+Aurangabad,Bihar,2023,October,meta-llama/Llama-3.1-70B-Instruct,
+Aurangabad,Bihar,2023,November,meta-llama/Llama-3.1-70B-Instruct,
+Aurangabad,Bihar,2023,December,meta-llama/Llama-3.1-70B-Instruct,
+Aurangabad,Maharashtra,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Aurangabad,Maharashtra,2023,February,meta-llama/Llama-3.1-70B-Instruct,63.0
+Aurangabad,Maharashtra,2023,March,meta-llama/Llama-3.1-70B-Instruct,69.0
+Aurangabad,Maharashtra,2023,April,meta-llama/Llama-3.1-70B-Instruct,51.0
+Aurangabad,Maharashtra,2023,May,meta-llama/Llama-3.1-70B-Instruct,43.0
+Aurangabad,Maharashtra,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Aurangabad,Maharashtra,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Aurangabad,Maharashtra,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Aurangabad,Maharashtra,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Aurangabad,Maharashtra,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Aurangabad,Maharashtra,2023,November,meta-llama/Llama-3.1-70B-Instruct,114.0
+Aurangabad,Maharashtra,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Baddi,Himachal Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Baddi,Himachal Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,63.0
+Baddi,Himachal Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,43.0
+Baddi,Himachal Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Baddi,Himachal Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Baddi,Himachal Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Baddi,Himachal Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Baddi,Himachal Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Baddi,Himachal Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Baddi,Himachal Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Baddi,Himachal Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Baddi,Himachal Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bagalkot,Karnataka,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bagalkot,Karnataka,2023,February,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bagalkot,Karnataka,2023,March,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bagalkot,Karnataka,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Bagalkot,Karnataka,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Bagalkot,Karnataka,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Bagalkot,Karnataka,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Bagalkot,Karnataka,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Bagalkot,Karnataka,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Bagalkot,Karnataka,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bagalkot,Karnataka,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bagalkot,Karnataka,2023,December,meta-llama/Llama-3.1-70B-Instruct,43.0
+Baghpat,Uttar Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,234.0
+Baghpat,Uttar Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,157.0
+Baghpat,Uttar Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Baghpat,Uttar Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,98.0
+Baghpat,Uttar Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,83.0
+Baghpat,Uttar Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,63.0
+Baghpat,Uttar Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,83.0
+Baghpat,Uttar Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Baghpat,Uttar Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,93.0
+Baghpat,Uttar Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,157.0
+Baghpat,Uttar Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,234.0
+Baghpat,Uttar Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Bahadurgarh,Haryana,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bahadurgarh,Haryana,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bahadurgarh,Haryana,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bahadurgarh,Haryana,2023,April,meta-llama/Llama-3.1-70B-Instruct,98.0
+Bahadurgarh,Haryana,2023,May,meta-llama/Llama-3.1-70B-Instruct,83.0
+Bahadurgarh,Haryana,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Bahadurgarh,Haryana,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Bahadurgarh,Haryana,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Bahadurgarh,Haryana,2023,September,meta-llama/Llama-3.1-70B-Instruct,93.0
+Bahadurgarh,Haryana,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bahadurgarh,Haryana,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Bahadurgarh,Haryana,2023,December,meta-llama/Llama-3.1-70B-Instruct,98.0
+Ballabgarh,Haryana,2023,January,meta-llama/Llama-3.1-70B-Instruct,157.0
+Ballabgarh,Haryana,2023,February,meta-llama/Llama-3.1-70B-Instruct,157.0
+Ballabgarh,Haryana,2023,March,meta-llama/Llama-3.1-70B-Instruct,157.0
+Ballabgarh,Haryana,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Ballabgarh,Haryana,2023,May,meta-llama/Llama-3.1-70B-Instruct,83.0
+Ballabgarh,Haryana,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ballabgarh,Haryana,2023,July,meta-llama/Llama-3.1-70B-Instruct,83.0
+Ballabgarh,Haryana,2023,August,meta-llama/Llama-3.1-70B-Instruct,83.0
+Ballabgarh,Haryana,2023,September,meta-llama/Llama-3.1-70B-Instruct,93.0
+Ballabgarh,Haryana,2023,October,meta-llama/Llama-3.1-70B-Instruct,157.0
+Ballabgarh,Haryana,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Ballabgarh,Haryana,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Bareilly,Uttar Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,157.0
+Bareilly,Uttar Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bareilly,Uttar Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bareilly,Uttar Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,88.0
+Bareilly,Uttar Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bareilly,Uttar Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,51.0
+Bareilly,Uttar Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bareilly,Uttar Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bareilly,Uttar Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,94.0
+Bareilly,Uttar Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bareilly,Uttar Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Bareilly,Uttar Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,114.0
+Baripada,Odisha,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Baripada,Odisha,2023,February,meta-llama/Llama-3.1-70B-Instruct,63.0
+Baripada,Odisha,2023,March,meta-llama/Llama-3.1-70B-Instruct,63.0
+Baripada,Odisha,2023,April,meta-llama/Llama-3.1-70B-Instruct,43.0
+Baripada,Odisha,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Baripada,Odisha,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Baripada,Odisha,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Baripada,Odisha,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Baripada,Odisha,2023,September,meta-llama/Llama-3.1-70B-Instruct,43.0
+Baripada,Odisha,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Baripada,Odisha,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Baripada,Odisha,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bathinda,Punjab,2023,January,meta-llama/Llama-3.1-70B-Instruct,157.0
+Bathinda,Punjab,2023,February,meta-llama/Llama-3.1-70B-Instruct,98.0
+Bathinda,Punjab,2023,March,meta-llama/Llama-3.1-70B-Instruct,98.0
+Bathinda,Punjab,2023,April,meta-llama/Llama-3.1-70B-Instruct,98.0
+Bathinda,Punjab,2023,May,meta-llama/Llama-3.1-70B-Instruct,88.0
+Bathinda,Punjab,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Bathinda,Punjab,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Bathinda,Punjab,2023,August,meta-llama/Llama-3.1-70B-Instruct,94.0
+Bathinda,Punjab,2023,September,meta-llama/Llama-3.1-70B-Instruct,94.0
+Bathinda,Punjab,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bathinda,Punjab,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Bathinda,Punjab,2023,December,meta-llama/Llama-3.1-70B-Instruct,114.0
+Begusarai,Bihar,2023,January,meta-llama/Llama-3.1-70B-Instruct,157.0
+Begusarai,Bihar,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Begusarai,Bihar,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Begusarai,Bihar,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Begusarai,Bihar,2023,May,meta-llama/Llama-3.1-70B-Instruct,83.0
+Begusarai,Bihar,2023,June,meta-llama/Llama-3.1-70B-Instruct,63.0
+Begusarai,Bihar,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Begusarai,Bihar,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Begusarai,Bihar,2023,September,meta-llama/Llama-3.1-70B-Instruct,114.0
+Begusarai,Bihar,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Begusarai,Bihar,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Begusarai,Bihar,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Belgaum,Karnataka,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Belgaum,Karnataka,2023,February,meta-llama/Llama-3.1-70B-Instruct,51.0
+Belgaum,Karnataka,2023,March,meta-llama/Llama-3.1-70B-Instruct,43.0
+Belgaum,Karnataka,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Belgaum,Karnataka,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Belgaum,Karnataka,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Belgaum,Karnataka,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Belgaum,Karnataka,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Belgaum,Karnataka,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Belgaum,Karnataka,2023,October,meta-llama/Llama-3.1-70B-Instruct,43.0
+Belgaum,Karnataka,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Belgaum,Karnataka,2023,December,meta-llama/Llama-3.1-70B-Instruct,43.0
+Bengaluru,Karnataka,2023,January,meta-llama/Llama-3.1-70B-Instruct,51.0
+Bengaluru,Karnataka,2023,February,meta-llama/Llama-3.1-70B-Instruct,51.0
+Bengaluru,Karnataka,2023,March,meta-llama/Llama-3.1-70B-Instruct,51.0
+Bengaluru,Karnataka,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Bengaluru,Karnataka,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Bengaluru,Karnataka,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Bengaluru,Karnataka,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Bengaluru,Karnataka,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Bengaluru,Karnataka,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Bengaluru,Karnataka,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bengaluru,Karnataka,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bengaluru,Karnataka,2023,December,meta-llama/Llama-3.1-70B-Instruct,51.0
+Bettiah,Bihar,2023,January,meta-llama/Llama-3.1-70B-Instruct,157.0
+Bettiah,Bihar,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bettiah,Bihar,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bettiah,Bihar,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bettiah,Bihar,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bettiah,Bihar,2023,June,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bettiah,Bihar,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bettiah,Bihar,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bettiah,Bihar,2023,September,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bettiah,Bihar,2023,October,meta-llama/Llama-3.1-70B-Instruct,
+Bettiah,Bihar,2023,November,meta-llama/Llama-3.1-70B-Instruct,
+Bettiah,Bihar,2023,December,meta-llama/Llama-3.1-70B-Instruct,
+Bhagalpur,Bihar,2023,January,meta-llama/Llama-3.1-70B-Instruct,157.0
+Bhagalpur,Bihar,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bhagalpur,Bihar,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bhagalpur,Bihar,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bhagalpur,Bihar,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bhagalpur,Bihar,2023,June,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bhagalpur,Bihar,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bhagalpur,Bihar,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bhagalpur,Bihar,2023,September,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bhagalpur,Bihar,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bhagalpur,Bihar,2023,November,meta-llama/Llama-3.1-70B-Instruct,173.0
+Bhagalpur,Bihar,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Bhilai,Chhattisgarh,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bhilai,Chhattisgarh,2023,February,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bhilai,Chhattisgarh,2023,March,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bhilai,Chhattisgarh,2023,April,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bhilai,Chhattisgarh,2023,May,meta-llama/Llama-3.1-70B-Instruct,43.0
+Bhilai,Chhattisgarh,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Bhilai,Chhattisgarh,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Bhilai,Chhattisgarh,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Bhilai,Chhattisgarh,2023,September,meta-llama/Llama-3.1-70B-Instruct,43.0
+Bhilai,Chhattisgarh,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bhilai,Chhattisgarh,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bhilai,Chhattisgarh,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bhiwadi,Rajasthan,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bhiwadi,Rajasthan,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bhiwadi,Rajasthan,2023,March,meta-llama/Llama-3.1-70B-Instruct,98.0
+Bhiwadi,Rajasthan,2023,April,meta-llama/Llama-3.1-70B-Instruct,81.0
+Bhiwadi,Rajasthan,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bhiwadi,Rajasthan,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Bhiwadi,Rajasthan,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Bhiwadi,Rajasthan,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Bhiwadi,Rajasthan,2023,September,meta-llama/Llama-3.1-70B-Instruct,94.0
+Bhiwadi,Rajasthan,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bhiwadi,Rajasthan,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Bhiwadi,Rajasthan,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Bhiwani,Haryana,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bhiwani,Haryana,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bhiwani,Haryana,2023,March,meta-llama/Llama-3.1-70B-Instruct,98.0
+Bhiwani,Haryana,2023,April,meta-llama/Llama-3.1-70B-Instruct,98.0
+Bhiwani,Haryana,2023,May,meta-llama/Llama-3.1-70B-Instruct,83.0
+Bhiwani,Haryana,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Bhiwani,Haryana,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Bhiwani,Haryana,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Bhiwani,Haryana,2023,September,meta-llama/Llama-3.1-70B-Instruct,93.0
+Bhiwani,Haryana,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bhiwani,Haryana,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Bhiwani,Haryana,2023,December,meta-llama/Llama-3.1-70B-Instruct,98.0
+Bhopal,Madhya Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bhopal,Madhya Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bhopal,Madhya Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bhopal,Madhya Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,53.0
+Bhopal,Madhya Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,51.0
+Bhopal,Madhya Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Bhopal,Madhya Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Bhopal,Madhya Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Bhopal,Madhya Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bhopal,Madhya Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bhopal,Madhya Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bhopal,Madhya Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bihar Sharif,Bihar,2023,January,meta-llama/Llama-3.1-70B-Instruct,157.0
+Bihar Sharif,Bihar,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bihar Sharif,Bihar,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bihar Sharif,Bihar,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bihar Sharif,Bihar,2023,May,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bihar Sharif,Bihar,2023,June,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bihar Sharif,Bihar,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bihar Sharif,Bihar,2023,August,meta-llama/Llama-3.1-70B-Instruct,94.0
+Bihar Sharif,Bihar,2023,September,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bihar Sharif,Bihar,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bihar Sharif,Bihar,2023,November,meta-llama/Llama-3.1-70B-Instruct,173.0
+Bihar Sharif,Bihar,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Bilaspur,Chhattisgarh,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bilaspur,Chhattisgarh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bilaspur,Chhattisgarh,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bilaspur,Chhattisgarh,2023,April,meta-llama/Llama-3.1-70B-Instruct,53.0
+Bilaspur,Chhattisgarh,2023,May,meta-llama/Llama-3.1-70B-Instruct,43.0
+Bilaspur,Chhattisgarh,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Bilaspur,Chhattisgarh,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Bilaspur,Chhattisgarh,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Bilaspur,Chhattisgarh,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bilaspur,Chhattisgarh,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bilaspur,Chhattisgarh,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bilaspur,Chhattisgarh,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bileipada,Odisha,2023,January,meta-llama/Llama-3.1-70B-Instruct,
+Bileipada,Odisha,2023,February,meta-llama/Llama-3.1-70B-Instruct,
+Bileipada,Odisha,2023,March,meta-llama/Llama-3.1-70B-Instruct,
+Bileipada,Odisha,2023,April,meta-llama/Llama-3.1-70B-Instruct,
+Bileipada,Odisha,2023,May,meta-llama/Llama-3.1-70B-Instruct,
+Bileipada,Odisha,2023,June,meta-llama/Llama-3.1-70B-Instruct,
+Bileipada,Odisha,2023,July,meta-llama/Llama-3.1-70B-Instruct,
+Bileipada,Odisha,2023,August,meta-llama/Llama-3.1-70B-Instruct,
+Bileipada,Odisha,2023,September,meta-llama/Llama-3.1-70B-Instruct,
+Bileipada,Odisha,2023,October,meta-llama/Llama-3.1-70B-Instruct,
+Bileipada,Odisha,2023,November,meta-llama/Llama-3.1-70B-Instruct,
+Bileipada,Odisha,2023,December,meta-llama/Llama-3.1-70B-Instruct,
+Brajrajnagar,Odisha,2023,January,meta-llama/Llama-3.1-70B-Instruct,157.0
+Brajrajnagar,Odisha,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Brajrajnagar,Odisha,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Brajrajnagar,Odisha,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Brajrajnagar,Odisha,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Brajrajnagar,Odisha,2023,June,meta-llama/Llama-3.1-70B-Instruct,63.0
+Brajrajnagar,Odisha,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Brajrajnagar,Odisha,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Brajrajnagar,Odisha,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Brajrajnagar,Odisha,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Brajrajnagar,Odisha,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Brajrajnagar,Odisha,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Bulandshahr,Uttar Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,157.0
+Bulandshahr,Uttar Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bulandshahr,Uttar Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bulandshahr,Uttar Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,102.0
+Bulandshahr,Uttar Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bulandshahr,Uttar Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bulandshahr,Uttar Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bulandshahr,Uttar Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Bulandshahr,Uttar Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,83.0
+Bulandshahr,Uttar Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Bulandshahr,Uttar Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Bulandshahr,Uttar Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Byrnihat,Assam,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Byrnihat,Assam,2023,February,meta-llama/Llama-3.1-70B-Instruct,
+Byrnihat,Assam,2023,March,meta-llama/Llama-3.1-70B-Instruct,
+Byrnihat,Assam,2023,April,meta-llama/Llama-3.1-70B-Instruct,
+Byrnihat,Assam,2023,May,meta-llama/Llama-3.1-70B-Instruct,
+Byrnihat,Assam,2023,June,meta-llama/Llama-3.1-70B-Instruct,
+Byrnihat,Assam,2023,July,meta-llama/Llama-3.1-70B-Instruct,
+Byrnihat,Assam,2023,August,meta-llama/Llama-3.1-70B-Instruct,
+Byrnihat,Assam,2023,September,meta-llama/Llama-3.1-70B-Instruct,
+Byrnihat,Assam,2023,October,meta-llama/Llama-3.1-70B-Instruct,
+Byrnihat,Assam,2023,November,meta-llama/Llama-3.1-70B-Instruct,
+Byrnihat,Assam,2023,December,meta-llama/Llama-3.1-70B-Instruct,
+Chamarajanagar,Karnataka,2023,January,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chamarajanagar,Karnataka,2023,February,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chamarajanagar,Karnataka,2023,March,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chamarajanagar,Karnataka,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chamarajanagar,Karnataka,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chamarajanagar,Karnataka,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chamarajanagar,Karnataka,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chamarajanagar,Karnataka,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chamarajanagar,Karnataka,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chamarajanagar,Karnataka,2023,October,meta-llama/Llama-3.1-70B-Instruct,
+Chamarajanagar,Karnataka,2023,November,meta-llama/Llama-3.1-70B-Instruct,
+Chamarajanagar,Karnataka,2023,December,meta-llama/Llama-3.1-70B-Instruct,43.0
+Chandigarh,Chandigarh,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Chandigarh,Chandigarh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Chandigarh,Chandigarh,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Chandigarh,Chandigarh,2023,April,meta-llama/Llama-3.1-70B-Instruct,69.0
+Chandigarh,Chandigarh,2023,May,meta-llama/Llama-3.1-70B-Instruct,43.0
+Chandigarh,Chandigarh,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Chandigarh,Chandigarh,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Chandigarh,Chandigarh,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Chandigarh,Chandigarh,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Chandigarh,Chandigarh,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Chandigarh,Chandigarh,2023,November,meta-llama/Llama-3.1-70B-Instruct,114.0
+Chandigarh,Chandigarh,2023,December,meta-llama/Llama-3.1-70B-Instruct,114.0
+Chandrapur,Maharashtra,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Chandrapur,Maharashtra,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Chandrapur,Maharashtra,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Chandrapur,Maharashtra,2023,April,meta-llama/Llama-3.1-70B-Instruct,63.0
+Chandrapur,Maharashtra,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Chandrapur,Maharashtra,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chandrapur,Maharashtra,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Chandrapur,Maharashtra,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Chandrapur,Maharashtra,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Chandrapur,Maharashtra,2023,October,meta-llama/Llama-3.1-70B-Instruct,94.0
+Chandrapur,Maharashtra,2023,November,meta-llama/Llama-3.1-70B-Instruct,114.0
+Chandrapur,Maharashtra,2023,December,meta-llama/Llama-3.1-70B-Instruct,94.0
+Charkhi Dadri,Haryana,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Charkhi Dadri,Haryana,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Charkhi Dadri,Haryana,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Charkhi Dadri,Haryana,2023,April,meta-llama/Llama-3.1-70B-Instruct,98.0
+Charkhi Dadri,Haryana,2023,May,meta-llama/Llama-3.1-70B-Instruct,83.0
+Charkhi Dadri,Haryana,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Charkhi Dadri,Haryana,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Charkhi Dadri,Haryana,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Charkhi Dadri,Haryana,2023,September,meta-llama/Llama-3.1-70B-Instruct,93.0
+Charkhi Dadri,Haryana,2023,October,meta-llama/Llama-3.1-70B-Instruct,157.0
+Charkhi Dadri,Haryana,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Charkhi Dadri,Haryana,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Chennai,Tamil Nadu,2023,January,meta-llama/Llama-3.1-70B-Instruct,43.0
+Chennai,Tamil Nadu,2023,February,meta-llama/Llama-3.1-70B-Instruct,51.0
+Chennai,Tamil Nadu,2023,March,meta-llama/Llama-3.1-70B-Instruct,51.0
+Chennai,Tamil Nadu,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chennai,Tamil Nadu,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chennai,Tamil Nadu,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chennai,Tamil Nadu,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chennai,Tamil Nadu,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chennai,Tamil Nadu,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chennai,Tamil Nadu,2023,October,meta-llama/Llama-3.1-70B-Instruct,43.0
+Chennai,Tamil Nadu,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Chennai,Tamil Nadu,2023,December,meta-llama/Llama-3.1-70B-Instruct,43.0
+Chhal,Chhattisgarh,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Chhal,Chhattisgarh,2023,February,meta-llama/Llama-3.1-70B-Instruct,63.0
+Chhal,Chhattisgarh,2023,March,meta-llama/Llama-3.1-70B-Instruct,63.0
+Chhal,Chhattisgarh,2023,April,meta-llama/Llama-3.1-70B-Instruct,43.0
+Chhal,Chhattisgarh,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chhal,Chhattisgarh,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chhal,Chhattisgarh,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chhal,Chhattisgarh,2023,August,meta-llama/Llama-3.1-70B-Instruct,2.0
+Chhal,Chhattisgarh,2023,September,meta-llama/Llama-3.1-70B-Instruct,2.0
+Chhal,Chhattisgarh,2023,October,meta-llama/Llama-3.1-70B-Instruct,2.0
+Chhal,Chhattisgarh,2023,November,meta-llama/Llama-3.1-70B-Instruct,
+Chhal,Chhattisgarh,2023,December,meta-llama/Llama-3.1-70B-Instruct,
+Chhapra,Bihar,2023,January,meta-llama/Llama-3.1-70B-Instruct,157.0
+Chhapra,Bihar,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Chhapra,Bihar,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Chhapra,Bihar,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Chhapra,Bihar,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Chhapra,Bihar,2023,June,meta-llama/Llama-3.1-70B-Instruct,63.0
+Chhapra,Bihar,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Chhapra,Bihar,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Chhapra,Bihar,2023,September,meta-llama/Llama-3.1-70B-Instruct,114.0
+Chhapra,Bihar,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Chhapra,Bihar,2023,November,meta-llama/Llama-3.1-70B-Instruct,178.0
+Chhapra,Bihar,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Chikkaballapur,Karnataka,2023,January,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chikkaballapur,Karnataka,2023,February,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chikkaballapur,Karnataka,2023,March,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chikkaballapur,Karnataka,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chikkaballapur,Karnataka,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chikkaballapur,Karnataka,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chikkaballapur,Karnataka,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chikkaballapur,Karnataka,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chikkaballapur,Karnataka,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chikkaballapur,Karnataka,2023,October,meta-llama/Llama-3.1-70B-Instruct,43.0
+Chikkaballapur,Karnataka,2023,November,meta-llama/Llama-3.1-70B-Instruct,43.0
+Chikkaballapur,Karnataka,2023,December,meta-llama/Llama-3.1-70B-Instruct,43.0
+Chikkamagaluru,Karnataka,2023,January,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chikkamagaluru,Karnataka,2023,February,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chikkamagaluru,Karnataka,2023,March,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chikkamagaluru,Karnataka,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chikkamagaluru,Karnataka,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chikkamagaluru,Karnataka,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chikkamagaluru,Karnataka,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chikkamagaluru,Karnataka,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chikkamagaluru,Karnataka,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chikkamagaluru,Karnataka,2023,October,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chikkamagaluru,Karnataka,2023,November,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chikkamagaluru,Karnataka,2023,December,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chittoor,Andhra Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,43.0
+Chittoor,Andhra Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,43.0
+Chittoor,Andhra Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,43.0
+Chittoor,Andhra Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chittoor,Andhra Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chittoor,Andhra Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chittoor,Andhra Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chittoor,Andhra Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chittoor,Andhra Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Chittoor,Andhra Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,43.0
+Chittoor,Andhra Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,43.0
+Chittoor,Andhra Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,43.0
+Damoh,Madhya Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Damoh,Madhya Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Damoh,Madhya Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Damoh,Madhya Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,69.0
+Damoh,Madhya Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Damoh,Madhya Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Damoh,Madhya Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Damoh,Madhya Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Damoh,Madhya Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Damoh,Madhya Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,83.0
+Damoh,Madhya Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,114.0
+Damoh,Madhya Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,83.0
+Davanagere,Karnataka,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Davanagere,Karnataka,2023,February,meta-llama/Llama-3.1-70B-Instruct,43.0
+Davanagere,Karnataka,2023,March,meta-llama/Llama-3.1-70B-Instruct,43.0
+Davanagere,Karnataka,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Davanagere,Karnataka,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Davanagere,Karnataka,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Davanagere,Karnataka,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Davanagere,Karnataka,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Davanagere,Karnataka,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Davanagere,Karnataka,2023,October,meta-llama/Llama-3.1-70B-Instruct,43.0
+Davanagere,Karnataka,2023,November,meta-llama/Llama-3.1-70B-Instruct,43.0
+Davanagere,Karnataka,2023,December,meta-llama/Llama-3.1-70B-Instruct,43.0
+Dehradun,Uttarakhand,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Dehradun,Uttarakhand,2023,February,meta-llama/Llama-3.1-70B-Instruct,63.0
+Dehradun,Uttarakhand,2023,March,meta-llama/Llama-3.1-70B-Instruct,69.0
+Dehradun,Uttarakhand,2023,April,meta-llama/Llama-3.1-70B-Instruct,51.0
+Dehradun,Uttarakhand,2023,May,meta-llama/Llama-3.1-70B-Instruct,51.0
+Dehradun,Uttarakhand,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Dehradun,Uttarakhand,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Dehradun,Uttarakhand,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Dehradun,Uttarakhand,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Dehradun,Uttarakhand,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Dehradun,Uttarakhand,2023,November,meta-llama/Llama-3.1-70B-Instruct,114.0
+Dehradun,Uttarakhand,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Delhi,Delhi,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Delhi,Delhi,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Delhi,Delhi,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Delhi,Delhi,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Delhi,Delhi,2023,May,meta-llama/Llama-3.1-70B-Instruct,51.0
+Delhi,Delhi,2023,June,meta-llama/Llama-3.1-70B-Instruct,51.0
+Delhi,Delhi,2023,July,meta-llama/Llama-3.1-70B-Instruct,51.0
+Delhi,Delhi,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Delhi,Delhi,2023,September,meta-llama/Llama-3.1-70B-Instruct,114.0
+Delhi,Delhi,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Delhi,Delhi,2023,November,meta-llama/Llama-3.1-70B-Instruct,299.0
+Delhi,Delhi,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Dewas,Madhya Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Dewas,Madhya Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Dewas,Madhya Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,98.0
+Dewas,Madhya Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,53.0
+Dewas,Madhya Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,43.0
+Dewas,Madhya Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Dewas,Madhya Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Dewas,Madhya Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Dewas,Madhya Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Dewas,Madhya Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,
+Dewas,Madhya Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,114.0
+Dewas,Madhya Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Dharuhera,Haryana,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Dharuhera,Haryana,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Dharuhera,Haryana,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Dharuhera,Haryana,2023,April,meta-llama/Llama-3.1-70B-Instruct,88.0
+Dharuhera,Haryana,2023,May,meta-llama/Llama-3.1-70B-Instruct,88.0
+Dharuhera,Haryana,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Dharuhera,Haryana,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Dharuhera,Haryana,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Dharuhera,Haryana,2023,September,meta-llama/Llama-3.1-70B-Instruct,93.0
+Dharuhera,Haryana,2023,October,meta-llama/Llama-3.1-70B-Instruct,98.0
+Dharuhera,Haryana,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Dharuhera,Haryana,2023,December,meta-llama/Llama-3.1-70B-Instruct,98.0
+Dharwad,Karnataka,2023,January,meta-llama/Llama-3.1-70B-Instruct,43.0
+Dharwad,Karnataka,2023,February,meta-llama/Llama-3.1-70B-Instruct,43.0
+Dharwad,Karnataka,2023,March,meta-llama/Llama-3.1-70B-Instruct,43.0
+Dharwad,Karnataka,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Dharwad,Karnataka,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Dharwad,Karnataka,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Dharwad,Karnataka,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Dharwad,Karnataka,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Dharwad,Karnataka,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Dharwad,Karnataka,2023,October,meta-llama/Llama-3.1-70B-Instruct,43.0
+Dharwad,Karnataka,2023,November,meta-llama/Llama-3.1-70B-Instruct,43.0
+Dharwad,Karnataka,2023,December,meta-llama/Llama-3.1-70B-Instruct,43.0
+Durgapur,West Bengal,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Durgapur,West Bengal,2023,February,meta-llama/Llama-3.1-70B-Instruct,63.0
+Durgapur,West Bengal,2023,March,meta-llama/Llama-3.1-70B-Instruct,63.0
+Durgapur,West Bengal,2023,April,meta-llama/Llama-3.1-70B-Instruct,63.0
+Durgapur,West Bengal,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Durgapur,West Bengal,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Durgapur,West Bengal,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Durgapur,West Bengal,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Durgapur,West Bengal,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Durgapur,West Bengal,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Durgapur,West Bengal,2023,November,meta-llama/Llama-3.1-70B-Instruct,83.0
+Durgapur,West Bengal,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Eloor,Kerala,2023,January,meta-llama/Llama-3.1-70B-Instruct,23.0
+Eloor,Kerala,2023,February,meta-llama/Llama-3.1-70B-Instruct,23.0
+Eloor,Kerala,2023,March,meta-llama/Llama-3.1-70B-Instruct,23.0
+Eloor,Kerala,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Eloor,Kerala,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Eloor,Kerala,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Eloor,Kerala,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Eloor,Kerala,2023,August,meta-llama/Llama-3.1-70B-Instruct,
+Eloor,Kerala,2023,September,meta-llama/Llama-3.1-70B-Instruct,
+Eloor,Kerala,2023,October,meta-llama/Llama-3.1-70B-Instruct,
+Eloor,Kerala,2023,November,meta-llama/Llama-3.1-70B-Instruct,
+Eloor,Kerala,2023,December,meta-llama/Llama-3.1-70B-Instruct,
+Faridabad,Haryana,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Faridabad,Haryana,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Faridabad,Haryana,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Faridabad,Haryana,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Faridabad,Haryana,2023,May,meta-llama/Llama-3.1-70B-Instruct,83.0
+Faridabad,Haryana,2023,June,meta-llama/Llama-3.1-70B-Instruct,51.0
+Faridabad,Haryana,2023,July,meta-llama/Llama-3.1-70B-Instruct,83.0
+Faridabad,Haryana,2023,August,meta-llama/Llama-3.1-70B-Instruct,83.0
+Faridabad,Haryana,2023,September,meta-llama/Llama-3.1-70B-Instruct,93.0
+Faridabad,Haryana,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Faridabad,Haryana,2023,November,meta-llama/Llama-3.1-70B-Instruct,234.0
+Faridabad,Haryana,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Fatehabad,Haryana,2023,January,meta-llama/Llama-3.1-70B-Instruct,157.0
+Fatehabad,Haryana,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Fatehabad,Haryana,2023,March,meta-llama/Llama-3.1-70B-Instruct,98.0
+Fatehabad,Haryana,2023,April,meta-llama/Llama-3.1-70B-Instruct,98.0
+Fatehabad,Haryana,2023,May,meta-llama/Llama-3.1-70B-Instruct,88.0
+Fatehabad,Haryana,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Fatehabad,Haryana,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Fatehabad,Haryana,2023,August,meta-llama/Llama-3.1-70B-Instruct,
+Fatehabad,Haryana,2023,September,meta-llama/Llama-3.1-70B-Instruct,94.0
+Fatehabad,Haryana,2023,October,meta-llama/Llama-3.1-70B-Instruct,
+Fatehabad,Haryana,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Fatehabad,Haryana,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Firozabad,Uttar Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,234.0
+Firozabad,Uttar Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Firozabad,Uttar Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Firozabad,Uttar Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Firozabad,Uttar Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,114.0
+Firozabad,Uttar Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,83.0
+Firozabad,Uttar Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,83.0
+Firozabad,Uttar Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,83.0
+Firozabad,Uttar Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,114.0
+Firozabad,Uttar Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Firozabad,Uttar Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,234.0
+Firozabad,Uttar Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Gadag,Karnataka,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Gadag,Karnataka,2023,February,meta-llama/Llama-3.1-70B-Instruct,23.0
+Gadag,Karnataka,2023,March,meta-llama/Llama-3.1-70B-Instruct,23.0
+Gadag,Karnataka,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Gadag,Karnataka,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Gadag,Karnataka,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Gadag,Karnataka,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Gadag,Karnataka,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Gadag,Karnataka,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Gadag,Karnataka,2023,October,meta-llama/Llama-3.1-70B-Instruct,
+Gadag,Karnataka,2023,November,meta-llama/Llama-3.1-70B-Instruct,
+Gadag,Karnataka,2023,December,meta-llama/Llama-3.1-70B-Instruct,43.0
+Gandhinagar,Gujarat,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Gandhinagar,Gujarat,2023,February,meta-llama/Llama-3.1-70B-Instruct,51.0
+Gandhinagar,Gujarat,2023,March,meta-llama/Llama-3.1-70B-Instruct,43.0
+Gandhinagar,Gujarat,2023,April,meta-llama/Llama-3.1-70B-Instruct,43.0
+Gandhinagar,Gujarat,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Gandhinagar,Gujarat,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Gandhinagar,Gujarat,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Gandhinagar,Gujarat,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Gandhinagar,Gujarat,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Gandhinagar,Gujarat,2023,October,meta-llama/Llama-3.1-70B-Instruct,43.0
+Gandhinagar,Gujarat,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Gandhinagar,Gujarat,2023,December,meta-llama/Llama-3.1-70B-Instruct,43.0
+Gangtok,Sikkim,2023,January,meta-llama/Llama-3.1-70B-Instruct,43.0
+Gangtok,Sikkim,2023,February,meta-llama/Llama-3.1-70B-Instruct,23.0
+Gangtok,Sikkim,2023,March,meta-llama/Llama-3.1-70B-Instruct,23.0
+Gangtok,Sikkim,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Gangtok,Sikkim,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Gangtok,Sikkim,2023,June,meta-llama/Llama-3.1-70B-Instruct,15.0
+Gangtok,Sikkim,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Gangtok,Sikkim,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Gangtok,Sikkim,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Gangtok,Sikkim,2023,October,meta-llama/Llama-3.1-70B-Instruct,23.0
+Gangtok,Sikkim,2023,November,meta-llama/Llama-3.1-70B-Instruct,43.0
+Gangtok,Sikkim,2023,December,meta-llama/Llama-3.1-70B-Instruct,25.0
+Gaya,Bihar,2023,January,meta-llama/Llama-3.1-70B-Instruct,157.0
+Gaya,Bihar,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Gaya,Bihar,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Gaya,Bihar,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Gaya,Bihar,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Gaya,Bihar,2023,June,meta-llama/Llama-3.1-70B-Instruct,63.0
+Gaya,Bihar,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Gaya,Bihar,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Gaya,Bihar,2023,September,meta-llama/Llama-3.1-70B-Instruct,114.0
+Gaya,Bihar,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Gaya,Bihar,2023,November,meta-llama/Llama-3.1-70B-Instruct,173.0
+Gaya,Bihar,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Ghaziabad,Uttar Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Ghaziabad,Uttar Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Ghaziabad,Uttar Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Ghaziabad,Uttar Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Ghaziabad,Uttar Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,114.0
+Ghaziabad,Uttar Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,73.0
+Ghaziabad,Uttar Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Ghaziabad,Uttar Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Ghaziabad,Uttar Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,114.0
+Ghaziabad,Uttar Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Ghaziabad,Uttar Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,234.0
+Ghaziabad,Uttar Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Gorakhpur,Uttar Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Gorakhpur,Uttar Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Gorakhpur,Uttar Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Gorakhpur,Uttar Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Gorakhpur,Uttar Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,114.0
+Gorakhpur,Uttar Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,63.0
+Gorakhpur,Uttar Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Gorakhpur,Uttar Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Gorakhpur,Uttar Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,114.0
+Gorakhpur,Uttar Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Gorakhpur,Uttar Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Gorakhpur,Uttar Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,114.0
+Greater Noida,Uttar Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Greater Noida,Uttar Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Greater Noida,Uttar Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Greater Noida,Uttar Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,88.0
+Greater Noida,Uttar Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Greater Noida,Uttar Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,51.0
+Greater Noida,Uttar Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,51.0
+Greater Noida,Uttar Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Greater Noida,Uttar Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Greater Noida,Uttar Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Greater Noida,Uttar Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Greater Noida,Uttar Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Gummidipoondi,Tamil Nadu,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Gummidipoondi,Tamil Nadu,2023,February,meta-llama/Llama-3.1-70B-Instruct,43.0
+Gummidipoondi,Tamil Nadu,2023,March,meta-llama/Llama-3.1-70B-Instruct,43.0
+Gummidipoondi,Tamil Nadu,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Gummidipoondi,Tamil Nadu,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Gummidipoondi,Tamil Nadu,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Gummidipoondi,Tamil Nadu,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Gummidipoondi,Tamil Nadu,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Gummidipoondi,Tamil Nadu,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Gummidipoondi,Tamil Nadu,2023,October,meta-llama/Llama-3.1-70B-Instruct,43.0
+Gummidipoondi,Tamil Nadu,2023,November,meta-llama/Llama-3.1-70B-Instruct,43.0
+Gummidipoondi,Tamil Nadu,2023,December,meta-llama/Llama-3.1-70B-Instruct,43.0
+Gurugram,Haryana,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Gurugram,Haryana,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Gurugram,Haryana,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Gurugram,Haryana,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Gurugram,Haryana,2023,May,meta-llama/Llama-3.1-70B-Instruct,114.0
+Gurugram,Haryana,2023,June,meta-llama/Llama-3.1-70B-Instruct,51.0
+Gurugram,Haryana,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Gurugram,Haryana,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Gurugram,Haryana,2023,September,meta-llama/Llama-3.1-70B-Instruct,114.0
+Gurugram,Haryana,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Gurugram,Haryana,2023,November,meta-llama/Llama-3.1-70B-Instruct,434.0
+Gurugram,Haryana,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Guwahati,Assam,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Guwahati,Assam,2023,February,meta-llama/Llama-3.1-70B-Instruct,63.0
+Guwahati,Assam,2023,March,meta-llama/Llama-3.1-70B-Instruct,69.0
+Guwahati,Assam,2023,April,meta-llama/Llama-3.1-70B-Instruct,53.0
+Guwahati,Assam,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Guwahati,Assam,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Guwahati,Assam,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Guwahati,Assam,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Guwahati,Assam,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Guwahati,Assam,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Guwahati,Assam,2023,November,meta-llama/Llama-3.1-70B-Instruct,114.0
+Guwahati,Assam,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Gwalior,Madhya Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Gwalior,Madhya Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Gwalior,Madhya Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Gwalior,Madhya Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,83.0
+Gwalior,Madhya Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,51.0
+Gwalior,Madhya Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Gwalior,Madhya Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Gwalior,Madhya Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Gwalior,Madhya Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Gwalior,Madhya Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Gwalior,Madhya Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,114.0
+Gwalior,Madhya Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,114.0
+Hajipur,Bihar,2023,January,meta-llama/Llama-3.1-70B-Instruct,157.0
+Hajipur,Bihar,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Hajipur,Bihar,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Hajipur,Bihar,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Hajipur,Bihar,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Hajipur,Bihar,2023,June,meta-llama/Llama-3.1-70B-Instruct,63.0
+Hajipur,Bihar,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Hajipur,Bihar,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Hajipur,Bihar,2023,September,meta-llama/Llama-3.1-70B-Instruct,114.0
+Hajipur,Bihar,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Hajipur,Bihar,2023,November,meta-llama/Llama-3.1-70B-Instruct,194.0
+Hajipur,Bihar,2023,December,meta-llama/Llama-3.1-70B-Instruct,114.0
+Haldia,West Bengal,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Haldia,West Bengal,2023,February,meta-llama/Llama-3.1-70B-Instruct,63.0
+Haldia,West Bengal,2023,March,meta-llama/Llama-3.1-70B-Instruct,63.0
+Haldia,West Bengal,2023,April,meta-llama/Llama-3.1-70B-Instruct,43.0
+Haldia,West Bengal,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Haldia,West Bengal,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Haldia,West Bengal,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Haldia,West Bengal,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Haldia,West Bengal,2023,September,meta-llama/Llama-3.1-70B-Instruct,43.0
+Haldia,West Bengal,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Haldia,West Bengal,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Haldia,West Bengal,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Hapur,Uttar Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,157.0
+Hapur,Uttar Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Hapur,Uttar Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,98.0
+Hapur,Uttar Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,98.0
+Hapur,Uttar Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,88.0
+Hapur,Uttar Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,63.0
+Hapur,Uttar Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Hapur,Uttar Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Hapur,Uttar Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,94.0
+Hapur,Uttar Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Hapur,Uttar Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Hapur,Uttar Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Hassan,Karnataka,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Hassan,Karnataka,2023,February,meta-llama/Llama-3.1-70B-Instruct,51.0
+Hassan,Karnataka,2023,March,meta-llama/Llama-3.1-70B-Instruct,51.0
+Hassan,Karnataka,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Hassan,Karnataka,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Hassan,Karnataka,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Hassan,Karnataka,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Hassan,Karnataka,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Hassan,Karnataka,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Hassan,Karnataka,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Hassan,Karnataka,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Hassan,Karnataka,2023,December,meta-llama/Llama-3.1-70B-Instruct,43.0
+Haveri,Karnataka,2023,January,meta-llama/Llama-3.1-70B-Instruct,43.0
+Haveri,Karnataka,2023,February,meta-llama/Llama-3.1-70B-Instruct,23.0
+Haveri,Karnataka,2023,March,meta-llama/Llama-3.1-70B-Instruct,23.0
+Haveri,Karnataka,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Haveri,Karnataka,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Haveri,Karnataka,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Haveri,Karnataka,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Haveri,Karnataka,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Haveri,Karnataka,2023,September,meta-llama/Llama-3.1-70B-Instruct,2.0
+Haveri,Karnataka,2023,October,meta-llama/Llama-3.1-70B-Instruct,2.0
+Haveri,Karnataka,2023,November,meta-llama/Llama-3.1-70B-Instruct,2.0
+Haveri,Karnataka,2023,December,meta-llama/Llama-3.1-70B-Instruct,43.0
+Hisar,Haryana,2023,January,meta-llama/Llama-3.1-70B-Instruct,157.0
+Hisar,Haryana,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Hisar,Haryana,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Hisar,Haryana,2023,April,meta-llama/Llama-3.1-70B-Instruct,98.0
+Hisar,Haryana,2023,May,meta-llama/Llama-3.1-70B-Instruct,83.0
+Hisar,Haryana,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Hisar,Haryana,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Hisar,Haryana,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Hisar,Haryana,2023,September,meta-llama/Llama-3.1-70B-Instruct,83.0
+Hisar,Haryana,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Hisar,Haryana,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Hisar,Haryana,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Hosur,Tamil Nadu,2023,January,meta-llama/Llama-3.1-70B-Instruct,23.0
+Hosur,Tamil Nadu,2023,February,meta-llama/Llama-3.1-70B-Instruct,23.0
+Hosur,Tamil Nadu,2023,March,meta-llama/Llama-3.1-70B-Instruct,23.0
+Hosur,Tamil Nadu,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Hosur,Tamil Nadu,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Hosur,Tamil Nadu,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Hosur,Tamil Nadu,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Hosur,Tamil Nadu,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Hosur,Tamil Nadu,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Hosur,Tamil Nadu,2023,October,meta-llama/Llama-3.1-70B-Instruct,23.0
+Hosur,Tamil Nadu,2023,November,meta-llama/Llama-3.1-70B-Instruct,43.0
+Hosur,Tamil Nadu,2023,December,meta-llama/Llama-3.1-70B-Instruct,23.0
+Howrah,West Bengal,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Howrah,West Bengal,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Howrah,West Bengal,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Howrah,West Bengal,2023,April,meta-llama/Llama-3.1-70B-Instruct,63.0
+Howrah,West Bengal,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Howrah,West Bengal,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Howrah,West Bengal,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Howrah,West Bengal,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Howrah,West Bengal,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Howrah,West Bengal,2023,October,meta-llama/Llama-3.1-70B-Instruct,83.0
+Howrah,West Bengal,2023,November,meta-llama/Llama-3.1-70B-Instruct,114.0
+Howrah,West Bengal,2023,December,meta-llama/Llama-3.1-70B-Instruct,83.0
+Hubballi,Karnataka,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Hubballi,Karnataka,2023,February,meta-llama/Llama-3.1-70B-Instruct,43.0
+Hubballi,Karnataka,2023,March,meta-llama/Llama-3.1-70B-Instruct,53.0
+Hubballi,Karnataka,2023,April,meta-llama/Llama-3.1-70B-Instruct,43.0
+Hubballi,Karnataka,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Hubballi,Karnataka,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Hubballi,Karnataka,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Hubballi,Karnataka,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Hubballi,Karnataka,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Hubballi,Karnataka,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Hubballi,Karnataka,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Hubballi,Karnataka,2023,December,meta-llama/Llama-3.1-70B-Instruct,43.0
+Hyderabad,Telangana,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Hyderabad,Telangana,2023,February,meta-llama/Llama-3.1-70B-Instruct,51.0
+Hyderabad,Telangana,2023,March,meta-llama/Llama-3.1-70B-Instruct,51.0
+Hyderabad,Telangana,2023,April,meta-llama/Llama-3.1-70B-Instruct,43.0
+Hyderabad,Telangana,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Hyderabad,Telangana,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Hyderabad,Telangana,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Hyderabad,Telangana,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Hyderabad,Telangana,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Hyderabad,Telangana,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Hyderabad,Telangana,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Hyderabad,Telangana,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Indore,Madhya Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Indore,Madhya Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Indore,Madhya Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Indore,Madhya Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,53.0
+Indore,Madhya Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,43.0
+Indore,Madhya Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Indore,Madhya Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Indore,Madhya Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Indore,Madhya Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Indore,Madhya Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Indore,Madhya Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,114.0
+Indore,Madhya Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,98.0
+Jabalpur,Madhya Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Jabalpur,Madhya Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Jabalpur,Madhya Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Jabalpur,Madhya Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,53.0
+Jabalpur,Madhya Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,43.0
+Jabalpur,Madhya Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Jabalpur,Madhya Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Jabalpur,Madhya Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Jabalpur,Madhya Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Jabalpur,Madhya Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Jabalpur,Madhya Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,114.0
+Jabalpur,Madhya Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,83.0
+Jaipur,Rajasthan,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Jaipur,Rajasthan,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Jaipur,Rajasthan,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Jaipur,Rajasthan,2023,April,meta-llama/Llama-3.1-70B-Instruct,98.0
+Jaipur,Rajasthan,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Jaipur,Rajasthan,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Jaipur,Rajasthan,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Jaipur,Rajasthan,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Jaipur,Rajasthan,2023,September,meta-llama/Llama-3.1-70B-Instruct,94.0
+Jaipur,Rajasthan,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Jaipur,Rajasthan,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Jaipur,Rajasthan,2023,December,meta-llama/Llama-3.1-70B-Instruct,114.0
+Jalandhar,Punjab,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Jalandhar,Punjab,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Jalandhar,Punjab,2023,March,meta-llama/Llama-3.1-70B-Instruct,98.0
+Jalandhar,Punjab,2023,April,meta-llama/Llama-3.1-70B-Instruct,83.0
+Jalandhar,Punjab,2023,May,meta-llama/Llama-3.1-70B-Instruct,83.0
+Jalandhar,Punjab,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Jalandhar,Punjab,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Jalandhar,Punjab,2023,August,meta-llama/Llama-3.1-70B-Instruct,83.0
+Jalandhar,Punjab,2023,September,meta-llama/Llama-3.1-70B-Instruct,94.0
+Jalandhar,Punjab,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Jalandhar,Punjab,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Jalandhar,Punjab,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Jhansi,Uttar Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Jhansi,Uttar Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Jhansi,Uttar Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Jhansi,Uttar Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,83.0
+Jhansi,Uttar Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Jhansi,Uttar Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,63.0
+Jhansi,Uttar Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Jhansi,Uttar Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Jhansi,Uttar Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Jhansi,Uttar Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Jhansi,Uttar Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,114.0
+Jhansi,Uttar Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,114.0
+Jind,Haryana,2023,January,meta-llama/Llama-3.1-70B-Instruct,157.0
+Jind,Haryana,2023,February,meta-llama/Llama-3.1-70B-Instruct,157.0
+Jind,Haryana,2023,March,meta-llama/Llama-3.1-70B-Instruct,98.0
+Jind,Haryana,2023,April,meta-llama/Llama-3.1-70B-Instruct,98.0
+Jind,Haryana,2023,May,meta-llama/Llama-3.1-70B-Instruct,83.0
+Jind,Haryana,2023,June,meta-llama/Llama-3.1-70B-Instruct,51.0
+Jind,Haryana,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Jind,Haryana,2023,August,meta-llama/Llama-3.1-70B-Instruct,94.0
+Jind,Haryana,2023,September,meta-llama/Llama-3.1-70B-Instruct,
+Jind,Haryana,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Jind,Haryana,2023,November,meta-llama/Llama-3.1-70B-Instruct,247.0
+Jind,Haryana,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Jodhpur,Rajasthan,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Jodhpur,Rajasthan,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Jodhpur,Rajasthan,2023,March,meta-llama/Llama-3.1-70B-Instruct,98.0
+Jodhpur,Rajasthan,2023,April,meta-llama/Llama-3.1-70B-Instruct,83.0
+Jodhpur,Rajasthan,2023,May,meta-llama/Llama-3.1-70B-Instruct,43.0
+Jodhpur,Rajasthan,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Jodhpur,Rajasthan,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Jodhpur,Rajasthan,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Jodhpur,Rajasthan,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Jodhpur,Rajasthan,2023,October,meta-llama/Llama-3.1-70B-Instruct,83.0
+Jodhpur,Rajasthan,2023,November,meta-llama/Llama-3.1-70B-Instruct,114.0
+Jodhpur,Rajasthan,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Kadapa,Andhra Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Kadapa,Andhra Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,43.0
+Kadapa,Andhra Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,43.0
+Kadapa,Andhra Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,43.0
+Kadapa,Andhra Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kadapa,Andhra Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kadapa,Andhra Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kadapa,Andhra Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kadapa,Andhra Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,43.0
+Kadapa,Andhra Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,43.0
+Kadapa,Andhra Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Kadapa,Andhra Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,43.0
+Kaithal,Haryana,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Kaithal,Haryana,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Kaithal,Haryana,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Kaithal,Haryana,2023,April,meta-llama/Llama-3.1-70B-Instruct,98.0
+Kaithal,Haryana,2023,May,meta-llama/Llama-3.1-70B-Instruct,83.0
+Kaithal,Haryana,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Kaithal,Haryana,2023,July,meta-llama/Llama-3.1-70B-Instruct,83.0
+Kaithal,Haryana,2023,August,meta-llama/Llama-3.1-70B-Instruct,83.0
+Kaithal,Haryana,2023,September,meta-llama/Llama-3.1-70B-Instruct,83.0
+Kaithal,Haryana,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Kaithal,Haryana,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Kaithal,Haryana,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Kalaburagi,Karnataka,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Kalaburagi,Karnataka,2023,February,meta-llama/Llama-3.1-70B-Instruct,63.0
+Kalaburagi,Karnataka,2023,March,meta-llama/Llama-3.1-70B-Instruct,53.0
+Kalaburagi,Karnataka,2023,April,meta-llama/Llama-3.1-70B-Instruct,53.0
+Kalaburagi,Karnataka,2023,May,meta-llama/Llama-3.1-70B-Instruct,43.0
+Kalaburagi,Karnataka,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Kalaburagi,Karnataka,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Kalaburagi,Karnataka,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Kalaburagi,Karnataka,2023,September,meta-llama/Llama-3.1-70B-Instruct,43.0
+Kalaburagi,Karnataka,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Kalaburagi,Karnataka,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Kalaburagi,Karnataka,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Kalyan,Maharashtra,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Kalyan,Maharashtra,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Kalyan,Maharashtra,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Kalyan,Maharashtra,2023,April,meta-llama/Llama-3.1-70B-Instruct,63.0
+Kalyan,Maharashtra,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Kalyan,Maharashtra,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kalyan,Maharashtra,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kalyan,Maharashtra,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kalyan,Maharashtra,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Kalyan,Maharashtra,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Kalyan,Maharashtra,2023,November,meta-llama/Llama-3.1-70B-Instruct,114.0
+Kalyan,Maharashtra,2023,December,meta-llama/Llama-3.1-70B-Instruct,94.0
+Kanchipuram,Tamil Nadu,2023,January,meta-llama/Llama-3.1-70B-Instruct,43.0
+Kanchipuram,Tamil Nadu,2023,February,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kanchipuram,Tamil Nadu,2023,March,meta-llama/Llama-3.1-70B-Instruct,43.0
+Kanchipuram,Tamil Nadu,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kanchipuram,Tamil Nadu,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kanchipuram,Tamil Nadu,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kanchipuram,Tamil Nadu,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kanchipuram,Tamil Nadu,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kanchipuram,Tamil Nadu,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kanchipuram,Tamil Nadu,2023,October,meta-llama/Llama-3.1-70B-Instruct,43.0
+Kanchipuram,Tamil Nadu,2023,November,meta-llama/Llama-3.1-70B-Instruct,43.0
+Kanchipuram,Tamil Nadu,2023,December,meta-llama/Llama-3.1-70B-Instruct,43.0
+Kannur,Kerala,2023,January,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kannur,Kerala,2023,February,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kannur,Kerala,2023,March,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kannur,Kerala,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kannur,Kerala,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kannur,Kerala,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kannur,Kerala,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kannur,Kerala,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kannur,Kerala,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kannur,Kerala,2023,October,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kannur,Kerala,2023,November,meta-llama/Llama-3.1-70B-Instruct,43.0
+Kannur,Kerala,2023,December,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kanpur,Uttar Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,234.0
+Kanpur,Uttar Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Kanpur,Uttar Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Kanpur,Uttar Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Kanpur,Uttar Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,114.0
+Kanpur,Uttar Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,83.0
+Kanpur,Uttar Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,83.0
+Kanpur,Uttar Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,83.0
+Kanpur,Uttar Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,114.0
+Kanpur,Uttar Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Kanpur,Uttar Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,234.0
+Kanpur,Uttar Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Karnal,Haryana,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Karnal,Haryana,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Karnal,Haryana,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Karnal,Haryana,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Karnal,Haryana,2023,May,meta-llama/Llama-3.1-70B-Instruct,83.0
+Karnal,Haryana,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Karnal,Haryana,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Karnal,Haryana,2023,August,meta-llama/Llama-3.1-70B-Instruct,83.0
+Karnal,Haryana,2023,September,meta-llama/Llama-3.1-70B-Instruct,93.0
+Karnal,Haryana,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Karnal,Haryana,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Karnal,Haryana,2023,December,meta-llama/Llama-3.1-70B-Instruct,114.0
+Katihar,Bihar,2023,January,meta-llama/Llama-3.1-70B-Instruct,157.0
+Katihar,Bihar,2023,February,meta-llama/Llama-3.1-70B-Instruct,134.0
+Katihar,Bihar,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Katihar,Bihar,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Katihar,Bihar,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Katihar,Bihar,2023,June,meta-llama/Llama-3.1-70B-Instruct,63.0
+Katihar,Bihar,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Katihar,Bihar,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Katihar,Bihar,2023,September,meta-llama/Llama-3.1-70B-Instruct,114.0
+Katihar,Bihar,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Katihar,Bihar,2023,November,meta-llama/Llama-3.1-70B-Instruct,194.0
+Katihar,Bihar,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Katni,Madhya Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Katni,Madhya Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Katni,Madhya Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,98.0
+Katni,Madhya Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,63.0
+Katni,Madhya Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Katni,Madhya Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Katni,Madhya Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Katni,Madhya Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Katni,Madhya Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Katni,Madhya Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,83.0
+Katni,Madhya Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,114.0
+Katni,Madhya Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,83.0
+Keonjhar,Odisha,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Keonjhar,Odisha,2023,February,meta-llama/Llama-3.1-70B-Instruct,63.0
+Keonjhar,Odisha,2023,March,meta-llama/Llama-3.1-70B-Instruct,63.0
+Keonjhar,Odisha,2023,April,meta-llama/Llama-3.1-70B-Instruct,43.0
+Keonjhar,Odisha,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Keonjhar,Odisha,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Keonjhar,Odisha,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Keonjhar,Odisha,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Keonjhar,Odisha,2023,September,meta-llama/Llama-3.1-70B-Instruct,43.0
+Keonjhar,Odisha,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Keonjhar,Odisha,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Keonjhar,Odisha,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Khanna,Punjab,2023,January,meta-llama/Llama-3.1-70B-Instruct,157.0
+Khanna,Punjab,2023,February,meta-llama/Llama-3.1-70B-Instruct,98.0
+Khanna,Punjab,2023,March,meta-llama/Llama-3.1-70B-Instruct,98.0
+Khanna,Punjab,2023,April,meta-llama/Llama-3.1-70B-Instruct,88.0
+Khanna,Punjab,2023,May,meta-llama/Llama-3.1-70B-Instruct,51.0
+Khanna,Punjab,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Khanna,Punjab,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Khanna,Punjab,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Khanna,Punjab,2023,September,meta-llama/Llama-3.1-70B-Instruct,94.0
+Khanna,Punjab,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Khanna,Punjab,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Khanna,Punjab,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Khurja,Uttar Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,234.0
+Khurja,Uttar Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Khurja,Uttar Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Khurja,Uttar Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Khurja,Uttar Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,83.0
+Khurja,Uttar Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,83.0
+Khurja,Uttar Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,83.0
+Khurja,Uttar Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,83.0
+Khurja,Uttar Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,114.0
+Khurja,Uttar Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Khurja,Uttar Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Khurja,Uttar Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Kishanganj,Bihar,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Kishanganj,Bihar,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Kishanganj,Bihar,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Kishanganj,Bihar,2023,April,meta-llama/Llama-3.1-70B-Instruct,83.0
+Kishanganj,Bihar,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Kishanganj,Bihar,2023,June,meta-llama/Llama-3.1-70B-Instruct,63.0
+Kishanganj,Bihar,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Kishanganj,Bihar,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Kishanganj,Bihar,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Kishanganj,Bihar,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Kishanganj,Bihar,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Kishanganj,Bihar,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Kochi,Kerala,2023,January,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kochi,Kerala,2023,February,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kochi,Kerala,2023,March,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kochi,Kerala,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kochi,Kerala,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kochi,Kerala,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kochi,Kerala,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kochi,Kerala,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kochi,Kerala,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kochi,Kerala,2023,October,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kochi,Kerala,2023,November,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kochi,Kerala,2023,December,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kohima,Nagaland,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Kohima,Nagaland,2023,February,meta-llama/Llama-3.1-70B-Instruct,63.0
+Kohima,Nagaland,2023,March,meta-llama/Llama-3.1-70B-Instruct,63.0
+Kohima,Nagaland,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kohima,Nagaland,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kohima,Nagaland,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kohima,Nagaland,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kohima,Nagaland,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kohima,Nagaland,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kohima,Nagaland,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Kohima,Nagaland,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Kohima,Nagaland,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Kolkata,West Bengal,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Kolkata,West Bengal,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Kolkata,West Bengal,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Kolkata,West Bengal,2023,April,meta-llama/Llama-3.1-70B-Instruct,51.0
+Kolkata,West Bengal,2023,May,meta-llama/Llama-3.1-70B-Instruct,51.0
+Kolkata,West Bengal,2023,June,meta-llama/Llama-3.1-70B-Instruct,51.0
+Kolkata,West Bengal,2023,July,meta-llama/Llama-3.1-70B-Instruct,51.0
+Kolkata,West Bengal,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Kolkata,West Bengal,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Kolkata,West Bengal,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Kolkata,West Bengal,2023,November,meta-llama/Llama-3.1-70B-Instruct,114.0
+Kolkata,West Bengal,2023,December,meta-llama/Llama-3.1-70B-Instruct,114.0
+Kollam,Kerala,2023,January,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kollam,Kerala,2023,February,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kollam,Kerala,2023,March,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kollam,Kerala,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kollam,Kerala,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kollam,Kerala,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kollam,Kerala,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kollam,Kerala,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kollam,Kerala,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kollam,Kerala,2023,October,meta-llama/Llama-3.1-70B-Instruct,23.0
+Kollam,Kerala,2023,November,meta-llama/Llama-3.1-70B-Instruct,43.0
+Kollam,Kerala,2023,December,meta-llama/Llama-3.1-70B-Instruct,23.0
+Koppal,Karnataka,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Koppal,Karnataka,2023,February,meta-llama/Llama-3.1-70B-Instruct,51.0
+Koppal,Karnataka,2023,March,meta-llama/Llama-3.1-70B-Instruct,41.0
+Koppal,Karnataka,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Koppal,Karnataka,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Koppal,Karnataka,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Koppal,Karnataka,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Koppal,Karnataka,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Koppal,Karnataka,2023,September,meta-llama/Llama-3.1-70B-Instruct,
+Koppal,Karnataka,2023,October,meta-llama/Llama-3.1-70B-Instruct,
+Koppal,Karnataka,2023,November,meta-llama/Llama-3.1-70B-Instruct,
+Koppal,Karnataka,2023,December,meta-llama/Llama-3.1-70B-Instruct,43.0
+Korba,Chhattisgarh,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Korba,Chhattisgarh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Korba,Chhattisgarh,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Korba,Chhattisgarh,2023,April,meta-llama/Llama-3.1-70B-Instruct,83.0
+Korba,Chhattisgarh,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Korba,Chhattisgarh,2023,June,meta-llama/Llama-3.1-70B-Instruct,63.0
+Korba,Chhattisgarh,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Korba,Chhattisgarh,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Korba,Chhattisgarh,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Korba,Chhattisgarh,2023,October,meta-llama/Llama-3.1-70B-Instruct,83.0
+Korba,Chhattisgarh,2023,November,meta-llama/Llama-3.1-70B-Instruct,114.0
+Korba,Chhattisgarh,2023,December,meta-llama/Llama-3.1-70B-Instruct,83.0
+Kota,Rajasthan,2023,January,meta-llama/Llama-3.1-70B-Instruct,234.0
+Kota,Rajasthan,2023,February,meta-llama/Llama-3.1-70B-Instruct,157.0
+Kota,Rajasthan,2023,March,meta-llama/Llama-3.1-70B-Instruct,157.0
+Kota,Rajasthan,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Kota,Rajasthan,2023,May,meta-llama/Llama-3.1-70B-Instruct,114.0
+Kota,Rajasthan,2023,June,meta-llama/Llama-3.1-70B-Instruct,51.0
+Kota,Rajasthan,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Kota,Rajasthan,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Kota,Rajasthan,2023,September,meta-llama/Llama-3.1-70B-Instruct,114.0
+Kota,Rajasthan,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Kota,Rajasthan,2023,November,meta-llama/Llama-3.1-70B-Instruct,246.0
+Kota,Rajasthan,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Kunjemura,Chhattisgarh,2023,January,meta-llama/Llama-3.1-70B-Instruct,
+Kunjemura,Chhattisgarh,2023,February,meta-llama/Llama-3.1-70B-Instruct,2.0
+Kunjemura,Chhattisgarh,2023,March,meta-llama/Llama-3.1-70B-Instruct,2.0
+Kunjemura,Chhattisgarh,2023,April,meta-llama/Llama-3.1-70B-Instruct,2.0
+Kunjemura,Chhattisgarh,2023,May,meta-llama/Llama-3.1-70B-Instruct,2.0
+Kunjemura,Chhattisgarh,2023,June,meta-llama/Llama-3.1-70B-Instruct,2.0
+Kunjemura,Chhattisgarh,2023,July,meta-llama/Llama-3.1-70B-Instruct,2.0
+Kunjemura,Chhattisgarh,2023,August,meta-llama/Llama-3.1-70B-Instruct,2.0
+Kunjemura,Chhattisgarh,2023,September,meta-llama/Llama-3.1-70B-Instruct,2.0
+Kunjemura,Chhattisgarh,2023,October,meta-llama/Llama-3.1-70B-Instruct,2.0
+Kunjemura,Chhattisgarh,2023,November,meta-llama/Llama-3.1-70B-Instruct,2.0
+Kunjemura,Chhattisgarh,2023,December,meta-llama/Llama-3.1-70B-Instruct,2.0
+Kurukshetra,Haryana,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Kurukshetra,Haryana,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Kurukshetra,Haryana,2023,March,meta-llama/Llama-3.1-70B-Instruct,98.0
+Kurukshetra,Haryana,2023,April,meta-llama/Llama-3.1-70B-Instruct,98.0
+Kurukshetra,Haryana,2023,May,meta-llama/Llama-3.1-70B-Instruct,43.0
+Kurukshetra,Haryana,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Kurukshetra,Haryana,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Kurukshetra,Haryana,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Kurukshetra,Haryana,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Kurukshetra,Haryana,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Kurukshetra,Haryana,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Kurukshetra,Haryana,2023,December,meta-llama/Llama-3.1-70B-Instruct,98.0
+Lucknow,Uttar Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,234.0
+Lucknow,Uttar Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Lucknow,Uttar Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Lucknow,Uttar Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,98.0
+Lucknow,Uttar Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,83.0
+Lucknow,Uttar Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,63.0
+Lucknow,Uttar Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Lucknow,Uttar Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Lucknow,Uttar Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,114.0
+Lucknow,Uttar Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Lucknow,Uttar Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,173.0
+Lucknow,Uttar Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Ludhiana,Punjab,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Ludhiana,Punjab,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Ludhiana,Punjab,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Ludhiana,Punjab,2023,April,meta-llama/Llama-3.1-70B-Instruct,98.0
+Ludhiana,Punjab,2023,May,meta-llama/Llama-3.1-70B-Instruct,83.0
+Ludhiana,Punjab,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ludhiana,Punjab,2023,July,meta-llama/Llama-3.1-70B-Instruct,83.0
+Ludhiana,Punjab,2023,August,meta-llama/Llama-3.1-70B-Instruct,83.0
+Ludhiana,Punjab,2023,September,meta-llama/Llama-3.1-70B-Instruct,93.0
+Ludhiana,Punjab,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Ludhiana,Punjab,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Ludhiana,Punjab,2023,December,meta-llama/Llama-3.1-70B-Instruct,114.0
+Madikeri,Karnataka,2023,January,meta-llama/Llama-3.1-70B-Instruct,23.0
+Madikeri,Karnataka,2023,February,meta-llama/Llama-3.1-70B-Instruct,23.0
+Madikeri,Karnataka,2023,March,meta-llama/Llama-3.1-70B-Instruct,23.0
+Madikeri,Karnataka,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Madikeri,Karnataka,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Madikeri,Karnataka,2023,June,meta-llama/Llama-3.1-70B-Instruct,15.0
+Madikeri,Karnataka,2023,July,meta-llama/Llama-3.1-70B-Instruct,15.0
+Madikeri,Karnataka,2023,August,meta-llama/Llama-3.1-70B-Instruct,15.0
+Madikeri,Karnataka,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Madikeri,Karnataka,2023,October,meta-llama/Llama-3.1-70B-Instruct,23.0
+Madikeri,Karnataka,2023,November,meta-llama/Llama-3.1-70B-Instruct,23.0
+Madikeri,Karnataka,2023,December,meta-llama/Llama-3.1-70B-Instruct,25.0
+Maihar,Madhya Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Maihar,Madhya Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Maihar,Madhya Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,69.0
+Maihar,Madhya Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,
+Maihar,Madhya Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,51.0
+Maihar,Madhya Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Maihar,Madhya Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Maihar,Madhya Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Maihar,Madhya Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,
+Maihar,Madhya Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,
+Maihar,Madhya Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,
+Maihar,Madhya Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,
+Mandi Gobindgarh,Punjab,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Mandi Gobindgarh,Punjab,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Mandi Gobindgarh,Punjab,2023,March,meta-llama/Llama-3.1-70B-Instruct,98.0
+Mandi Gobindgarh,Punjab,2023,April,meta-llama/Llama-3.1-70B-Instruct,98.0
+Mandi Gobindgarh,Punjab,2023,May,meta-llama/Llama-3.1-70B-Instruct,83.0
+Mandi Gobindgarh,Punjab,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Mandi Gobindgarh,Punjab,2023,July,meta-llama/Llama-3.1-70B-Instruct,83.0
+Mandi Gobindgarh,Punjab,2023,August,meta-llama/Llama-3.1-70B-Instruct,83.0
+Mandi Gobindgarh,Punjab,2023,September,meta-llama/Llama-3.1-70B-Instruct,114.0
+Mandi Gobindgarh,Punjab,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Mandi Gobindgarh,Punjab,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Mandi Gobindgarh,Punjab,2023,December,meta-llama/Llama-3.1-70B-Instruct,114.0
+Mandideep,Madhya Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Mandideep,Madhya Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Mandideep,Madhya Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,69.0
+Mandideep,Madhya Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,41.0
+Mandideep,Madhya Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Mandideep,Madhya Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Mandideep,Madhya Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Mandideep,Madhya Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Mandideep,Madhya Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,43.0
+Mandideep,Madhya Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Mandideep,Madhya Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,83.0
+Mandideep,Madhya Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Mandikhera,Haryana,2023,January,meta-llama/Llama-3.1-70B-Instruct,157.0
+Mandikhera,Haryana,2023,February,meta-llama/Llama-3.1-70B-Instruct,157.0
+Mandikhera,Haryana,2023,March,meta-llama/Llama-3.1-70B-Instruct,98.0
+Mandikhera,Haryana,2023,April,meta-llama/Llama-3.1-70B-Instruct,83.0
+Mandikhera,Haryana,2023,May,meta-llama/Llama-3.1-70B-Instruct,83.0
+Mandikhera,Haryana,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Mandikhera,Haryana,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Mandikhera,Haryana,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Mandikhera,Haryana,2023,September,meta-llama/Llama-3.1-70B-Instruct,2.0
+Mandikhera,Haryana,2023,October,meta-llama/Llama-3.1-70B-Instruct,157.0
+Mandikhera,Haryana,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Mandikhera,Haryana,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Manesar,Haryana,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Manesar,Haryana,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Manesar,Haryana,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Manesar,Haryana,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Manesar,Haryana,2023,May,meta-llama/Llama-3.1-70B-Instruct,88.0
+Manesar,Haryana,2023,June,meta-llama/Llama-3.1-70B-Instruct,51.0
+Manesar,Haryana,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Manesar,Haryana,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Manesar,Haryana,2023,September,meta-llama/Llama-3.1-70B-Instruct,93.0
+Manesar,Haryana,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Manesar,Haryana,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Manesar,Haryana,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Mangalore,Karnataka,2023,January,meta-llama/Llama-3.1-70B-Instruct,23.0
+Mangalore,Karnataka,2023,February,meta-llama/Llama-3.1-70B-Instruct,23.0
+Mangalore,Karnataka,2023,March,meta-llama/Llama-3.1-70B-Instruct,23.0
+Mangalore,Karnataka,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Mangalore,Karnataka,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Mangalore,Karnataka,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Mangalore,Karnataka,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Mangalore,Karnataka,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Mangalore,Karnataka,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Mangalore,Karnataka,2023,October,meta-llama/Llama-3.1-70B-Instruct,23.0
+Mangalore,Karnataka,2023,November,meta-llama/Llama-3.1-70B-Instruct,43.0
+Mangalore,Karnataka,2023,December,meta-llama/Llama-3.1-70B-Instruct,23.0
+Manguraha,Bihar,2023,January,meta-llama/Llama-3.1-70B-Instruct,157.0
+Manguraha,Bihar,2023,February,meta-llama/Llama-3.1-70B-Instruct,157.0
+Manguraha,Bihar,2023,March,meta-llama/Llama-3.1-70B-Instruct,134.0
+Manguraha,Bihar,2023,April,meta-llama/Llama-3.1-70B-Instruct,134.0
+Manguraha,Bihar,2023,May,meta-llama/Llama-3.1-70B-Instruct,83.0
+Manguraha,Bihar,2023,June,meta-llama/Llama-3.1-70B-Instruct,83.0
+Manguraha,Bihar,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Manguraha,Bihar,2023,August,meta-llama/Llama-3.1-70B-Instruct,2.0
+Manguraha,Bihar,2023,September,meta-llama/Llama-3.1-70B-Instruct,2.0
+Manguraha,Bihar,2023,October,meta-llama/Llama-3.1-70B-Instruct,2.0
+Manguraha,Bihar,2023,November,meta-llama/Llama-3.1-70B-Instruct,2.0
+Manguraha,Bihar,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Meerut,Uttar Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Meerut,Uttar Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Meerut,Uttar Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Meerut,Uttar Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Meerut,Uttar Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,83.0
+Meerut,Uttar Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,63.0
+Meerut,Uttar Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Meerut,Uttar Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Meerut,Uttar Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,93.0
+Meerut,Uttar Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Meerut,Uttar Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Meerut,Uttar Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Moradabad,Uttar Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Moradabad,Uttar Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Moradabad,Uttar Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Moradabad,Uttar Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Moradabad,Uttar Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,83.0
+Moradabad,Uttar Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,63.0
+Moradabad,Uttar Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Moradabad,Uttar Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Moradabad,Uttar Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,114.0
+Moradabad,Uttar Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Moradabad,Uttar Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Moradabad,Uttar Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Motihari,Bihar,2023,January,meta-llama/Llama-3.1-70B-Instruct,157.0
+Motihari,Bihar,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Motihari,Bihar,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Motihari,Bihar,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Motihari,Bihar,2023,May,meta-llama/Llama-3.1-70B-Instruct,83.0
+Motihari,Bihar,2023,June,meta-llama/Llama-3.1-70B-Instruct,63.0
+Motihari,Bihar,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Motihari,Bihar,2023,August,meta-llama/Llama-3.1-70B-Instruct,83.0
+Motihari,Bihar,2023,September,meta-llama/Llama-3.1-70B-Instruct,114.0
+Motihari,Bihar,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Motihari,Bihar,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Motihari,Bihar,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Mumbai,Maharashtra,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Mumbai,Maharashtra,2023,February,meta-llama/Llama-3.1-70B-Instruct,69.0
+Mumbai,Maharashtra,2023,March,meta-llama/Llama-3.1-70B-Instruct,69.0
+Mumbai,Maharashtra,2023,April,meta-llama/Llama-3.1-70B-Instruct,51.0
+Mumbai,Maharashtra,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Mumbai,Maharashtra,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Mumbai,Maharashtra,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Mumbai,Maharashtra,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Mumbai,Maharashtra,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Mumbai,Maharashtra,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Mumbai,Maharashtra,2023,November,meta-llama/Llama-3.1-70B-Instruct,114.0
+Mumbai,Maharashtra,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Munger,Bihar,2023,January,meta-llama/Llama-3.1-70B-Instruct,157.0
+Munger,Bihar,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Munger,Bihar,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Munger,Bihar,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Munger,Bihar,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Munger,Bihar,2023,June,meta-llama/Llama-3.1-70B-Instruct,63.0
+Munger,Bihar,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Munger,Bihar,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Munger,Bihar,2023,September,meta-llama/Llama-3.1-70B-Instruct,114.0
+Munger,Bihar,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Munger,Bihar,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Munger,Bihar,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Muzaffarnagar,Uttar Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,157.0
+Muzaffarnagar,Uttar Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Muzaffarnagar,Uttar Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Muzaffarnagar,Uttar Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,98.0
+Muzaffarnagar,Uttar Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,83.0
+Muzaffarnagar,Uttar Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,63.0
+Muzaffarnagar,Uttar Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Muzaffarnagar,Uttar Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Muzaffarnagar,Uttar Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,114.0
+Muzaffarnagar,Uttar Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Muzaffarnagar,Uttar Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Muzaffarnagar,Uttar Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Muzaffarpur,Bihar,2023,January,meta-llama/Llama-3.1-70B-Instruct,234.0
+Muzaffarpur,Bihar,2023,February,meta-llama/Llama-3.1-70B-Instruct,157.0
+Muzaffarpur,Bihar,2023,March,meta-llama/Llama-3.1-70B-Instruct,157.0
+Muzaffarpur,Bihar,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Muzaffarpur,Bihar,2023,May,meta-llama/Llama-3.1-70B-Instruct,114.0
+Muzaffarpur,Bihar,2023,June,meta-llama/Llama-3.1-70B-Instruct,83.0
+Muzaffarpur,Bihar,2023,July,meta-llama/Llama-3.1-70B-Instruct,114.0
+Muzaffarpur,Bihar,2023,August,meta-llama/Llama-3.1-70B-Instruct,114.0
+Muzaffarpur,Bihar,2023,September,meta-llama/Llama-3.1-70B-Instruct,114.0
+Muzaffarpur,Bihar,2023,October,meta-llama/Llama-3.1-70B-Instruct,157.0
+Muzaffarpur,Bihar,2023,November,meta-llama/Llama-3.1-70B-Instruct,430.0
+Muzaffarpur,Bihar,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Mysuru,Karnataka,2023,January,meta-llama/Llama-3.1-70B-Instruct,23.0
+Mysuru,Karnataka,2023,February,meta-llama/Llama-3.1-70B-Instruct,23.0
+Mysuru,Karnataka,2023,March,meta-llama/Llama-3.1-70B-Instruct,23.0
+Mysuru,Karnataka,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Mysuru,Karnataka,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Mysuru,Karnataka,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Mysuru,Karnataka,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Mysuru,Karnataka,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Mysuru,Karnataka,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Mysuru,Karnataka,2023,October,meta-llama/Llama-3.1-70B-Instruct,23.0
+Mysuru,Karnataka,2023,November,meta-llama/Llama-3.1-70B-Instruct,23.0
+Mysuru,Karnataka,2023,December,meta-llama/Llama-3.1-70B-Instruct,23.0
+Nagpur,Maharashtra,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Nagpur,Maharashtra,2023,February,meta-llama/Llama-3.1-70B-Instruct,69.0
+Nagpur,Maharashtra,2023,March,meta-llama/Llama-3.1-70B-Instruct,69.0
+Nagpur,Maharashtra,2023,April,meta-llama/Llama-3.1-70B-Instruct,51.0
+Nagpur,Maharashtra,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Nagpur,Maharashtra,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Nagpur,Maharashtra,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Nagpur,Maharashtra,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Nagpur,Maharashtra,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Nagpur,Maharashtra,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Nagpur,Maharashtra,2023,November,meta-llama/Llama-3.1-70B-Instruct,114.0
+Nagpur,Maharashtra,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Naharlagun,Arunachal Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Naharlagun,Arunachal Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,63.0
+Naharlagun,Arunachal Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,43.0
+Naharlagun,Arunachal Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Naharlagun,Arunachal Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Naharlagun,Arunachal Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Naharlagun,Arunachal Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Naharlagun,Arunachal Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Naharlagun,Arunachal Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,2.0
+Naharlagun,Arunachal Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,2.0
+Naharlagun,Arunachal Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,2.0
+Naharlagun,Arunachal Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,43.0
+Nalbari,Assam,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Nalbari,Assam,2023,February,meta-llama/Llama-3.1-70B-Instruct,63.0
+Nalbari,Assam,2023,March,meta-llama/Llama-3.1-70B-Instruct,63.0
+Nalbari,Assam,2023,April,meta-llama/Llama-3.1-70B-Instruct,31.0
+Nalbari,Assam,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Nalbari,Assam,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Nalbari,Assam,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Nalbari,Assam,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Nalbari,Assam,2023,September,meta-llama/Llama-3.1-70B-Instruct,43.0
+Nalbari,Assam,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Nalbari,Assam,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Nalbari,Assam,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Nandesari,Gujarat,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Nandesari,Gujarat,2023,February,meta-llama/Llama-3.1-70B-Instruct,69.0
+Nandesari,Gujarat,2023,March,meta-llama/Llama-3.1-70B-Instruct,69.0
+Nandesari,Gujarat,2023,April,meta-llama/Llama-3.1-70B-Instruct,
+Nandesari,Gujarat,2023,May,meta-llama/Llama-3.1-70B-Instruct,
+Nandesari,Gujarat,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Nandesari,Gujarat,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Nandesari,Gujarat,2023,August,meta-llama/Llama-3.1-70B-Instruct,
+Nandesari,Gujarat,2023,September,meta-llama/Llama-3.1-70B-Instruct,
+Nandesari,Gujarat,2023,October,meta-llama/Llama-3.1-70B-Instruct,
+Nandesari,Gujarat,2023,November,meta-llama/Llama-3.1-70B-Instruct,
+Nandesari,Gujarat,2023,December,meta-llama/Llama-3.1-70B-Instruct,
+Narnaul,Haryana,2023,January,meta-llama/Llama-3.1-70B-Instruct,157.0
+Narnaul,Haryana,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Narnaul,Haryana,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Narnaul,Haryana,2023,April,meta-llama/Llama-3.1-70B-Instruct,98.0
+Narnaul,Haryana,2023,May,meta-llama/Llama-3.1-70B-Instruct,83.0
+Narnaul,Haryana,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Narnaul,Haryana,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Narnaul,Haryana,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Narnaul,Haryana,2023,September,meta-llama/Llama-3.1-70B-Instruct,83.0
+Narnaul,Haryana,2023,October,meta-llama/Llama-3.1-70B-Instruct,157.0
+Narnaul,Haryana,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Narnaul,Haryana,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Nashik,Maharashtra,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Nashik,Maharashtra,2023,February,meta-llama/Llama-3.1-70B-Instruct,51.0
+Nashik,Maharashtra,2023,March,meta-llama/Llama-3.1-70B-Instruct,51.0
+Nashik,Maharashtra,2023,April,meta-llama/Llama-3.1-70B-Instruct,51.0
+Nashik,Maharashtra,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Nashik,Maharashtra,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Nashik,Maharashtra,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Nashik,Maharashtra,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Nashik,Maharashtra,2023,September,meta-llama/Llama-3.1-70B-Instruct,43.0
+Nashik,Maharashtra,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Nashik,Maharashtra,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Nashik,Maharashtra,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Navi Mumbai,Maharashtra,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Navi Mumbai,Maharashtra,2023,February,meta-llama/Llama-3.1-70B-Instruct,43.0
+Navi Mumbai,Maharashtra,2023,March,meta-llama/Llama-3.1-70B-Instruct,53.0
+Navi Mumbai,Maharashtra,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Navi Mumbai,Maharashtra,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Navi Mumbai,Maharashtra,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Navi Mumbai,Maharashtra,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Navi Mumbai,Maharashtra,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Navi Mumbai,Maharashtra,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Navi Mumbai,Maharashtra,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Navi Mumbai,Maharashtra,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Navi Mumbai,Maharashtra,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Nayagarh,Odisha,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Nayagarh,Odisha,2023,February,meta-llama/Llama-3.1-70B-Instruct,63.0
+Nayagarh,Odisha,2023,March,meta-llama/Llama-3.1-70B-Instruct,63.0
+Nayagarh,Odisha,2023,April,meta-llama/Llama-3.1-70B-Instruct,43.0
+Nayagarh,Odisha,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Nayagarh,Odisha,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Nayagarh,Odisha,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Nayagarh,Odisha,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Nayagarh,Odisha,2023,September,meta-llama/Llama-3.1-70B-Instruct,2.0
+Nayagarh,Odisha,2023,October,meta-llama/Llama-3.1-70B-Instruct,2.0
+Nayagarh,Odisha,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Nayagarh,Odisha,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Noida,Uttar Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Noida,Uttar Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Noida,Uttar Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Noida,Uttar Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Noida,Uttar Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,73.0
+Noida,Uttar Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,51.0
+Noida,Uttar Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Noida,Uttar Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Noida,Uttar Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,93.0
+Noida,Uttar Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Noida,Uttar Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,234.0
+Noida,Uttar Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,114.0
+Ooty,Tamil Nadu,2023,January,meta-llama/Llama-3.1-70B-Instruct,10.0
+Ooty,Tamil Nadu,2023,February,meta-llama/Llama-3.1-70B-Instruct,8.0
+Ooty,Tamil Nadu,2023,March,meta-llama/Llama-3.1-70B-Instruct,8.0
+Ooty,Tamil Nadu,2023,April,meta-llama/Llama-3.1-70B-Instruct,8.0
+Ooty,Tamil Nadu,2023,May,meta-llama/Llama-3.1-70B-Instruct,6.0
+Ooty,Tamil Nadu,2023,June,meta-llama/Llama-3.1-70B-Instruct,6.0
+Ooty,Tamil Nadu,2023,July,meta-llama/Llama-3.1-70B-Instruct,6.0
+Ooty,Tamil Nadu,2023,August,meta-llama/Llama-3.1-70B-Instruct,10.0
+Ooty,Tamil Nadu,2023,September,meta-llama/Llama-3.1-70B-Instruct,10.0
+Ooty,Tamil Nadu,2023,October,meta-llama/Llama-3.1-70B-Instruct,10.0
+Ooty,Tamil Nadu,2023,November,meta-llama/Llama-3.1-70B-Instruct,10.0
+Ooty,Tamil Nadu,2023,December,meta-llama/Llama-3.1-70B-Instruct,10.0
+Pali,Rajasthan,2023,January,meta-llama/Llama-3.1-70B-Instruct,157.0
+Pali,Rajasthan,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Pali,Rajasthan,2023,March,meta-llama/Llama-3.1-70B-Instruct,157.0
+Pali,Rajasthan,2023,April,meta-llama/Llama-3.1-70B-Instruct,98.0
+Pali,Rajasthan,2023,May,meta-llama/Llama-3.1-70B-Instruct,83.0
+Pali,Rajasthan,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Pali,Rajasthan,2023,July,meta-llama/Llama-3.1-70B-Instruct,83.0
+Pali,Rajasthan,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Pali,Rajasthan,2023,September,meta-llama/Llama-3.1-70B-Instruct,114.0
+Pali,Rajasthan,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Pali,Rajasthan,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Pali,Rajasthan,2023,December,meta-llama/Llama-3.1-70B-Instruct,114.0
+Palwal,Haryana,2023,January,meta-llama/Llama-3.1-70B-Instruct,157.0
+Palwal,Haryana,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Palwal,Haryana,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Palwal,Haryana,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Palwal,Haryana,2023,May,meta-llama/Llama-3.1-70B-Instruct,83.0
+Palwal,Haryana,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Palwal,Haryana,2023,July,meta-llama/Llama-3.1-70B-Instruct,83.0
+Palwal,Haryana,2023,August,meta-llama/Llama-3.1-70B-Instruct,83.0
+Palwal,Haryana,2023,September,meta-llama/Llama-3.1-70B-Instruct,
+Palwal,Haryana,2023,October,meta-llama/Llama-3.1-70B-Instruct,
+Palwal,Haryana,2023,November,meta-llama/Llama-3.1-70B-Instruct,
+Palwal,Haryana,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Panchkula,Haryana,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Panchkula,Haryana,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Panchkula,Haryana,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Panchkula,Haryana,2023,April,meta-llama/Llama-3.1-70B-Instruct,57.0
+Panchkula,Haryana,2023,May,meta-llama/Llama-3.1-70B-Instruct,43.0
+Panchkula,Haryana,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Panchkula,Haryana,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Panchkula,Haryana,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Panchkula,Haryana,2023,September,meta-llama/Llama-3.1-70B-Instruct,43.0
+Panchkula,Haryana,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Panchkula,Haryana,2023,November,meta-llama/Llama-3.1-70B-Instruct,114.0
+Panchkula,Haryana,2023,December,meta-llama/Llama-3.1-70B-Instruct,98.0
+Panipat,Haryana,2023,January,meta-llama/Llama-3.1-70B-Instruct,234.0
+Panipat,Haryana,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Panipat,Haryana,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Panipat,Haryana,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Panipat,Haryana,2023,May,meta-llama/Llama-3.1-70B-Instruct,114.0
+Panipat,Haryana,2023,June,meta-llama/Llama-3.1-70B-Instruct,83.0
+Panipat,Haryana,2023,July,meta-llama/Llama-3.1-70B-Instruct,83.0
+Panipat,Haryana,2023,August,meta-llama/Llama-3.1-70B-Instruct,83.0
+Panipat,Haryana,2023,September,meta-llama/Llama-3.1-70B-Instruct,114.0
+Panipat,Haryana,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Panipat,Haryana,2023,November,meta-llama/Llama-3.1-70B-Instruct,234.0
+Panipat,Haryana,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Patiala,Punjab,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Patiala,Punjab,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Patiala,Punjab,2023,March,meta-llama/Llama-3.1-70B-Instruct,98.0
+Patiala,Punjab,2023,April,meta-llama/Llama-3.1-70B-Instruct,88.0
+Patiala,Punjab,2023,May,meta-llama/Llama-3.1-70B-Instruct,83.0
+Patiala,Punjab,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Patiala,Punjab,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Patiala,Punjab,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Patiala,Punjab,2023,September,meta-llama/Llama-3.1-70B-Instruct,83.0
+Patiala,Punjab,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Patiala,Punjab,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Patiala,Punjab,2023,December,meta-llama/Llama-3.1-70B-Instruct,114.0
+Patna,Bihar,2023,January,meta-llama/Llama-3.1-70B-Instruct,234.0
+Patna,Bihar,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Patna,Bihar,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Patna,Bihar,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Patna,Bihar,2023,May,meta-llama/Llama-3.1-70B-Instruct,114.0
+Patna,Bihar,2023,June,meta-llama/Llama-3.1-70B-Instruct,114.0
+Patna,Bihar,2023,July,meta-llama/Llama-3.1-70B-Instruct,114.0
+Patna,Bihar,2023,August,meta-llama/Llama-3.1-70B-Instruct,114.0
+Patna,Bihar,2023,September,meta-llama/Llama-3.1-70B-Instruct,114.0
+Patna,Bihar,2023,October,meta-llama/Llama-3.1-70B-Instruct,173.0
+Patna,Bihar,2023,November,meta-llama/Llama-3.1-70B-Instruct,434.0
+Patna,Bihar,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Pithampur,Madhya Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Pithampur,Madhya Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,63.0
+Pithampur,Madhya Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,69.0
+Pithampur,Madhya Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,41.0
+Pithampur,Madhya Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Pithampur,Madhya Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Pithampur,Madhya Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Pithampur,Madhya Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Pithampur,Madhya Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,43.0
+Pithampur,Madhya Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Pithampur,Madhya Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Pithampur,Madhya Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Prayagraj,Uttar Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Prayagraj,Uttar Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Prayagraj,Uttar Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,98.0
+Prayagraj,Uttar Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,69.0
+Prayagraj,Uttar Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Prayagraj,Uttar Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,51.0
+Prayagraj,Uttar Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Prayagraj,Uttar Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Prayagraj,Uttar Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Prayagraj,Uttar Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Prayagraj,Uttar Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Prayagraj,Uttar Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,114.0
+Puducherry,Puducherry,2023,January,meta-llama/Llama-3.1-70B-Instruct,43.0
+Puducherry,Puducherry,2023,February,meta-llama/Llama-3.1-70B-Instruct,43.0
+Puducherry,Puducherry,2023,March,meta-llama/Llama-3.1-70B-Instruct,43.0
+Puducherry,Puducherry,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Puducherry,Puducherry,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Puducherry,Puducherry,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Puducherry,Puducherry,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Puducherry,Puducherry,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Puducherry,Puducherry,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Puducherry,Puducherry,2023,October,meta-llama/Llama-3.1-70B-Instruct,23.0
+Puducherry,Puducherry,2023,November,meta-llama/Llama-3.1-70B-Instruct,43.0
+Puducherry,Puducherry,2023,December,meta-llama/Llama-3.1-70B-Instruct,43.0
+Pune,Maharashtra,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Pune,Maharashtra,2023,February,meta-llama/Llama-3.1-70B-Instruct,51.0
+Pune,Maharashtra,2023,March,meta-llama/Llama-3.1-70B-Instruct,51.0
+Pune,Maharashtra,2023,April,meta-llama/Llama-3.1-70B-Instruct,43.0
+Pune,Maharashtra,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Pune,Maharashtra,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Pune,Maharashtra,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Pune,Maharashtra,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Pune,Maharashtra,2023,September,meta-llama/Llama-3.1-70B-Instruct,43.0
+Pune,Maharashtra,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Pune,Maharashtra,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Pune,Maharashtra,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Purnia,Bihar,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Purnia,Bihar,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Purnia,Bihar,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Purnia,Bihar,2023,April,meta-llama/Llama-3.1-70B-Instruct,98.0
+Purnia,Bihar,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Purnia,Bihar,2023,June,meta-llama/Llama-3.1-70B-Instruct,63.0
+Purnia,Bihar,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Purnia,Bihar,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Purnia,Bihar,2023,September,meta-llama/Llama-3.1-70B-Instruct,83.0
+Purnia,Bihar,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Purnia,Bihar,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Purnia,Bihar,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Raichur,Karnataka,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Raichur,Karnataka,2023,February,meta-llama/Llama-3.1-70B-Instruct,63.0
+Raichur,Karnataka,2023,March,meta-llama/Llama-3.1-70B-Instruct,51.0
+Raichur,Karnataka,2023,April,meta-llama/Llama-3.1-70B-Instruct,41.0
+Raichur,Karnataka,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Raichur,Karnataka,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Raichur,Karnataka,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Raichur,Karnataka,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Raichur,Karnataka,2023,September,meta-llama/Llama-3.1-70B-Instruct,43.0
+Raichur,Karnataka,2023,October,meta-llama/Llama-3.1-70B-Instruct,
+Raichur,Karnataka,2023,November,meta-llama/Llama-3.1-70B-Instruct,
+Raichur,Karnataka,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Raipur,Chhattisgarh,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Raipur,Chhattisgarh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Raipur,Chhattisgarh,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Raipur,Chhattisgarh,2023,April,meta-llama/Llama-3.1-70B-Instruct,83.0
+Raipur,Chhattisgarh,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Raipur,Chhattisgarh,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Raipur,Chhattisgarh,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Raipur,Chhattisgarh,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Raipur,Chhattisgarh,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Raipur,Chhattisgarh,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Raipur,Chhattisgarh,2023,November,meta-llama/Llama-3.1-70B-Instruct,114.0
+Raipur,Chhattisgarh,2023,December,meta-llama/Llama-3.1-70B-Instruct,114.0
+Rajamahendravaram,Andhra Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Rajamahendravaram,Andhra Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,43.0
+Rajamahendravaram,Andhra Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,43.0
+Rajamahendravaram,Andhra Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,43.0
+Rajamahendravaram,Andhra Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Rajamahendravaram,Andhra Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Rajamahendravaram,Andhra Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Rajamahendravaram,Andhra Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Rajamahendravaram,Andhra Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Rajamahendravaram,Andhra Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,43.0
+Rajamahendravaram,Andhra Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Rajamahendravaram,Andhra Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,43.0
+Rajgir,Bihar,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Rajgir,Bihar,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Rajgir,Bihar,2023,March,meta-llama/Llama-3.1-70B-Instruct,69.0
+Rajgir,Bihar,2023,April,meta-llama/Llama-3.1-70B-Instruct,
+Rajgir,Bihar,2023,May,meta-llama/Llama-3.1-70B-Instruct,51.0
+Rajgir,Bihar,2023,June,meta-llama/Llama-3.1-70B-Instruct,51.0
+Rajgir,Bihar,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Rajgir,Bihar,2023,August,meta-llama/Llama-3.1-70B-Instruct,
+Rajgir,Bihar,2023,September,meta-llama/Llama-3.1-70B-Instruct,
+Rajgir,Bihar,2023,October,meta-llama/Llama-3.1-70B-Instruct,
+Rajgir,Bihar,2023,November,meta-llama/Llama-3.1-70B-Instruct,
+Rajgir,Bihar,2023,December,meta-llama/Llama-3.1-70B-Instruct,114.0
+Ramanagara,Karnataka,2023,January,meta-llama/Llama-3.1-70B-Instruct,23.0
+Ramanagara,Karnataka,2023,February,meta-llama/Llama-3.1-70B-Instruct,23.0
+Ramanagara,Karnataka,2023,March,meta-llama/Llama-3.1-70B-Instruct,23.0
+Ramanagara,Karnataka,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Ramanagara,Karnataka,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Ramanagara,Karnataka,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Ramanagara,Karnataka,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Ramanagara,Karnataka,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Ramanagara,Karnataka,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Ramanagara,Karnataka,2023,October,meta-llama/Llama-3.1-70B-Instruct,
+Ramanagara,Karnataka,2023,November,meta-llama/Llama-3.1-70B-Instruct,
+Ramanagara,Karnataka,2023,December,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ramanathapuram,Tamil Nadu,2023,January,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ramanathapuram,Tamil Nadu,2023,February,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ramanathapuram,Tamil Nadu,2023,March,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ramanathapuram,Tamil Nadu,2023,April,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ramanathapuram,Tamil Nadu,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Ramanathapuram,Tamil Nadu,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Ramanathapuram,Tamil Nadu,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Ramanathapuram,Tamil Nadu,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Ramanathapuram,Tamil Nadu,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Ramanathapuram,Tamil Nadu,2023,October,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ramanathapuram,Tamil Nadu,2023,November,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ramanathapuram,Tamil Nadu,2023,December,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ratlam,Madhya Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Ratlam,Madhya Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Ratlam,Madhya Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Ratlam,Madhya Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,69.0
+Ratlam,Madhya Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,51.0
+Ratlam,Madhya Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ratlam,Madhya Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ratlam,Madhya Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ratlam,Madhya Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Ratlam,Madhya Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,83.0
+Ratlam,Madhya Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,114.0
+Ratlam,Madhya Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,83.0
+Rohtak,Haryana,2023,January,meta-llama/Llama-3.1-70B-Instruct,157.0
+Rohtak,Haryana,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Rohtak,Haryana,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Rohtak,Haryana,2023,April,meta-llama/Llama-3.1-70B-Instruct,98.0
+Rohtak,Haryana,2023,May,meta-llama/Llama-3.1-70B-Instruct,83.0
+Rohtak,Haryana,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Rohtak,Haryana,2023,July,meta-llama/Llama-3.1-70B-Instruct,83.0
+Rohtak,Haryana,2023,August,meta-llama/Llama-3.1-70B-Instruct,83.0
+Rohtak,Haryana,2023,September,meta-llama/Llama-3.1-70B-Instruct,93.0
+Rohtak,Haryana,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Rohtak,Haryana,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Rohtak,Haryana,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Rourkela,Odisha,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Rourkela,Odisha,2023,February,meta-llama/Llama-3.1-70B-Instruct,63.0
+Rourkela,Odisha,2023,March,meta-llama/Llama-3.1-70B-Instruct,63.0
+Rourkela,Odisha,2023,April,meta-llama/Llama-3.1-70B-Instruct,43.0
+Rourkela,Odisha,2023,May,meta-llama/Llama-3.1-70B-Instruct,43.0
+Rourkela,Odisha,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Rourkela,Odisha,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Rourkela,Odisha,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Rourkela,Odisha,2023,September,meta-llama/Llama-3.1-70B-Instruct,43.0
+Rourkela,Odisha,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Rourkela,Odisha,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Rourkela,Odisha,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Rupnagar,Punjab,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Rupnagar,Punjab,2023,February,meta-llama/Llama-3.1-70B-Instruct,98.0
+Rupnagar,Punjab,2023,March,meta-llama/Llama-3.1-70B-Instruct,98.0
+Rupnagar,Punjab,2023,April,meta-llama/Llama-3.1-70B-Instruct,51.0
+Rupnagar,Punjab,2023,May,meta-llama/Llama-3.1-70B-Instruct,43.0
+Rupnagar,Punjab,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Rupnagar,Punjab,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Rupnagar,Punjab,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Rupnagar,Punjab,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Rupnagar,Punjab,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Rupnagar,Punjab,2023,November,meta-llama/Llama-3.1-70B-Instruct,114.0
+Rupnagar,Punjab,2023,December,meta-llama/Llama-3.1-70B-Instruct,98.0
+Sagar,Madhya Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Sagar,Madhya Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Sagar,Madhya Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Sagar,Madhya Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,53.0
+Sagar,Madhya Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,43.0
+Sagar,Madhya Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Sagar,Madhya Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Sagar,Madhya Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Sagar,Madhya Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Sagar,Madhya Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,83.0
+Sagar,Madhya Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,83.0
+Sagar,Madhya Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,83.0
+Saharsa,Bihar,2023,January,meta-llama/Llama-3.1-70B-Instruct,157.0
+Saharsa,Bihar,2023,February,meta-llama/Llama-3.1-70B-Instruct,134.0
+Saharsa,Bihar,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Saharsa,Bihar,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Saharsa,Bihar,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Saharsa,Bihar,2023,June,meta-llama/Llama-3.1-70B-Instruct,63.0
+Saharsa,Bihar,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Saharsa,Bihar,2023,August,meta-llama/Llama-3.1-70B-Instruct,94.0
+Saharsa,Bihar,2023,September,meta-llama/Llama-3.1-70B-Instruct,114.0
+Saharsa,Bihar,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Saharsa,Bihar,2023,November,meta-llama/Llama-3.1-70B-Instruct,
+Saharsa,Bihar,2023,December,meta-llama/Llama-3.1-70B-Instruct,
+Salem,Tamil Nadu,2023,January,meta-llama/Llama-3.1-70B-Instruct,34.0
+Salem,Tamil Nadu,2023,February,meta-llama/Llama-3.1-70B-Instruct,23.0
+Salem,Tamil Nadu,2023,March,meta-llama/Llama-3.1-70B-Instruct,23.0
+Salem,Tamil Nadu,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Salem,Tamil Nadu,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Salem,Tamil Nadu,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Salem,Tamil Nadu,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Salem,Tamil Nadu,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Salem,Tamil Nadu,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Salem,Tamil Nadu,2023,October,meta-llama/Llama-3.1-70B-Instruct,23.0
+Salem,Tamil Nadu,2023,November,meta-llama/Llama-3.1-70B-Instruct,43.0
+Salem,Tamil Nadu,2023,December,meta-llama/Llama-3.1-70B-Instruct,23.0
+Samastipur,Bihar,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Samastipur,Bihar,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Samastipur,Bihar,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Samastipur,Bihar,2023,April,meta-llama/Llama-3.1-70B-Instruct,83.0
+Samastipur,Bihar,2023,May,meta-llama/Llama-3.1-70B-Instruct,83.0
+Samastipur,Bihar,2023,June,meta-llama/Llama-3.1-70B-Instruct,63.0
+Samastipur,Bihar,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Samastipur,Bihar,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Samastipur,Bihar,2023,September,meta-llama/Llama-3.1-70B-Instruct,83.0
+Samastipur,Bihar,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Samastipur,Bihar,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Samastipur,Bihar,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Sasaram,Bihar,2023,January,meta-llama/Llama-3.1-70B-Instruct,157.0
+Sasaram,Bihar,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Sasaram,Bihar,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Sasaram,Bihar,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Sasaram,Bihar,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Sasaram,Bihar,2023,June,meta-llama/Llama-3.1-70B-Instruct,63.0
+Sasaram,Bihar,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Sasaram,Bihar,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Sasaram,Bihar,2023,September,meta-llama/Llama-3.1-70B-Instruct,
+Sasaram,Bihar,2023,October,meta-llama/Llama-3.1-70B-Instruct,
+Sasaram,Bihar,2023,November,meta-llama/Llama-3.1-70B-Instruct,
+Sasaram,Bihar,2023,December,meta-llama/Llama-3.1-70B-Instruct,
+Satna,Madhya Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Satna,Madhya Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Satna,Madhya Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Satna,Madhya Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,83.0
+Satna,Madhya Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Satna,Madhya Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Satna,Madhya Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Satna,Madhya Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Satna,Madhya Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Satna,Madhya Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,83.0
+Satna,Madhya Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,114.0
+Satna,Madhya Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,98.0
+Shillong,Meghalaya,2023,January,meta-llama/Llama-3.1-70B-Instruct,23.0
+Shillong,Meghalaya,2023,February,meta-llama/Llama-3.1-70B-Instruct,23.0
+Shillong,Meghalaya,2023,March,meta-llama/Llama-3.1-70B-Instruct,23.0
+Shillong,Meghalaya,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Shillong,Meghalaya,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Shillong,Meghalaya,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Shillong,Meghalaya,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Shillong,Meghalaya,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Shillong,Meghalaya,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Shillong,Meghalaya,2023,October,meta-llama/Llama-3.1-70B-Instruct,23.0
+Shillong,Meghalaya,2023,November,meta-llama/Llama-3.1-70B-Instruct,23.0
+Shillong,Meghalaya,2023,December,meta-llama/Llama-3.1-70B-Instruct,23.0
+Shivamogga,Karnataka,2023,January,meta-llama/Llama-3.1-70B-Instruct,23.0
+Shivamogga,Karnataka,2023,February,meta-llama/Llama-3.1-70B-Instruct,23.0
+Shivamogga,Karnataka,2023,March,meta-llama/Llama-3.1-70B-Instruct,23.0
+Shivamogga,Karnataka,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Shivamogga,Karnataka,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Shivamogga,Karnataka,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Shivamogga,Karnataka,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Shivamogga,Karnataka,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Shivamogga,Karnataka,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Shivamogga,Karnataka,2023,October,meta-llama/Llama-3.1-70B-Instruct,23.0
+Shivamogga,Karnataka,2023,November,meta-llama/Llama-3.1-70B-Instruct,43.0
+Shivamogga,Karnataka,2023,December,meta-llama/Llama-3.1-70B-Instruct,43.0
+Silchar,Assam,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Silchar,Assam,2023,February,meta-llama/Llama-3.1-70B-Instruct,63.0
+Silchar,Assam,2023,March,meta-llama/Llama-3.1-70B-Instruct,63.0
+Silchar,Assam,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Silchar,Assam,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Silchar,Assam,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Silchar,Assam,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Silchar,Assam,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Silchar,Assam,2023,September,meta-llama/Llama-3.1-70B-Instruct,
+Silchar,Assam,2023,October,meta-llama/Llama-3.1-70B-Instruct,
+Silchar,Assam,2023,November,meta-llama/Llama-3.1-70B-Instruct,
+Silchar,Assam,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Siliguri,West Bengal,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Siliguri,West Bengal,2023,February,meta-llama/Llama-3.1-70B-Instruct,63.0
+Siliguri,West Bengal,2023,March,meta-llama/Llama-3.1-70B-Instruct,63.0
+Siliguri,West Bengal,2023,April,meta-llama/Llama-3.1-70B-Instruct,63.0
+Siliguri,West Bengal,2023,May,meta-llama/Llama-3.1-70B-Instruct,43.0
+Siliguri,West Bengal,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Siliguri,West Bengal,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Siliguri,West Bengal,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Siliguri,West Bengal,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Siliguri,West Bengal,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Siliguri,West Bengal,2023,November,meta-llama/Llama-3.1-70B-Instruct,83.0
+Siliguri,West Bengal,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Singrauli,Madhya Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Singrauli,Madhya Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Singrauli,Madhya Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Singrauli,Madhya Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Singrauli,Madhya Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,83.0
+Singrauli,Madhya Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,63.0
+Singrauli,Madhya Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Singrauli,Madhya Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,83.0
+Singrauli,Madhya Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,83.0
+Singrauli,Madhya Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Singrauli,Madhya Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Singrauli,Madhya Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Sirohi,Rajasthan,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Sirohi,Rajasthan,2023,February,meta-llama/Llama-3.1-70B-Instruct,69.0
+Sirohi,Rajasthan,2023,March,meta-llama/Llama-3.1-70B-Instruct,69.0
+Sirohi,Rajasthan,2023,April,meta-llama/Llama-3.1-70B-Instruct,
+Sirohi,Rajasthan,2023,May,meta-llama/Llama-3.1-70B-Instruct,43.0
+Sirohi,Rajasthan,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Sirohi,Rajasthan,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Sirohi,Rajasthan,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Sirohi,Rajasthan,2023,September,meta-llama/Llama-3.1-70B-Instruct,2.0
+Sirohi,Rajasthan,2023,October,meta-llama/Llama-3.1-70B-Instruct,2.0
+Sirohi,Rajasthan,2023,November,meta-llama/Llama-3.1-70B-Instruct,2.0
+Sirohi,Rajasthan,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Sirsa,Haryana,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Sirsa,Haryana,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Sirsa,Haryana,2023,March,meta-llama/Llama-3.1-70B-Instruct,98.0
+Sirsa,Haryana,2023,April,meta-llama/Llama-3.1-70B-Instruct,98.0
+Sirsa,Haryana,2023,May,meta-llama/Llama-3.1-70B-Instruct,83.0
+Sirsa,Haryana,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Sirsa,Haryana,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Sirsa,Haryana,2023,August,meta-llama/Llama-3.1-70B-Instruct,83.0
+Sirsa,Haryana,2023,September,meta-llama/Llama-3.1-70B-Instruct,94.0
+Sirsa,Haryana,2023,October,meta-llama/Llama-3.1-70B-Instruct,
+Sirsa,Haryana,2023,November,meta-llama/Llama-3.1-70B-Instruct,434.0
+Sirsa,Haryana,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Sivasagar,Assam,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Sivasagar,Assam,2023,February,meta-llama/Llama-3.1-70B-Instruct,63.0
+Sivasagar,Assam,2023,March,meta-llama/Llama-3.1-70B-Instruct,43.0
+Sivasagar,Assam,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Sivasagar,Assam,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Sivasagar,Assam,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Sivasagar,Assam,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Sivasagar,Assam,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Sivasagar,Assam,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Sivasagar,Assam,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Sivasagar,Assam,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Sivasagar,Assam,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Siwan,Bihar,2023,January,meta-llama/Llama-3.1-70B-Instruct,157.0
+Siwan,Bihar,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Siwan,Bihar,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Siwan,Bihar,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Siwan,Bihar,2023,May,meta-llama/Llama-3.1-70B-Instruct,83.0
+Siwan,Bihar,2023,June,meta-llama/Llama-3.1-70B-Instruct,63.0
+Siwan,Bihar,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Siwan,Bihar,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Siwan,Bihar,2023,September,meta-llama/Llama-3.1-70B-Instruct,114.0
+Siwan,Bihar,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Siwan,Bihar,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Siwan,Bihar,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Solapur,Maharashtra,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Solapur,Maharashtra,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Solapur,Maharashtra,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Solapur,Maharashtra,2023,April,meta-llama/Llama-3.1-70B-Instruct,43.0
+Solapur,Maharashtra,2023,May,meta-llama/Llama-3.1-70B-Instruct,43.0
+Solapur,Maharashtra,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Solapur,Maharashtra,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Solapur,Maharashtra,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Solapur,Maharashtra,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Solapur,Maharashtra,2023,October,meta-llama/Llama-3.1-70B-Instruct,
+Solapur,Maharashtra,2023,November,meta-llama/Llama-3.1-70B-Instruct,114.0
+Solapur,Maharashtra,2023,December,meta-llama/Llama-3.1-70B-Instruct,114.0
+Sonipat,Haryana,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Sonipat,Haryana,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Sonipat,Haryana,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Sonipat,Haryana,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Sonipat,Haryana,2023,May,meta-llama/Llama-3.1-70B-Instruct,83.0
+Sonipat,Haryana,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Sonipat,Haryana,2023,July,meta-llama/Llama-3.1-70B-Instruct,83.0
+Sonipat,Haryana,2023,August,meta-llama/Llama-3.1-70B-Instruct,83.0
+Sonipat,Haryana,2023,September,meta-llama/Llama-3.1-70B-Instruct,114.0
+Sonipat,Haryana,2023,October,meta-llama/Llama-3.1-70B-Instruct,157.0
+Sonipat,Haryana,2023,November,meta-llama/Llama-3.1-70B-Instruct,434.0
+Sonipat,Haryana,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Srinagar,Jammu and Kashmir,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Srinagar,Jammu and Kashmir,2023,February,meta-llama/Llama-3.1-70B-Instruct,51.0
+Srinagar,Jammu and Kashmir,2023,March,meta-llama/Llama-3.1-70B-Instruct,51.0
+Srinagar,Jammu and Kashmir,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Srinagar,Jammu and Kashmir,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Srinagar,Jammu and Kashmir,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Srinagar,Jammu and Kashmir,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Srinagar,Jammu and Kashmir,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Srinagar,Jammu and Kashmir,2023,September,meta-llama/Llama-3.1-70B-Instruct,43.0
+Srinagar,Jammu and Kashmir,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Srinagar,Jammu and Kashmir,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Srinagar,Jammu and Kashmir,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Suakati,Odisha,2023,January,meta-llama/Llama-3.1-70B-Instruct,
+Suakati,Odisha,2023,February,meta-llama/Llama-3.1-70B-Instruct,2.0
+Suakati,Odisha,2023,March,meta-llama/Llama-3.1-70B-Instruct,2.0
+Suakati,Odisha,2023,April,meta-llama/Llama-3.1-70B-Instruct,2.0
+Suakati,Odisha,2023,May,meta-llama/Llama-3.1-70B-Instruct,2.0
+Suakati,Odisha,2023,June,meta-llama/Llama-3.1-70B-Instruct,2.0
+Suakati,Odisha,2023,July,meta-llama/Llama-3.1-70B-Instruct,2.0
+Suakati,Odisha,2023,August,meta-llama/Llama-3.1-70B-Instruct,2.0
+Suakati,Odisha,2023,September,meta-llama/Llama-3.1-70B-Instruct,2.0
+Suakati,Odisha,2023,October,meta-llama/Llama-3.1-70B-Instruct,2.0
+Suakati,Odisha,2023,November,meta-llama/Llama-3.1-70B-Instruct,2.0
+Suakati,Odisha,2023,December,meta-llama/Llama-3.1-70B-Instruct,2.0
+Surat,Gujarat,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Surat,Gujarat,2023,February,meta-llama/Llama-3.1-70B-Instruct,69.0
+Surat,Gujarat,2023,March,meta-llama/Llama-3.1-70B-Instruct,69.0
+Surat,Gujarat,2023,April,meta-llama/Llama-3.1-70B-Instruct,41.0
+Surat,Gujarat,2023,May,meta-llama/Llama-3.1-70B-Instruct,43.0
+Surat,Gujarat,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Surat,Gujarat,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Surat,Gujarat,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Surat,Gujarat,2023,September,meta-llama/Llama-3.1-70B-Instruct,43.0
+Surat,Gujarat,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Surat,Gujarat,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Surat,Gujarat,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Talcher,Odisha,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Talcher,Odisha,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Talcher,Odisha,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Talcher,Odisha,2023,April,meta-llama/Llama-3.1-70B-Instruct,63.0
+Talcher,Odisha,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Talcher,Odisha,2023,June,meta-llama/Llama-3.1-70B-Instruct,63.0
+Talcher,Odisha,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Talcher,Odisha,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Talcher,Odisha,2023,September,meta-llama/Llama-3.1-70B-Instruct,83.0
+Talcher,Odisha,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Talcher,Odisha,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Talcher,Odisha,2023,December,meta-llama/Llama-3.1-70B-Instruct,83.0
+Tensa,Odisha,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Tensa,Odisha,2023,February,meta-llama/Llama-3.1-70B-Instruct,63.0
+Tensa,Odisha,2023,March,meta-llama/Llama-3.1-70B-Instruct,63.0
+Tensa,Odisha,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Tensa,Odisha,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Tensa,Odisha,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Tensa,Odisha,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Tensa,Odisha,2023,August,meta-llama/Llama-3.1-70B-Instruct,2.0
+Tensa,Odisha,2023,September,meta-llama/Llama-3.1-70B-Instruct,2.0
+Tensa,Odisha,2023,October,meta-llama/Llama-3.1-70B-Instruct,2.0
+Tensa,Odisha,2023,November,meta-llama/Llama-3.1-70B-Instruct,2.0
+Tensa,Odisha,2023,December,meta-llama/Llama-3.1-70B-Instruct,2.0
+Thiruvananthapuram,Kerala,2023,January,meta-llama/Llama-3.1-70B-Instruct,23.0
+Thiruvananthapuram,Kerala,2023,February,meta-llama/Llama-3.1-70B-Instruct,23.0
+Thiruvananthapuram,Kerala,2023,March,meta-llama/Llama-3.1-70B-Instruct,23.0
+Thiruvananthapuram,Kerala,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Thiruvananthapuram,Kerala,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Thiruvananthapuram,Kerala,2023,June,meta-llama/Llama-3.1-70B-Instruct,15.0
+Thiruvananthapuram,Kerala,2023,July,meta-llama/Llama-3.1-70B-Instruct,15.0
+Thiruvananthapuram,Kerala,2023,August,meta-llama/Llama-3.1-70B-Instruct,15.0
+Thiruvananthapuram,Kerala,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Thiruvananthapuram,Kerala,2023,October,meta-llama/Llama-3.1-70B-Instruct,23.0
+Thiruvananthapuram,Kerala,2023,November,meta-llama/Llama-3.1-70B-Instruct,23.0
+Thiruvananthapuram,Kerala,2023,December,meta-llama/Llama-3.1-70B-Instruct,23.0
+Thrissur,Kerala,2023,January,meta-llama/Llama-3.1-70B-Instruct,23.0
+Thrissur,Kerala,2023,February,meta-llama/Llama-3.1-70B-Instruct,23.0
+Thrissur,Kerala,2023,March,meta-llama/Llama-3.1-70B-Instruct,23.0
+Thrissur,Kerala,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Thrissur,Kerala,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Thrissur,Kerala,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Thrissur,Kerala,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Thrissur,Kerala,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Thrissur,Kerala,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Thrissur,Kerala,2023,October,meta-llama/Llama-3.1-70B-Instruct,23.0
+Thrissur,Kerala,2023,November,meta-llama/Llama-3.1-70B-Instruct,43.0
+Thrissur,Kerala,2023,December,meta-llama/Llama-3.1-70B-Instruct,23.0
+Tirupati,Andhra Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,43.0
+Tirupati,Andhra Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,23.0
+Tirupati,Andhra Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,23.0
+Tirupati,Andhra Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Tirupati,Andhra Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Tirupati,Andhra Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Tirupati,Andhra Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Tirupati,Andhra Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Tirupati,Andhra Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Tirupati,Andhra Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,23.0
+Tirupati,Andhra Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,43.0
+Tirupati,Andhra Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,23.0
+Tumakuru,Karnataka,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Tumakuru,Karnataka,2023,February,meta-llama/Llama-3.1-70B-Instruct,51.0
+Tumakuru,Karnataka,2023,March,meta-llama/Llama-3.1-70B-Instruct,51.0
+Tumakuru,Karnataka,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Tumakuru,Karnataka,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Tumakuru,Karnataka,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Tumakuru,Karnataka,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Tumakuru,Karnataka,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Tumakuru,Karnataka,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Tumakuru,Karnataka,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Tumakuru,Karnataka,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Tumakuru,Karnataka,2023,December,meta-llama/Llama-3.1-70B-Instruct,43.0
+Tumidih,Chhattisgarh,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Tumidih,Chhattisgarh,2023,February,meta-llama/Llama-3.1-70B-Instruct,63.0
+Tumidih,Chhattisgarh,2023,March,meta-llama/Llama-3.1-70B-Instruct,63.0
+Tumidih,Chhattisgarh,2023,April,meta-llama/Llama-3.1-70B-Instruct,2.0
+Tumidih,Chhattisgarh,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Tumidih,Chhattisgarh,2023,June,meta-llama/Llama-3.1-70B-Instruct,2.0
+Tumidih,Chhattisgarh,2023,July,meta-llama/Llama-3.1-70B-Instruct,2.0
+Tumidih,Chhattisgarh,2023,August,meta-llama/Llama-3.1-70B-Instruct,2.0
+Tumidih,Chhattisgarh,2023,September,meta-llama/Llama-3.1-70B-Instruct,2.0
+Tumidih,Chhattisgarh,2023,October,meta-llama/Llama-3.1-70B-Instruct,2.0
+Tumidih,Chhattisgarh,2023,November,meta-llama/Llama-3.1-70B-Instruct,2.0
+Tumidih,Chhattisgarh,2023,December,meta-llama/Llama-3.1-70B-Instruct,2.0
+Udaipur,Rajasthan,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Udaipur,Rajasthan,2023,February,meta-llama/Llama-3.1-70B-Instruct,51.0
+Udaipur,Rajasthan,2023,March,meta-llama/Llama-3.1-70B-Instruct,69.0
+Udaipur,Rajasthan,2023,April,meta-llama/Llama-3.1-70B-Instruct,51.0
+Udaipur,Rajasthan,2023,May,meta-llama/Llama-3.1-70B-Instruct,51.0
+Udaipur,Rajasthan,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Udaipur,Rajasthan,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Udaipur,Rajasthan,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Udaipur,Rajasthan,2023,September,meta-llama/Llama-3.1-70B-Instruct,43.0
+Udaipur,Rajasthan,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Udaipur,Rajasthan,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Udaipur,Rajasthan,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Ujjain,Madhya Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Ujjain,Madhya Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Ujjain,Madhya Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,98.0
+Ujjain,Madhya Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ujjain,Madhya Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ujjain,Madhya Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ujjain,Madhya Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ujjain,Madhya Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Ujjain,Madhya Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Ujjain,Madhya Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Ujjain,Madhya Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,83.0
+Ujjain,Madhya Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Vapi,Gujarat,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Vapi,Gujarat,2023,February,meta-llama/Llama-3.1-70B-Instruct,69.0
+Vapi,Gujarat,2023,March,meta-llama/Llama-3.1-70B-Instruct,69.0
+Vapi,Gujarat,2023,April,meta-llama/Llama-3.1-70B-Instruct,63.0
+Vapi,Gujarat,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Vapi,Gujarat,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Vapi,Gujarat,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Vapi,Gujarat,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Vapi,Gujarat,2023,September,meta-llama/Llama-3.1-70B-Instruct,43.0
+Vapi,Gujarat,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Vapi,Gujarat,2023,November,meta-llama/Llama-3.1-70B-Instruct,94.0
+Vapi,Gujarat,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Varanasi,Uttar Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,157.0
+Varanasi,Uttar Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Varanasi,Uttar Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Varanasi,Uttar Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Varanasi,Uttar Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,83.0
+Varanasi,Uttar Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,63.0
+Varanasi,Uttar Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Varanasi,Uttar Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Varanasi,Uttar Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,114.0
+Varanasi,Uttar Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Varanasi,Uttar Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,173.0
+Varanasi,Uttar Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Vatva,Gujarat,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Vatva,Gujarat,2023,February,meta-llama/Llama-3.1-70B-Instruct,69.0
+Vatva,Gujarat,2023,March,meta-llama/Llama-3.1-70B-Instruct,69.0
+Vatva,Gujarat,2023,April,meta-llama/Llama-3.1-70B-Instruct,63.0
+Vatva,Gujarat,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Vatva,Gujarat,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Vatva,Gujarat,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Vatva,Gujarat,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Vatva,Gujarat,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Vatva,Gujarat,2023,October,meta-llama/Llama-3.1-70B-Instruct,
+Vatva,Gujarat,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Vatva,Gujarat,2023,December,meta-llama/Llama-3.1-70B-Instruct,63.0
+Vellore,Tamil Nadu,2023,January,meta-llama/Llama-3.1-70B-Instruct,43.0
+Vellore,Tamil Nadu,2023,February,meta-llama/Llama-3.1-70B-Instruct,43.0
+Vellore,Tamil Nadu,2023,March,meta-llama/Llama-3.1-70B-Instruct,43.0
+Vellore,Tamil Nadu,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Vellore,Tamil Nadu,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Vellore,Tamil Nadu,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Vellore,Tamil Nadu,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Vellore,Tamil Nadu,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Vellore,Tamil Nadu,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Vellore,Tamil Nadu,2023,October,meta-llama/Llama-3.1-70B-Instruct,43.0
+Vellore,Tamil Nadu,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Vellore,Tamil Nadu,2023,December,meta-llama/Llama-3.1-70B-Instruct,43.0
+Vijayapura,Karnataka,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Vijayapura,Karnataka,2023,February,meta-llama/Llama-3.1-70B-Instruct,43.0
+Vijayapura,Karnataka,2023,March,meta-llama/Llama-3.1-70B-Instruct,43.0
+Vijayapura,Karnataka,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Vijayapura,Karnataka,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Vijayapura,Karnataka,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Vijayapura,Karnataka,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Vijayapura,Karnataka,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Vijayapura,Karnataka,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Vijayapura,Karnataka,2023,October,meta-llama/Llama-3.1-70B-Instruct,43.0
+Vijayapura,Karnataka,2023,November,meta-llama/Llama-3.1-70B-Instruct,43.0
+Vijayapura,Karnataka,2023,December,meta-llama/Llama-3.1-70B-Instruct,43.0
+Vijayawada,Andhra Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Vijayawada,Andhra Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,43.0
+Vijayawada,Andhra Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,43.0
+Vijayawada,Andhra Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,43.0
+Vijayawada,Andhra Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Vijayawada,Andhra Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Vijayawada,Andhra Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Vijayawada,Andhra Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Vijayawada,Andhra Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,43.0
+Vijayawada,Andhra Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,63.0
+Vijayawada,Andhra Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,63.0
+Vijayawada,Andhra Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,43.0
+Visakhapatnam,Andhra Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,43.0
+Visakhapatnam,Andhra Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,23.0
+Visakhapatnam,Andhra Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,23.0
+Visakhapatnam,Andhra Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Visakhapatnam,Andhra Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Visakhapatnam,Andhra Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Visakhapatnam,Andhra Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Visakhapatnam,Andhra Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Visakhapatnam,Andhra Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,23.0
+Visakhapatnam,Andhra Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,23.0
+Visakhapatnam,Andhra Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,43.0
+Visakhapatnam,Andhra Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,43.0
+Vrindavan,Uttar Pradesh,2023,January,meta-llama/Llama-3.1-70B-Instruct,234.0
+Vrindavan,Uttar Pradesh,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Vrindavan,Uttar Pradesh,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Vrindavan,Uttar Pradesh,2023,April,meta-llama/Llama-3.1-70B-Instruct,114.0
+Vrindavan,Uttar Pradesh,2023,May,meta-llama/Llama-3.1-70B-Instruct,69.0
+Vrindavan,Uttar Pradesh,2023,June,meta-llama/Llama-3.1-70B-Instruct,63.0
+Vrindavan,Uttar Pradesh,2023,July,meta-llama/Llama-3.1-70B-Instruct,63.0
+Vrindavan,Uttar Pradesh,2023,August,meta-llama/Llama-3.1-70B-Instruct,63.0
+Vrindavan,Uttar Pradesh,2023,September,meta-llama/Llama-3.1-70B-Instruct,93.0
+Vrindavan,Uttar Pradesh,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Vrindavan,Uttar Pradesh,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Vrindavan,Uttar Pradesh,2023,December,meta-llama/Llama-3.1-70B-Instruct,157.0
+Yadgir,Karnataka,2023,January,meta-llama/Llama-3.1-70B-Instruct,63.0
+Yadgir,Karnataka,2023,February,meta-llama/Llama-3.1-70B-Instruct,63.0
+Yadgir,Karnataka,2023,March,meta-llama/Llama-3.1-70B-Instruct,41.0
+Yadgir,Karnataka,2023,April,meta-llama/Llama-3.1-70B-Instruct,23.0
+Yadgir,Karnataka,2023,May,meta-llama/Llama-3.1-70B-Instruct,23.0
+Yadgir,Karnataka,2023,June,meta-llama/Llama-3.1-70B-Instruct,23.0
+Yadgir,Karnataka,2023,July,meta-llama/Llama-3.1-70B-Instruct,23.0
+Yadgir,Karnataka,2023,August,meta-llama/Llama-3.1-70B-Instruct,23.0
+Yadgir,Karnataka,2023,September,meta-llama/Llama-3.1-70B-Instruct,
+Yadgir,Karnataka,2023,October,meta-llama/Llama-3.1-70B-Instruct,
+Yadgir,Karnataka,2023,November,meta-llama/Llama-3.1-70B-Instruct,
+Yadgir,Karnataka,2023,December,meta-llama/Llama-3.1-70B-Instruct,43.0
+Yamuna Nagar,Haryana,2023,January,meta-llama/Llama-3.1-70B-Instruct,114.0
+Yamuna Nagar,Haryana,2023,February,meta-llama/Llama-3.1-70B-Instruct,114.0
+Yamuna Nagar,Haryana,2023,March,meta-llama/Llama-3.1-70B-Instruct,114.0
+Yamuna Nagar,Haryana,2023,April,meta-llama/Llama-3.1-70B-Instruct,83.0
+Yamuna Nagar,Haryana,2023,May,meta-llama/Llama-3.1-70B-Instruct,63.0
+Yamuna Nagar,Haryana,2023,June,meta-llama/Llama-3.1-70B-Instruct,43.0
+Yamuna Nagar,Haryana,2023,July,meta-llama/Llama-3.1-70B-Instruct,43.0
+Yamuna Nagar,Haryana,2023,August,meta-llama/Llama-3.1-70B-Instruct,43.0
+Yamuna Nagar,Haryana,2023,September,meta-llama/Llama-3.1-70B-Instruct,63.0
+Yamuna Nagar,Haryana,2023,October,meta-llama/Llama-3.1-70B-Instruct,114.0
+Yamuna Nagar,Haryana,2023,November,meta-llama/Llama-3.1-70B-Instruct,157.0
+Yamuna Nagar,Haryana,2023,December,meta-llama/Llama-3.1-70B-Instruct,98.0
